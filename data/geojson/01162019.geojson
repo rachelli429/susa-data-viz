@@ -1,0 +1,517 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"4:45",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"(MHA-E) VICTIM OF INJURY, 6TH/GILMAN. WILL SEEK OWN MEDICAL.",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267913,37.873481 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"5:19",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"BERKELEY WAY WEST",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255598,37.865345 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"7:30",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"2614 DWIGHT WAY",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"7:56",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"ANNA HEAD ALUMNAE HALL",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"8:25",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"STRUCTURE C",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"8:37",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.866334,37.866334 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"9:03",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/ELLSWORTH",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254451,37.86834 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"9:09",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/COLLEGE",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"9:28",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"(MW-44-E) REPORTS VEHICLE BURGLARY VIA WINDOW SMASH TO HIS RED MAZDA SPEED III, 6VSZ304, UNDERHILL LOT. ",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260038,37.869789 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"10:06",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"CESAR CHAVEZ CENTER",
+    "Synopsis":"(FWA-E) REPORTS VANDALISM VIA CLAY TO WINDOWS, CESAR CHAVEZ ART STUDIO.",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259407,37.869246 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"10:10",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"AMAZON STORE",
+    "Synopsis":"(MW-26-O) REPORTS THEFT OF 2 IPOD TOUCHES, AMAZON STORE. LOSS $200. SUSPECT; BLACK FEMALE ADULT, THIN BUILD, BLUE HOODED SWEATSHIRT, SUNGLASSES, BLUE JEANS, CARRYING GROCERY BAGS.",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261031,37.873722 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"11:27",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"HAVILAND HALL",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260716,37.872794 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"12:59",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"MOFFITT LIBRARY",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260716,37.872794 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"14:34",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"VIOLATION OF PROBATION",
+    "Location":"MLK",
+    "Synopsis":"WHITMORE, HENRY (MB-51-O) ARRESTED FOR PROBATION VIOLATION AND VIOLATION OF A COURT ORDER, MLK TO BPD JAIL. ",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260716,37.872794 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"15:11",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"VIOLATION OF PROBATION",
+    "Location":"MLK",
+    "Synopsis":"THORNTON, GEORGE (MW-65-O) ARRESTED FOR PROBATION VIOLATION AND VIOLATION OF A COURT ORDER, MLK TO SANTA RITA JAIL. ",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261365,37.875231 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"16:33",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"LOWER HEARST PARKING STRUCTURE",
+    "Synopsis":"(MO-41-E) REPORTS THEFT OF BACKPACK AND LAPTOP VIA WINDOW SMASH TO HIS GRAY HONDA CRV, 6TCE507, LOWER HEARST STRUCTURE. LOSS $2025 ",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25959,37.872195 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"17:05",
+    "Category":"FIRE",
+    "Incident Description":"FIRE OF UNKNOWN TYPE",
+    "Location":"DOE LIBRARY",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26321,37.871598 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"17:35",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON -REPORT",
+    "Location":"LIFE SCIENCE ADDITION",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263965,37.870259 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"18:25",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"HAZ MAT FACILITY",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258597,37.870137 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"18:32",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"DRUNK IN PUBLIC",
+    "Location":"BARROWS LANE",
+    "Synopsis":"HENRIQUEZ, ABEL (MH-27-O) ARRESTED FOR DRUNK IN PUBLIC, POSSESSION OF METHAMPHETAMINES, AND POSSESSION OF PARAPHERNALIA, BARROWS LANE TO BPD JAIL. ",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266959,37.871838 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"19:02",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"UNIVERSITY HALL WEST LOT",
+    "Synopsis":"(MHA-E) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HIS BLACK NISSAN SENTRA, UNIVERSITY HALL WEST LOT. ",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262142,37.866238 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"19:59",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"CHANNING ELLSWORTH STRUCTURE",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256109,37.865434 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"20:08",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2600 DWIGHT WAY",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258199,37.870671 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"20:14",
+    "Category":"ROBBERY",
+    "Incident Description":"ROBBERY -REPORT",
+    "Location":"ANTHONY HALL",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"20:37",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"BANWAY",
+    "Synopsis":"(MW-43-O) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HIS BLACK DODGE MINIVAN, BANWAY LOT. LOSS $2510. ",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.302681,37.885254 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"20:57",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"605 OHLONE AVE",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259407,37.869246 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"22:21",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"AMAZON STORE",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"22:36",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"22:48",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"STRUCTURE C",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"23:08",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"DANCE STUDIO",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265765,37.870193 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"23:50",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OXFORD/SCHLESSINGER",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260716,37.872794 ]
+    },
+    "properties": {
+    "Date":"2019-01-16",
+    "Time":"23:58",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"MLK",
+    "Synopsis":"NA",
+    "FIELD9":""
+    }
+  }
+]
+}

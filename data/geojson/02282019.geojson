@@ -1,0 +1,440 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254162,37.86676 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"0:25",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HASTE/COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.329831,37.917272 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"0:41",
+    "Category":"BURGLARY",
+    "Incident Description":"BURGLARY -REPORT",
+    "Location":"RICHMOND FIELD STATION",
+    "Synopsis":"(MH-38-O) REPORTS THEFT OF 1000 POUNDS OF COILED COPPER WIRE, RICHMOND FIELD STATION, LOSS OF $4000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258123,37.868059 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"1:32",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT BY GYPSY`S",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304332,37.884975 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"3:10",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING PEACE -FAMILY",
+    "Location":"485 OHLONE AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.271268,37.872093 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"5:29",
+    "Category":"HEALTH AND SAFETY CODE VIOLATOIN",
+    "Incident Description":"HEALTH AND SAFETY CODE",
+    "Location":"UC BERKELEY EXTENSION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260716,37.872794 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"7:24",
+    "Category":"VANDALISM",
+    "Incident Description":"TAMPERING WITH VEHICLE-REPORT",
+    "Location":"MOFFITT LIBRARY",
+    "Synopsis":"(MW-54-E) TAMPERING OF A UC WHITE COSHMAN GOLF CART, N/S MOFFITT LIBRARY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260176,37.868342 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"7:53",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2456 BANCROFT WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.245959,37.862567 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"8:37",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DERBY/BELROSE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26053,37.868756 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"9:46",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"LOWER SPROUL GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"9:58",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE -REPORT",
+    "Location":"UCPD",
+    "Synopsis":"SUSPICIOUS CIRCUMSTANCE REGARDING HOTEL BOOKINGS, UCPD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257109,37.87315 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"10:39",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"CAMPBELL HALL",
+    "Synopsis":"(FW-66-E) REPORTS THEFT VIA FRAUDLENT EMAIL REGARDING I TUNES GIFT CARDS, CAMPBELL HALL, LOSS $500 ITUNES GIFTCARD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.298512,37.88348 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"10:48",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"UVA BASEBALL FIELD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"11:09",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"11:38",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"UCPD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259727,37.873652 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"13:00",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"EAST ASIAN LIBRARY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259992,37.867506 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"13:59",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"PROWLING/PRIV PROP",
+    "Location":"UNIT-3 SPENS/BLACK",
+    "Synopsis":"WILLIAMS, EDWARD (MB-40-O) ARRESTED FOR PROWLING, TRESPASSING AND EXCLUDED FROM CAMPUS FOR 7 DAYS, UNIT 3-SPENSBLACK. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"15:05",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"I HOUSE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"15:21",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE -REPORT",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"16:00",
+    "Category":"ROBBERY",
+    "Incident Description":"ROBBERY - ATTEMPT",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"DOHERTY, COLIN J (MW-29-O) ARRESTED FOR STRONG ARM ROBBERY ATTEMPT, UPPER SPROUL PLAZA. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260466,37.868748 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"16:37",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"BEARS LAIR",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"18:23",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267913,37.873481 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"20:22",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BERKELEY WAY WEST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301123,37.88548 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"20:22",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"UNIVERSITY VILLAGE ALBANY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.866334,37.866334 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"21:34",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/ELLSWORTH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265413,37.866692 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"21:52",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING IFO M MART",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267762,37.866494 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"22:15",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/SHATTUCK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267762,37.866494 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"22:19",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/SHATTUCK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26108,37.866631 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"22:21",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255238,37.866303 ]
+    },
+    "properties": {
+    "Date":"2019-02-28",
+    "Time":"23:25",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"UNIT-2 CUNNINGHAM",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

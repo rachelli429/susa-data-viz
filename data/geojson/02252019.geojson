@@ -1,0 +1,350 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254963,37.868137 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"1:50",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"UNIT-1",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257161,37.875733 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"2:23",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"UPPER HEARST STRUCTURE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263986,37.871515 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"2:26",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"EUCALYPTUS GROVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264364,37.870817 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"2:38",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"GRINNELL PATH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265141,37.867879 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"7:26",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"AQUATIC CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263006,37.864554 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"8:00",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"DWIGHT/ELLSWORTH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259547,37.863749 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"8:19",
+    "Category":"MOTOR VEHICLE THEFT",
+    "Incident Description":"VEHICLE THEFT -REPORT",
+    "Location":"CHILTON ALLEY",
+    "Synopsis":"WHITE 2015 HONDA MOTORCYCLE LIC 22V0891 RECOVERED STOLEN VEHICLE OUT OF BERKELEY PD, CHILTON ALLEY, M&A TOW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255159,37.873114 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"8:25",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"LEWIS HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.302232,37.87323 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"8:27",
+    "Category":"FORGERY AND COUNTERFEITING",
+    "Incident Description":"FRAUDULENT USE OF CREDIT CARD",
+    "Location":"SHARED SERVICES",
+    "Synopsis":"(FX-56-E) REPORTS THE FRAUDULENT USE OF UC BLU CARD, CAMPUS SHARED SERVICES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26321,37.871598 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"9:00",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"LIFE SCIENCE ADDITION",
+    "Synopsis":"(FWA-E) REPORTS GRAFFITI TO LSA SOUTHSIDE ELEVATOR DOOR, SUSPECTS ARE 3 HIGH SCHOOL AGE MALES, LIFE SCIENCE ADDITION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301123,37.88548 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"9:23",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"UNIVERSITY VILLAGE ALBANY",
+    "Synopsis":"REPORT OF TRESPASSING SUSPECT (MH-66-O), UVA BASEBALL DUGOUT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"10:08",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"STRUCTURE C",
+    "Synopsis":"(MW-39-0) LOCATED MISSING PERSON OUT OF DEL NORTE COUNTY SO, STRUCTURE C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"12:41",
+    "Category":"HEALTH AND SAFETY CODE VIOLATOIN",
+    "Incident Description":"HEALTH AND SAFETY CODE",
+    "Location":"STRUCTURE C",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"12:53",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"I HOUSE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"14:40",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"FALSE INFO TO POLICE OFFICER",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"(FW-41-O) WARRANT TO BE SOUGHT FOR GIVING FALSE INFO TO A POLICE OFFICER, PROBATION VIOLATION, AND VIOLATION OF A COURT ORDER, UNDERHILL LOT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"14:51",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"MLK",
+    "Synopsis":"(MW-27-O) EXCLUDED FROM CAMPUS FOR 7 DAYS, MLK."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260716,37.872794 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"15:35",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"MOFFITT LIBRARY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259216,37.875412 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"17:53",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"GRAND THEFT -REPORT",
+    "Location":"ETCHEVERRY HALL",
+    "Synopsis":"(MW-A-E) REPORTS GRAND THEFT VIA FRAUD, ETCHEVERRY HALL. LOSS $3750."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"18:22",
+    "Category":"PENAL CODE VIOLATION",
+    "Incident Description":"PENAL CODE VIOLATION",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"TION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260388,37.868757 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"20:21",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"ESHLEMAN HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261365,37.875231 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"21:38",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"LOWER HEARST PARKING STRUCTURE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304478,37.884029 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"21:46",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"425 LIBERTYSHIP WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-02-25",
+    "Time":"22:14",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"STRUCTURE C",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

@@ -1,0 +1,365 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"0:02",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING PEACE-ENERTAINMENT",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253893,37.869768 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"0:18",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY -REPORT",
+    "Location":"BOALT HALL",
+    "Synopsis":"(MH-29-E) REPORTS BATTERY VIA GRAB, BOALT HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252844,37.858007 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"2:07",
+    "Category":"DRIVING UNDER THE INFLUENCE",
+    "Incident Description":"DRIVING W/BAC MORE THAN 0.08%",
+    "Location":"2917 COLLEGE",
+    "Synopsis":"HAZARABEDIAN, CALLIE (FO-23-O) ARRESTED FOR DRUNK DRIVING AND DRUNK DRIVING WITH BAC OVER 0.08%, 2917 COLLEGE TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260331,37.867138 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"2:17",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - REAL PROP OR STRUCTURE W/OUT OWNER CONSENT",
+    "Location":"UNIT-3",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"4:16",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.250025,37.876048 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"8:58",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"LAWRENCE BERKELEY NATIONAL LAB",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255825,37.8698 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"9:03",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"STRUCTURE B",
+    "Synopsis":"(MW-52-O) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HIS BLACK TOYOTA COROLLA, BANCROFT STRUCTURE. NO LOSS."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255324,37.865827 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"9:25",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"UNIT-2 EHRMAN",
+    "Synopsis":"WELFARE CHECK, UNIT 2-EHRMAN HALL. PROVED OKAY. (FB-18-S)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255825,37.8698 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"9:51",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"STRUCTURE B",
+    "Synopsis":"(MW-50-O) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HIS WHITE 2019 JEEP, BANCROFT STRUCTURE. TOTAL LOSS OF $66.00. TAKEN: DUFFEL BAG AND MISCELLENOUS ITEMS."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261031,37.873722 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"10:03",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"HAVILAND HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265027,37.871785 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"12:00",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"WEST CRESCENT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"13:24",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"EBB",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"14:37",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"I HOUSE LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256159,37.867052 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"15:09",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"CROSSROADS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25902,37.874416 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"15:20",
+    "Category":"FIRE",
+    "Incident Description":"FIRE OF UNKNOWN TYPE",
+    "Location":"OBRIEN HALL",
+    "Synopsis":"FIRE, 3RD FLOOR OBRIEN HALL. BFD RESPONDED. UC FIRE MARSHALL NOTIFIED"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"15:28",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"ANNA HEAD ALUMNAE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"16:17",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"(MH-24-S) REPORTS THE THE THEFT OF HIS DRIVER LICENSE, CREDIT CARD AND $40.00 CASH, DWINELLE HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260331,37.867138 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"17:23",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"UNIT-3",
+    "Synopsis":"(MH-47-E) REPORTS SUBJECT DISTURBING THE PEACE, UNIT-3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257606,37.866781 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"17:41",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"MAX MARTINEZ",
+    "Synopsis":"(FA-19-S) CONTACTED FOR A WELFARE CHECK AND REFERRED TO TANG CENTER CPS, MAX MARTINEZ."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.302156,37.883643 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"20:38",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"715 KINKEAD WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25898,37.866794 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"21:03",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 CHANNING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263522,37.872323 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"21:58",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"WEST CIRCLE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258783,37.866918 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"22:28",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2500 CHANNING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-03-01",
+    "Time":"22:53",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"REC SPRT FAC",
+    "Synopsis":"NA"
+    }
+  }
+]
+}
