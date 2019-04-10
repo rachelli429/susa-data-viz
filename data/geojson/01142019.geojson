@@ -1,0 +1,305 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.305107,37.884965 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"1:33",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -ATTEMPT",
+    "Location":"335 OHLONE AVE",
+    "Synopsis":"(FA-33-O) REPORTS ATTEMPTED THEFT OF HER CATALYTIC CONVERTER ON HER RED 2006 HONDA ELEMENT, 7TVB326, 335 OHLONE AVE. SUSPECTS: MALE UNK RACE, 508, STOCKY BUILD, BLK HOODIE. RESPONSIBLE VEHICLE: DRK COLORED FORD EXPLORER."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266302,37.868877 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"2:45",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"Kittredge/Oxford",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260716,37.872794 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"7:26",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"MISD. HIT & RUN -REPORT",
+    "Location":"MOFFITT LIBRARY",
+    "Synopsis":"(MH-27-E) VICTIM OF HIT & RUN, N/S MOFFITT LIBRARY SUSPECT: MB DRIVER. VEHICLE: RED/WHITE CAMERO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261161,37.86849 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"8:06",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 BANCROFT WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"8:19",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259727,37.873652 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"8:44",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"EAST ASIAN LIBRARY",
+    "Synopsis":"(MW-50-E) REPORTS THE THEFT OF A DAVIS INSTRUMENTS VANTAGE PRO 2 WEATHER STATION PANEL, S/E EAST ASIAN LIBRARY. LOSS OF $450.00."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"8:48",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"RESISTING ARREST",
+    "Location":"ENERGY BIOSCIENCES INSTITUTE",
+    "Synopsis":"MALIK, LUQMAN (MB-33-O) ARRESTED FOR RESISTING ARREST AND BICYCLE THEFT, EBI. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26321,37.871598 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"9:35",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"LIFE SCIENCEADDITION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260585,37.86938 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"11:35",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"ZELLERBACH HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256304,37.866521 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"13:35",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"2420 BOWDITCH ST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259685,37.86946 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"15:13",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"ASUC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"15:37",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"ENERGY BIOSCIENCES INSTITUTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"15:44",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"BANWAY",
+    "Synopsis":"TWO SUBJECTS CONTACTED FOR SUSPECTED PROWLING, BANWAY LOT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"19:33",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"CAMPUS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"19:47",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255144,37.874934 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"19:55",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"STERN HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260604,37.866663 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"20:37",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"2415 CHANNING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266711,37.871383 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"21:15",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"BAMPFA LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"21:24",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"BANWAY",
+    "Synopsis":"(MA-31-O) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HIS WHITE MERCEDES C300, 7MXJ769, BANWAY LOT, TAKEN: 2 LAPTOPS."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-14",
+    "Time":"23:13",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

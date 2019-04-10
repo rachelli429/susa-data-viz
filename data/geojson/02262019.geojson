@@ -1,0 +1,290 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260876,37.867388 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"0:07",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"UNIT-3 NORTON",
+    "Synopsis":"(FA-19-S) WELFARE CHECK, PROVED OK, UNIT-3 NORTON."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264683,37.873486 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"6:12",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"GPB GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"9:20",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26321,37.871598 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"9:20",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"LIFE SCIENCE ADDITION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256306,37.874419 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"9:39",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"DONNER LAB",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248877,37.864216 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"10:47",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY -REPORT",
+    "Location":"CKC-1",
+    "Synopsis":"(FB-20-S) REPORTS BATTERY VIA BODY CHECK, SUSPECT (BF-23-S), CKC BUILDING 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"11:12",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"REC SPRT FAC",
+    "Synopsis":"(FW-20-S) REPORTS THE THEFT OF HER CAL ID CARD, RSF LOCKER ROOM. LOSS $25."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"14:02",
+    "Category":"DEMONSTRATION",
+    "Incident Description":"DEMONSTRATION STANDBY",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259746,37.865751 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"14:48",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"CRIMINAL THREATS",
+    "Location":"ROCHDALE VILLAGE",
+    "Synopsis":"(FXA-S) VICTIM OF CRIMINAL THREATS, ROCHDALE VILLAGE. SUSPECT: MUNIZ, CHRISTOPHER (MX-28-O)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"17:23",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253893,37.869768 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"18:24",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -BIKE REPORT",
+    "Location":"BOALT HALL",
+    "Synopsis":"(MO-25-S) REPORTS THEFT OF HIS WHITE 6KU SINGLE SPEED BICYCLE, BOALT HALL. LOSS $250."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257853,37.873688 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"18:27",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -BIKE REPORT",
+    "Location":"EVANS HALL",
+    "Synopsis":"(FA-A-S) REPORTS THEFT OF HER WHITE ELECTRIC ANCHEER BIKE, EVANS HALL. LOSS $400."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"18:37",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.24836,37.862759 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"19:01",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"CKC-17",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"21:21",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248801,37.864256 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"22:06",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"CLARK KERR CAMPUS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266196,37.873367 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"22:33",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BERKELEY/OXFORD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26053,37.868756 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"23:09",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"LOWER SPROUL GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253893,37.869768 ]
+    },
+    "properties": {
+    "Date":"2019-02-26",
+    "Time":"23:55",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"BOALT HALL",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

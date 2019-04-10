@@ -1,0 +1,530 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259184,37.868706 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"0:05",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"0:10",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"ANNA HEAD ALUMNAE HALL",
+    "Synopsis":"VANDALISM VIA BLK, BLUE, WHIT SPRAYPAINT, ANNA HEAD."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256707,37.87158 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"0:29",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266302,37.868877 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"0:33",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"KITTREDGE/OXFORD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258712,37.867806 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"0:55",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256707,37.87158 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"1:10",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"1:14",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"1:22",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ASUC",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"4:04",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"6:55",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"REC SPRT FAC",
+    "Synopsis":"(FW-63-E) REPORTS A DISTURBANCE, RSF. SUSPECT: (MW-55-O)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255676,37.867359 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"8:15",
+    "Category":"FORGERY AND COUNTERFEITING",
+    "Incident Description":"FRAUDULENT USE OF CREDIT CARD",
+    "Location":"2610 CHANNING WAY",
+    "Synopsis":"(FA-41-E) REPORTS FRAUDULENT USE TO HER UC BLU CARD, 2610 CHANNING WAY. NO LOSS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"8:29",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260261,37.866724 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"8:34",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"IFO UNIT 3 CHANNING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259586,37.874218 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"8:37",
+    "Category":"FORGERY AND COUNTERFEITING",
+    "Incident Description":"FRAUDULENT USE OF CREDIT CARD",
+    "Location":"MCCONE HALL",
+    "Synopsis":"(MW-39-E) REPORTS FRAUDULENT USE TO HIS UC BLU CARD, MCCONE HALL. LOSS OF $147.83."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253767,37.871571 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"9:52",
+    "Category":"MUTUAL AID SERVICE",
+    "Incident Description":"CIVIL DISTURBANCE MUTUAL AID STANDBY",
+    "Location":"HAAS BUSINESS SCHOOL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258803,37.869647 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"11:21",
+    "Category":"MUTUAL AID SERVICE",
+    "Incident Description":"CIVIL DISTURBANCE MUTUAL AID STANDBY",
+    "Location":"SPROUL HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264292,37.867705 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"11:50",
+    "Category":"BURGLARY",
+    "Incident Description":"BURGLARY -REPORT",
+    "Location":"TANG CENTER",
+    "Synopsis":"(FA-63-E) REPORTS BURGLARY, 2100 TANG CENTER. TAKEN: BLACK WINTER COAT, LOSS OF $140.00. SUSPECT: FW, 40, BROWN HAIR PULLED INTO A BUN, GREEN JACKET WITH BLACK SLEEVES WITH GRAY HOODY SWEATER UNDERNEATH, GRAY STRETCHED LEGGINGS, PINK SOCKS. DOF: E/B DURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"11:54",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"ASUC",
+    "Synopsis":"(MO-19-S) REPORTS THE THEFT OF HIS HEADPHONES, ASUC. LOSS OF $30.00."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"12:08",
+    "Category":"DEMONSTRATION",
+    "Incident Description":"DEMONSTRATION STANDBY",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"12:59",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259184,37.868706 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"13:44",
+    "Category":"TRAFFIC",
+    "Incident Description":"ACCIDENT / NO INJURIES",
+    "Location":"BANCROFT/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.24714,37.865051 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"15:05",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"MISD. HIT & RUN -REPORT",
+    "Location":"CKC-25",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.303058,37.885615 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"15:41",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -BIKE REPORT",
+    "Location":"UVA-111",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"16:11",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"17:31",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"BANWAY LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254627,37.867617 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"17:35",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"UNIT-1 PUTNAM",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260038,37.869789 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"18:00",
+    "Category":"DRUG VIOLATIONS",
+    "Incident Description":"POSSESSION OF NARCOTICS",
+    "Location":"CESAR CHAVEZ CENTER",
+    "Synopsis":"RAINEY, ANTHONY (MB-43-O) ARRESTED FOR POSSESSION OF NARCOTICS, POSSESSION OF PARAPHERNALIA, POSSESSION OF BURGLARY TOOLS, VIOLATION OF A COURT ORDER, AND PROBATION VIOLATION, CESAR CHAVEZ TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.302681,37.885254 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"19:28",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"605 OHLONE AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256517,37.865358 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"19:32",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/HILLEGAS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.300168,37.884408 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"19:49",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"GRAND THEFT -REPORT",
+    "Location":"1070 JACKSON ST",
+    "Synopsis":"(MH-35-O) REPORTS THE THEFT OF TWO WATCHES, 1070 JACKSON ST. LOSS: $3850."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256707,37.87158 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"19:58",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256707,37.87158 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"21:43",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - REAL PROP OR STRUCTURE W/OUT OWNER CONSENT",
+    "Location":"DOE LIBRARY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.249576,37.866004 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"23:22",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/PROSPECT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258712,37.867806 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"23:45",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-03-07",
+    "Time":"23:51",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

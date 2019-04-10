@@ -1,0 +1,470 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261161,37.86849 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"0:02",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 BANCROFT WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265864,37.869661 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"0:35",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"ALLSTON/FULTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266153,37.868739 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"1:17",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"KITTRIDGE/FULTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.249005,37.863267 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"1:51",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"CKC-12",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260869,37.86697 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"2:25",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON - REPORT",
+    "Location":"UNIT-3 IDA SPROUL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248801,37.864256 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"2:53",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"CLARK KERR CAMPUS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265877,37.872775 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"8:18",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"UNIVERSITY/OXFORD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"8:51",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - FAIL TO LEAVE",
+    "Location":"ASUC",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260437,37.868351 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"9:40",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"IFO 2440 BANC DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.271724,37.870482 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"11:06",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"1950 ADDISON ST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2578,37.872075 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"11:42",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"SATHER TOWER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"12:14",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TAMPER WITH FIRE ALARM",
+    "Location":"MLK",
+    "Synopsis":"MALICIOUS PULL OF FIRE ALARM, MLK. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"12:48",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.268446,37.873017 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"13:17",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"SHATTUCK/BERKELEY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265877,37.872775 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"13:24",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"UNIVERSITY/OXFORD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"15:35",
+    "Category":"PENAL CODE VIOLATION",
+    "Incident Description":"PENAL CODE VIOLATION",
+    "Location":"UCPD",
+    "Synopsis":"(MO-18-O) VICTIM OF THEFT BY FALSE PRETENSES, UCPD. LOSS $2500. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26053,37.868756 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"16:36",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"LOWER SPROUL GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.235922,37.870095 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"16:47",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"UPPER FIRE TRAIL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"17:09",
+    "Category":"MISSING PERSON",
+    "Incident Description":"MISSING PERSON - RECOVERED",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264683,37.873486 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"17:24",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"GPB GARAGE",
+    "Synopsis":"(FW-43-E) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HER REAR DRIVER SIDE, GPB GARAGE, NO TAKE. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260869,37.86697 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"17:28",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"UNIT-3 IDA SPROUL",
+    "Synopsis":"(MW-18-S) REPORTS GRAND THEFT OF CASH, UNIT-3 IDA SPROUL RM 514. LOSS $1000. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259216,37.875412 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"18:14",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"ETCHEVERRY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"19:11",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257988,37.870034 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"19:24",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"BARROWS HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263522,37.872323 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"19:32",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"WEST CIRCLE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252308,37.8696 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"20:40",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/GAYLEY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.30153,37.88327 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"22:07",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"WARRANT AREST",
+    "Location":"786 RED OAK",
+    "Synopsis":"BATEMAN, JAYDEN (MW-22-O) ARRESTED ON AN ACSO WARRANT, POSSESSION OF PARAPHERNALIA, AND PROBATION VIOLATION, 786 RED OAK AVE. TO BPD JAIL. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260585,37.86938 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"22:19",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"ZELLERBACH HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255791,37.871791 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"22:36",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"GRAND THEFT -BIKE REPORT",
+    "Location":"MENS FACULTY CLUB",
+    "Synopsis":"(MH-22-E) REPORTS GRAND THEFT OF HIS SCOTT BLK/WHITE MOUNTAIN BICYCLE, VALUE: $2500, MENS FACULTY CLUB "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25046,37.865957 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"23:02",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/WARRING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259216,37.875412 ]
+    },
+    "properties": {
+    "Date":"2019-01-19",
+    "Time":"23:52",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -BIKE REPORT",
+    "Location":"ETCHEVERRY HALL",
+    "Synopsis":"(MW-22-S) REPORTS THEFT OF HIS BRUSHED ALUMNINUM CUSTOM MADE ROAD BIKE, ETCHEVERRY HALL. LOSS OF $300 "
+    }
+  }
+]
+}

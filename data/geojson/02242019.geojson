@@ -1,0 +1,425 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.238693,37.875249 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"1:01",
+    "Category":"TRAFFIC",
+    "Incident Description":"ACCIDENT / MINOR INJURIES",
+    "Location":"BOTANICAL GARDENS",
+    "Synopsis":"(FW-16-O) AND (MH-15-O) VICTIMS OF INJURY, CENTENNIAL DRIVE 1046 FEET SOUTH OF MCMILLEN. BFD RESPONDED, TRANSPORTED TO ABH."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25069,37.871133 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"1:48",
+    "Category":"MOTOR VEHICLE THEFT",
+    "Incident Description":"VEHICLE THEFT -REPORT",
+    "Location":"MEMORIAL STADIUM",
+    "Synopsis":"STOLEN RECOVERED BLUE CUSHMAN GOLF CART, MEMORIAL STADIUM. LOSS $9000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256845,37.87552 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"2:02",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HEARST/GAYLEY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267913,37.873481 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"2:06",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"BERKELEY WAY WEST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260878,37.867763 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"2:32",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"BLACKWELL HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.300192,37.883299 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"2:38",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"JACKSON/8TH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25484,37.86623 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"2:59",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"UNIT-2",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259395,37.873187 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"3:44",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"MEMORIAL GLADE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264364,37.870817 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"9:28",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"GRINNELL PATH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.293001,37.871685 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"10:17",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DELEWARE/SAN PABLO",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255159,37.865551 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"11:10",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/BENVENUE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248801,37.864256 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"12:07",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"CLARK KERR CAMPUS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258337,37.868846 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"12:38",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT BARROWS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259184,37.868706 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"14:41",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT W TELE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26108,37.866631 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"16:41",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260876,37.867388 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"16:43",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - REAL PROP OR STRUCTURE W/OUT OWNER CONSENT",
+    "Location":"UNIT-3 NORTON",
+    "Synopsis":"CHOWCASTILLO, EDDIE (MO-25-O) ARRESTED FOR TRESPASSING, AND ISSUED A 7 DAY STAY AWAY ORDER FROM UC PROPERTY, UNIT 3 NORTON. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.30153,37.88327 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"16:45",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"786 RED OAK AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265027,37.871785 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"17:22",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"WEST CRESCENT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"17:26",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ENERGY BIOSCIENCES INSTITUTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254812,37.866233 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"17:41",
+    "Category":"CALIFORNIA CODE OF REGULATIONS VIOLATIONS",
+    "Incident Description":"CALIFORNIA CODE OF REGULATIONS",
+    "Location":"UNIT-2 TOWLE",
+    "Synopsis":"(FW-22-S) REPORTS HARRASSING AND UNWANTED CONTACT FROM A STUDENT. SUSPECT: MW-LATE 20S-THIN BUILD-LIGHT BROWN HAIR-5 FOOT 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"18:00",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254698,37.871441 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"18:22",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"MINOR HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304699,37.883714 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"19:24",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"UVA-165",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"20:45",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"STRUCTURE C",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"20:48",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"STRUCTURE C",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252272,37.868682 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"21:30",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/PIEDMONT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.247597,37.880749 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"21:47",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"LHS VISTA LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255159,37.865551 ]
+    },
+    "properties": {
+    "Date":"2019-02-24",
+    "Time":"22:12",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/BENVENUE",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

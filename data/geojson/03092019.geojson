@@ -1,0 +1,290 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.247597,37.880749 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"0:00",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"LHS VISTA LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304376,37.88463 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"1:14",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"400 OHLONE AVE",
+    "Synopsis":"GREY MAZDA 3 TOWED FOR PARKING IN A POSTED TOW AWAY ZONE TO EAST BAY TOW, 400 OHLONE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"5:10",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258605,37.864518 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"11:07",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"11:14",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"IFO REC SPRT FAC",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257499,37.865477 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"11:37",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"S/W PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"11:54",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"BANWAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"11:58",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"12:08",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"KITTREDGE/OXFORD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252564,37.872324 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"13:05",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY",
+    "Location":"MAXWELL FIELD",
+    "Synopsis":"(MW-30-O) REPORTS AUTO BURG VIA UNK TOOL TO HIS WHITE 2009 ACURA MDX 6FDU339, MAXWELL FIELD, LOSS $50."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"13:07",
+    "Category":"MISSING PERSON",
+    "Incident Description":"MISSING PERSON",
+    "Location":"UCPD",
+    "Synopsis":"(FB-18-O) REPORTED AS A MISSING PERSON, UCPD."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259685,37.86946 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"13:37",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"ASUC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.298188,37.886249 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"14:31",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"GILL TRACT",
+    "Synopsis":"(MW-47-O) CONTACTED FOR A RULES VIOLATION AND ISSUED A 7 DAY STAY AWAY ORDER FROM ALL UC PROPERTY, GILL TRACT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259156,37.868432 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"15:04",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"WALGREENS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304169,37.883142 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"15:52",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"RED OAK/LIBERTY SHIP",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"16:49",
+    "Category":"DRUG VIOLATIONS",
+    "Incident Description":"POSS OF PARAPHERNALIA",
+    "Location":"2111 BANCROFT WAY",
+    "Synopsis":"MCKNEELY, JEROME (MB-32-O) CITED AND RELEASED FOR POSSESION OF DRUG PARAPHERNALIA AND SUSPECTED POSSESION OF METHAMPHETAMINES, 2111 BANCROFT WAY."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301123,37.88548 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"16:55",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE -REPORT",
+    "Location":"UNIVERSITY VILLAGE ALBANY",
+    "Synopsis":"(MHA-E) REPORTS HATE INCIDENT VIA PINK CHALK, UVA BASKETBALL COURTS. RSSP NOTIFIED"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264484,37.872675 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"20:42",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"MULFORD HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259992,37.867506 ]
+    },
+    "properties": {
+    "Date":"2019-03-09",
+    "Time":"22:42",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"UNIT-3 SPENS/BLACK",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

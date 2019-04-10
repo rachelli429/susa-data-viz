@@ -1,0 +1,350 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256486,37.867231 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"1:01",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"CHANNING/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267504,37.865807 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"1:34",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"CHANNING/SHATTUCK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254253,37.867498 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"1:44",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256604,37.871387 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"1:57",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"FACULTY GLADE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26471,37.873456 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"2:16",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"GENETICS & PLANT BIOLOGY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.305329,37.884621 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"2:20",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"OHLONE/WEST END",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"4:48",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"7:51",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264091,37.86817 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"9:51",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/ELLSWORTH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254698,37.870815 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"11:04",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"WURSTER HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301334,37.88388 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"11:26",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - REAL PROP OR STRUCTURE W/OUT OWNER CONSENT",
+    "Location":"MONROE/RED OAK",
+    "Synopsis":"ROADLANDER, ORVEL (MW-31-O) ARRESTED FOR TRESPASSING, MONROE/RED OAK-UVA. CITED AND RELEASED AT SCENE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301123,37.88548 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"12:12",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNIVERSITY VILLAGE ALBANY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255693,37.872548 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"13:31",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - REAL PROP OR STRUCTURE W/OUT OWNER CONSENT",
+    "Location":"HILDEBRAND HALL",
+    "Synopsis":"ELLIS, ANTHONY (MW-52-O) ARRESTED FOR TRESPASSING AND ISSUED 7 DAY STAY AWAY ORDER FROM ALL UC PROPERTY, HILDEBRAND HALL TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25065,37.867968 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"14:37",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DRIVING ON SUSPENDED LICENSE",
+    "Location":"CHANNING/WARRING",
+    "Synopsis":"DRAKE, DANIEL (MW-37-O) CITED FOR DRIVING WITH A SUSPENDED LICENSE, CHANNING/WARRING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.235893,37.870005 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"17:51",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"UPPER FIRE TRAIL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258093,37.871017 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"17:59",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":" EXCLUSION FROM CAMPUS",
+    "Location":"MOSES HALL",
+    "Synopsis":"(MH-36-O) ISSUED A 7 DAY STAY AWAY FOR UNWANTED CONTACT TO A UC EMPLOYEE, MOSES HALL. EMERGENCY PROTECTIVE ORDER SERVED."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264206,37.873315 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"18:09",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"MORGAN HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260338,37.867203 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"20:08",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF",
+    "Location":"UNIT-3 DINING",
+    "Synopsis":"(MO-20-S) REPORTS VANDALISM TO WINDOW VIA PUNCH, UNIT-3 DINING. SUSPECT: MALE, INDIAN, 18, 5'11, THIN, BLACK CURLY HAIR, WEARING GLASSES, PURPLE SWEATER, KHAKI PANTS, BLACK BACKPACK. LAST SEEN WALKING WESTBOUND FROM UNIT-3 DINING."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"20:23",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"PROWLING/PRIV PROP",
+    "Location":"BANWAY",
+    "Synopsis":"SNEED, MALCOLM (MB-22-O) ARRESTED FOR PROWLING, POSSESSION OF STOLEN PROPERTY AND VIOLATION OF PROBATION, BANWAY. TOT BPD JAIL. PROPERTY FROM CASE 19-00599 RECOVERED."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266959,37.871838 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"20:47",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"UNIVERSITY HALL WEST LOT",
+    "Synopsis":"(FW-47-O) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HER BLUE 2008 ACURA MDX SFFD99, UNIVERSITY HALL WEST LOT. LOSS AND RECOVERED: $3645."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258093,37.871017 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"21:32",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"MOSES HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"21:58",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - REAL PROP OR STRUCTURE W/OUT OWNER CONSENT",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.303039,37.883207 ]
+    },
+    "properties": {
+    "Date":"2019-03-04",
+    "Time":"22:57",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"505 RED OAK AVE",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

@@ -1,0 +1,500 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"0:17",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ANNA HEAD ALUMNAE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267838,37.86763 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"0:47",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/SHATTUCK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258712,37.867806 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"3:20",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DRIVING ON SUSPENDED LICENSE",
+    "Location":"DURANT TELE",
+    "Synopsis":"HEMMINGWAY, TANEKA (FB-25-O) CITED FOR DRIVING ON A SUSPENDED LICENSE, DURANT AND TELEGRAPH."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252501,37.876697 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"7:37",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"LBNL 50B",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"8:10",
+    "Category":"VANDALISM",
+    "Incident Description":"TAMPERING WITH VEHICLE-REPORT",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":"(MW-32-E) REPORTS VEHICLE TAMPERING TO ORANGE PONTIAC VIBE, RSF GARAGE. SUSPECT: MW, MID 30`S, APOX 5`5`, TEAL BEANIE, BLUE BACKPACK, GREEN PANTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260585,37.86938 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"8:46",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"ZELLERBACH HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253736,37.871042 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"9:29",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"CALVIN LAB",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.302232,37.87323 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"11:13",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"SHARED SERVICES",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254162,37.86676 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"11:40",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HASTE/COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25421,37.865874 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"12:32",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"UNIT-2 GRIFFITH",
+    "Synopsis":"(FA-18-S) REPORTS THE THEFT OF HER PURSE AND CONTENTS, UNIT 2-GRIFFITH. TOTAL LOSS OF $537.00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260545,37.874931 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"13:09",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"NORTH GATE",
+    "Synopsis":"(FWA-E) REPORTS HATE INCIDENT, NORTH GATE. SUSPECT: MALE PACIFIC ISLANDER, DARK COMPLEXION, LATE 20`S -EARLY 30`S , LONG BROWN HAIR PASSED SHOULDERS, LONG WHITE TYE DYE PRINTER WITH BLUE DOTS, LT COLOR JEANS."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"13:46",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"13:59",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"REC SPRT FAC",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258157,37.869482 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"15:59",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"CRIMINAL THREATS",
+    "Location":"HEARST FIELD ANNEX",
+    "Synopsis":"(MOA-E) REPORTS CRIMINAL THREATS VIA EMAIL, HEARST FIELD ANNEX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255095,37.869899 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"16:02",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"KROEBER PLAZA",
+    "Synopsis":"SUSPECT: MALE LT COMPLEXION, EARLY 30`S, 507 180 BROWN HAIR, GRAY FLEECE JACKET, BLUE JEANS, WHITE SHOES, BLACK SATCHEL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.241783,37.872469 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"18:04",
+    "Category":"VANDALISM",
+    "Incident Description":"TAMPERING WITH VEHICLE-REPORT",
+    "Location":"COFFER DAM",
+    "Synopsis":"(MW-34-E) REPORTS VANDALISM TO HIS VEHICLE VIA TIRE PUNCTURE, COFFER DAM LOT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260716,37.872794 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"18:13",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"MOFFITT LIBRARY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261796,37.868553 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"19:23",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26108,37.866631 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"19:38",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25898,37.866794 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"19:51",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DRIVING ON SUSPENDED LICENSE",
+    "Location":"2400 CHANNING WAY",
+    "Synopsis":"(MB-35-O) CITED FOR DRIVING ON A SUSPENDED LICENSE, 2400 CHANNING."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261796,37.868553 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"20:04",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267412,37.863982 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"20:21",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/SHATTUCK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26108,37.866631 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"20:45",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DRIVING ON SUSPENDED LICENSE",
+    "Location":"CHANNING/DANA",
+    "Synopsis":"(FB-28-O) CITED FOR DRIVING ON AN EXPIRED LICENSE, DANA AND CHANNING."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.250337,37.864285 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"20:59",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"PARKER/WARRING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.298287,37.884388 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"21:04",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"MONROE/10TH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258605,37.864518 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"21:05",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26588,37.867845 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"21:15",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/FULTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258642,37.866028 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"21:29",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HASTE/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260388,37.868757 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"21:50",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"ESHLEMAN HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265091,37.870017 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"21:55",
+    "Category":"MISC. SERVICE",
+    "Incident Description":"FURNISH TRANSPORT",
+    "Location":"HELLMAN TENNIS COURTS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259586,37.874218 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"21:56",
+    "Category":"ANIMAL CASE",
+    "Incident Description":"ANIMAL CASE",
+    "Location":"MCCONE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25484,37.86623 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"22:16",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"UNIT-2",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254434,37.873618 ]
+    },
+    "properties": {
+    "Date":"2019-02-22",
+    "Time":"23:10",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"GREEK THEATER",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

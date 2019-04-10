@@ -1,0 +1,260 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258597,37.870137 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"0:00",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BARROWS LANE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"0:36",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ASUC",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25412,37.868187 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"8:54",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - REAL PROP OR STRUCTURE W/OUT OWNER CONSENT",
+    "Location":"JACKSON HOUSE",
+    "Synopsis":"CHOWCASTILLO, EDDY (MH-25-O) ARRESTED FOR TRESPASSING, VIOLATING AN EXCLUSION ORDER AND EXCLUDED FROM UNIVERSITY PROPERTY FOR SEVEN DAYS, IDA JACKSON HOUSE. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255144,37.874934 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"9:10",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"STERN HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265861,37.869687 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"9:56",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"ALLSTON/OXFORD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25069,37.871133 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"13:40",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MEMORIAL STADIUM",
+    "Synopsis":"(MH-50-O) REPORTS THEFT OF WALLET AND CONTENTS, LOSS $400, MEMORIAL STADIUM."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258337,37.868846 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"15:33",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/BARROWS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25412,37.868187 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"15:38",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"OBSCENE, THREAT, ANNOYING CALL",
+    "Location":"JACKSON HOUSE",
+    "Synopsis":"(FX-31-S) REPORTS HARASSING EMAILS, JACKSON HOUSE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"16:38",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"MLK",
+    "Synopsis":"(FO-20-S) REPORTS A SUSPICIOUS CIRCUMSTANCE REGARDING A POSSIBLY STOLEN CELL PHONE, MLK. SUSPECT: MB, 60S, RED/WHITE JORDANS, HOMELESS TYPE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.30448,37.884027 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"16:41",
+    "Category":"BURGLARY",
+    "Incident Description":"BURGLARY -REPORT",
+    "Location":"685 LIBERTY SHIP WAY",
+    "Synopsis":"(FW-28-O) REPORTS BURGLARY VIA OPEN DOOR, 685 LIBERTY SHIP, LOSS: $150."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255144,37.874934 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"16:49",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"STERN HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267913,37.873481 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"17:16",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS",
+    "Location":"BERKELEY WAY WEST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"17:46",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - REAL PROP OR STRUCTURE W/OUT OWNER CONSENT",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"(MB-47-O) ISSUED A TRESPASS WARNING FOR ALL UC BERKELEY LIBRARIES, UPPER SPROUL PLAZA."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248801,37.864256 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"20:15",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"CLARK KERR CAMPUS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258435,37.868066 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"20:42",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"2515 DURANT HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258435,37.868066 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"20:45",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"2515 DURANT HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257853,37.873688 ]
+    },
+    "properties": {
+    "Date":"2019-03-02",
+    "Time":"21:25",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"EVANS HALL",
+    "Synopsis":"NA"
+    }
+  }
+]
+}
