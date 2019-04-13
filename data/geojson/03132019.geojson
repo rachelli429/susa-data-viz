@@ -1,0 +1,260 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.247597,37.880749 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"0:28",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING PEACE-ENTERTAINMENT",
+    "Location":"LHS VISTA LOT",
+    "Synopsis":"NA",
+    "FIELD9":"",
+    "Disposition":"CLOSED"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.305107,37.884965 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"1:13",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"335 OHLONE AVE",
+    "Synopsis":"NA",
+    "FIELD9":"",
+    "Disposition":"CLOSED"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304376,37.88463 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"1:59",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY -REPORT",
+    "Location":"400 OHLONE AVE",
+    "Synopsis":"(FB-28-O) AND (FO-31-O) INVOLVED IN A MUTUAL BATTERY, 400 OHLONE. NO PROSECUTION SOUGHT ON EITHER PARTY.",
+    "FIELD9":"OCCURED: 03/13/19 0113-0159",
+    "Disposition":"UNDER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"3:00",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING PEACE-ENTERTAINMENT",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"NA",
+    "FIELD9":"",
+    "Disposition":"CLOSED"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304376,37.88463 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"8:38",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"400 OHLONE AVE",
+    "Synopsis":"NA",
+    "FIELD9":"",
+    "Disposition":"CLOSED"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304376,37.88463 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"9:30",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"MONROE JACKSON",
+    "Synopsis":"NA",
+    "FIELD9":"",
+    "Disposition":"WARNING ISSUED"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253736,37.871042 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"10:28",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"CALVIN LAB",
+    "Synopsis":"NA",
+    "FIELD9":"",
+    "Disposition":"CLOSED"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"11:03",
+    "Category":"FORGERY AND COUNTERFEITING",
+    "Incident Description":"FRAUDULENT USE OF CREDIT CARD",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"(MH-36-E) REPORTS FRADULENT USE TO HIS UC BLU CARD, UNIVERSITY HALL. LOSS OF $1329.85",
+    "FIELD9":"OCCURRED: 02/27/19",
+    "Disposition":"UNDER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258803,37.869647 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"13:49",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING PEACE-ENTERTAINMENT",
+    "Location":"SPROUL HALL",
+    "Synopsis":"NA",
+    "FIELD9":"CLOSED",
+    "Disposition":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257248,37.86747 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"13:57",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"CHANNING/BOWDITCH APTS",
+    "Synopsis":"WELFARE CHECK, CHANNING/BOWDITCH APTS (MW-21-S)",
+    "FIELD9":"UNDER",
+    "Disposition":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252876,37.87239 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"14:18",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"STADIUM PARKING STRUCTURE",
+    "Synopsis":"NA",
+    "FIELD9":"CLOSED",
+    "Disposition":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"17:27",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA",
+    "FIELD9":"CLOSED",
+    "Disposition":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304376,37.88463 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"17:36",
+    "Category":"MOTOR VEHICLE THEFT",
+    "Incident Description":"VEHICLE THEFT -REPORT",
+    "Location":"400 OHLONE AVE",
+    "Synopsis":"(FB-28-O) REPORTS THE THEFT OF A GREY NISSAN ALTIMA, 8DKP302, SPOT #1075 LIBERTY SHIP WAY.",
+    "FIELD9":"UNDER",
+    "Disposition":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301123,37.88548 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"18:04",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"UNIVERSITY VILLAGE ALBANY",
+    "Synopsis":"NA",
+    "FIELD9":"CLOSED",
+    "Disposition":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25959,37.872195 ]
+    },
+    "properties": {
+    "Date":"2019-03-13",
+    "Time":"19:04",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"DOE LIBRARY",
+    "Synopsis":"NA",
+    "FIELD9":"CLOSED",
+    "Disposition":""
+    }
+  }
+]
+}

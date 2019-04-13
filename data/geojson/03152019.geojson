@@ -1,0 +1,410 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"0:45",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.297145,37.884638 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"9:14",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"MONROE/SAN PABLO",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253946,37.875143 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"9:53",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CYCLTRON/FOOTHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253946,37.875143 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"10:26",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CYCLETRON/FOOTHILL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253736,37.871042 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"10:31",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"CALVIN LAB",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260716,37.872794 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"10:45",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"INVADING PRIVACY BY LOOKING THRU HOLES OR OPENING",
+    "Location":"MOFFITT LIBRARY",
+    "Synopsis":"(FW-20-S) REPORTS UNWANTED ELECTRONIC RECORDING, MOFFITT LIBRARY."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255238,37.866303 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"11:34",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"UNIT-2 CUNNINGHAM",
+    "Synopsis":"VANDALISM VIA MARKER/GRAFFITI, UNIT-2 CUNNINGHAM. RSSP NOTIFIED."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256868,37.869024 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"12:32",
+    "Category":"BIKE STOP",
+    "Incident Description":"BIKE STOP",
+    "Location":"BANC/BOW",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258337,37.868846 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"12:33",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANC/BARROWS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258337,37.868846 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"12:36",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANC/BARROWS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.30448,37.884027 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"12:38",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"UNCONTROLABLE JUVENILE",
+    "Location":"685 LIBERTYSHIP WAY",
+    "Synopsis":"(MB-11-O) REPORTED AS AN UNCONTROLLABLE JUVENILE, 685 LIBERTY SHIP WAY-UVA."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258337,37.868846 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"12:40",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANC/BARROWS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258337,37.868846 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"12:44",
+    "Category":"BIKE STOP",
+    "Incident Description":"BIKE STOP",
+    "Location":"BANC/BARROWS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258337,37.868846 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"12:49",
+    "Category":"BIKE STOP",
+    "Incident Description":"BIKE STOP",
+    "Location":"BANC/BAR",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258337,37.868846 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"12:58",
+    "Category":"BIKE STOP",
+    "Incident Description":"BIKE STOP",
+    "Location":"BANC/BARROWS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258337,37.868846 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"12:59",
+    "Category":"BIKE STOP",
+    "Incident Description":"BIKE STOP",
+    "Location":"BANC/BAR",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258337,37.868846 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"13:01",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANC/BAR",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"13:10",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"UCPD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261807,37.869975 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"14:08",
+    "Category":"BUSINESS/PROFESSIONAL CODE VIOLATION",
+    "Incident Description":"BUSINESS/PROFESSIONS CODE",
+    "Location":"SPIEKER PLAZA",
+    "Synopsis":"(FW-19-S) CITED FOR MISREPRESENTATION OF AGE, SPIEKER PLAZA."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258712,37.867806 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"14:38",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.255116,37.869305 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"15:04",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257988,37.870034 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"16:13",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"BARROWS HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248801,37.864256 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"17:12",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"CLARK KERR CAMPUS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.30204,37.884526 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"17:17",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"600 GOODING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"20:03",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"ALUMNI HOUSE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301631,37.885571 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"20:07",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"755 OHLONE AVE",
+    "Synopsis":"(FO-36-S) REPORTS DISTURBANCE, 755 OHLONE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26471,37.873456 ]
+    },
+    "properties": {
+    "Date":"2019-03-15",
+    "Time":"21:52",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"GENETICS & PLANT BIOLOGY",
+    "Synopsis":"(MUA-E) REPORTS VANDALISM VIA WINDOW SMASH, GPB."
+    }
+  }
+]
+}

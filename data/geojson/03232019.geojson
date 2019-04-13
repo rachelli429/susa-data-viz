@@ -1,0 +1,335 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248147,37.86374 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"2:18",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"CKC-9",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26471,37.873456 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"2:22",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"GENETICS & PLANT BIOLOGY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.273177,37.87027 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"8:24",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"BERKELEY CITY JAIL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"8:46",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"STRUCTURE C",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301631,37.885571 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"9:55",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"755 OHLONE AVE",
+    "Synopsis":"(MW-31-S) REPORTS THEFT OF A STORAGE CONTAINER, 4 TIRES W/RIMS AND 2 MUFFLERS, 755 OHLONE AVE-UVA. TOTAL LOSS OF $1930.00."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257853,37.873688 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"11:00",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"EVANS HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257606,37.866781 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"11:40",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -BIKE",
+    "Location":"MAX MARTINEZ",
+    "Synopsis":"(MW-18-S) REPORTS THE THEFT OF HIS DARK GRAY MENS 21 SPEED NOVARA BUZZ ROAD BIKE, MAX MARTINEZ. LOSS $600."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"13:19",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"14:03",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"(MB-56-O) CONTACTED FOR DISTURBING THE PEACE AND ISSUED A 7 DAY STAY AWAY FROM ALL UC PROPERTY, PEOPLES PARK."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25069,37.871133 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"14:36",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MEMORIAL STADIUM",
+    "Synopsis":"(MB-48-E) REPORTS THE THEFT OF CONCESSIONS, MEMORIAL STADIUM. LOSS $40."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"14:44",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"(FW-42-O) CONTACTED FOR WELFARE CHECK, PEOPLES PARK. BFD RESPONDED, PROVED OK."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"15:22",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"15:41",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254627,37.867617 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"16:37",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"UNIT-1 PUTNAM",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263965,37.870259 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"16:53",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"HAZ MAT FACILITY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253767,37.871571 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"17:10",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"HAAS BUSINESS SCHOOL",
+    "Synopsis":"(MXA-S) REPORTS THE THEFT OF HIS AIRPODS, HOODIE AND BLK NOTEBOOOK, HBS. LOSS $700."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255864,37.868747 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"19:00",
+    "Category":"STOLEN PROPERTY",
+    "Incident Description":"POSSESSION OF STOLEN PROPERTY",
+    "Location":"2625 DURANT AVE",
+    "Synopsis":"SANCHEZ, AARON (MH-18-O) CITED FOR POSSESSION OF STOLEN PROPERTY AND MINOR IN POSSESSION OF ALCOHOL, 2625 DURANT. WARRANT TO BE SOUGHT FOR : (MH-18-O) FOR TRESPASSING."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.299579,37.883438 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"19:42",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"1125 JACKSON STREET",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264091,37.86817 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"22:38",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/ELLSWORTH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257388,37.874803 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"22:42",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"HEARST MINING/CORY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257109,37.87315 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"22:47",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"CAMPBELL HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255693,37.872548 ]
+    },
+    "properties": {
+    "Date":"2019-03-23",
+    "Time":"22:56",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"HILDEBRAND HALL",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

@@ -1,0 +1,230 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.303594,37.883275 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"2:30",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"RED OAK/RED OAK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260294,37.871898 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"8:09",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PACKAGE",
+    "Location":"CALIFORNIA HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"8:21",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"I HOUSE",
+    "Synopsis":"(MW-27-O) ISSUED A 7 DAY STAY AWAY FROM ALL UC PROPERTY, IHOUSE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259961,37.869132 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"9:32",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"W/S MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25959,37.872195 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"9:42",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"RESISTINGARREST",
+    "Location":"DOE LIBRARY",
+    "Synopsis":"NGUYEN, HAO (MA-49-O) ARRESTED FOR PUBLIC DISTURBANCE IN A BUILDING, RESISTING ARREST, PROVIDING FALSE ID INFO, POSSESSION OF DRUG PARAPHERNALIA AND CONTRABAND IN JAIL. ISSUED 7 DAY STAY AWAY FROM UC PROPERTY, DOE LIBRARY. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256034,37.875337 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"11:29",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"FOOTHILL COMPLEX",
+    "Synopsis":"(FWA-E) REPORTS FOUND PROPERTY OF ID`S TAKEN TO UCPD FOR SAFEKEEPING, FOOTHILL COMPLEX."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257019,37.876473 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"11:56",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"RIDGE LA LOMA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265576,37.867434 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"13:11",
+    "Category":"HEALTH AND SAFETY CODE VIOLATION",
+    "Incident Description":"HEALTH AND SAFETY CODE",
+    "Location":"2200 BANCROFT WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253893,37.869768 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"13:14",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"BOALT HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301123,37.88548 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"13:32",
+    "Category":"DRUG VIOLATIONS",
+    "Incident Description":"POSSESION OF METHAMPHETAMINES",
+    "Location":"UNIVERSITY VILLAGE ALBANY",
+    "Synopsis":"ERVIN, THURMAN (MW-38-O) CITED FOR POSSESSION OF METHAMPHETAMINE AND WARNED REGARDING TRESSPASSING, UVA."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264802,37.873727 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"16:04",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"KOSHLAND HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264829,37.868998 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"16:16",
+    "Category":"VANDALISM",
+    "Incident Description":"TAMPERING WITH VEHICLE-REPORT",
+    "Location":"EDWARDS TRACK",
+    "Synopsis":"(FA-29-E) REPORTS TAMPERING OF IGNITION VIA SCISSORS AND DAMAGE TO TIRE OF GOLF CART, EDWARDS TRACK."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25833,37.874789 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"22:00",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"SUTARDJA DAI HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263043,37.872967 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"22:17",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"WICKSON GATE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254698,37.871441 ]
+    },
+    "properties": {
+    "Date":"2019-03-25",
+    "Time":"22:41",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TAMPER WITH FIRE ALARM",
+    "Location":"MINOR HALL",
+    "Synopsis":"MALICIOUS FIRE ALARM PULL, MINOR HALL. BFD RESPONDED, RESET ALARM."
+    }
+  }
+]
+}

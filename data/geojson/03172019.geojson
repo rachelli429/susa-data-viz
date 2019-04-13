@@ -1,0 +1,185 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.247597,37.880749 ]
+    },
+    "properties": {
+    "Date":"2019-03-17",
+    "Time":"0:05",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING PEACE-ENTERTAINMENT",
+    "Location":"LHS VISTA LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.250025,37.876048 ]
+    },
+    "properties": {
+    "Date":"2019-03-17",
+    "Time":"0:37",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - REAL PROP OR STRUCTURE W/OUT OWNER CONSENT",
+    "Location":"LAWRENCE BERKELEY NATIONAL LAB",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261206,37.870341 ]
+    },
+    "properties": {
+    "Date":"2019-03-17",
+    "Time":"1:39",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"DWINELLEANNEX",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266292,37.868308 ]
+    },
+    "properties": {
+    "Date":"2019-03-17",
+    "Time":"6:38",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DRIVING ON SUSPENDED LICENSE",
+    "Location":"TOUCHLESS",
+    "Synopsis":"PARKER, ANTIONE (MB-28-O) CITED FOR DRIVING ON A SUSPENDED LICENSE AND RED 2010 CHEVROLET CAMARO, NV: MANAY, TOWED FOR DRIVING WITHOUT A LICENSE AND EXPIRED REGISTRATION OVER 6 MONTHS, TOUCHLESS. TO M&A TOW."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.237732,37.88283 ]
+    },
+    "properties": {
+    "Date":"2019-03-17",
+    "Time":"8:09",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"SIGNPOST-13",
+    "Synopsis":"(MB-30-O) REPORTS THE THEFT OF HIS LICENSE PLATES, SIGNPOST-13."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259146,37.871328 ]
+    },
+    "properties": {
+    "Date":"2019-03-17",
+    "Time":"9:46",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"WHEELER HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-03-17",
+    "Time":"11:00",
+    "Category":"VANDALISM",
+    "Incident Description":"TAMPERING WITH VEHICLE-REPORT",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"(MW-45-E) REPORTS TAMPERING OF A GOLF CART, HAAS PAVILION. SUSPECT: MW 20S GRUNGY SHAVED HEAD POSS SHORT SLEEVELESS SHIRT PURPLE PANTS BRIGHT BLUE NIKE HIGHTOPS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25069,37.871133 ]
+    },
+    "properties": {
+    "Date":"2019-03-17",
+    "Time":"14:24",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MEMORIAL STADIUM",
+    "Synopsis":"(MXA-E) REPORTS THE THEFT OF TWO GIFT CARDS, MEMORIAL STADIUM RM-111. LOSS $150."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-03-17",
+    "Time":"15:11",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-03-17",
+    "Time":"15:16",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"2536 CHANNING WAY/ANNA HEAD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-03-17",
+    "Time":"21:21",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-03-17",
+    "Time":"22:20",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"I HOUSE",
+    "Synopsis":"(MW-37-O) ISSUED A 7 DAY STAY AWAY FROM ALL UC PROPERTY, IHOUSE."
+    }
+  }
+]
+}

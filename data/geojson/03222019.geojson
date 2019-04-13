@@ -1,0 +1,440 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261796,37.868553 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"0:09",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/DANA",
+    "Synopsis":"(MO-29-S) CONTACTED FOR TRAFFIC VIOLATION, BANCROFT AND DANA."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265027,37.871785 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"0:21",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"WEST CRESCENT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"7:22",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"ANNA HEAD ALUMNAE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260038,37.869789 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"8:50",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"CESAR CHAVEZ CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"8:52",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"REC SPRT FAC",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266751,37.868775 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"9:20",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"OXFORD GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"10:49",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON -report",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"11:01",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"11:19",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"I HOUSE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254259,37.871817 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"11:57",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"CHEIT HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.300224,37.883677 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"12:22",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"1110 JACKSON ST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"12:25",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262098,37.871701 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"12:44",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"VALLEY LIFE SCIENCE BLDG",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"12:46",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"13:25",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.271268,37.872093 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"14:44",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY",
+    "Location":"1995 UNIVERSITY AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25265,37.86963 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"15:34",
+    "Category":"TRAFFIC",
+    "Incident Description":"ACCIDENT / NO INJURIES",
+    "Location":"BANCROFT/PIEDMONT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"15:46",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"ENERGY BIOSCIENCES INSTITUTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264829,37.868998 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"17:07",
+    "Category":"VANDALISM",
+    "Incident Description":"SET VEHIC MOTION, CONTROLS",
+    "Location":"EDWARDS TRACK",
+    "Synopsis":"(FW-26-E) REPORTS MALICIOUS TAMPERING WITH A GOLF CART, EDWARDS TRACK."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264829,37.868998 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"18:02",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"MISD. HIT & RUN -REPORT",
+    "Location":"EDWARDS TRACK",
+    "Synopsis":"(FW-26-E) REPORTS HIT AND RUN TO A GOLF CART, EDWARDS TRACK."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251681,37.866823 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"19:36",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HASTE/PIEDMONT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"19:59",
+    "Category":"VANDALISM",
+    "Incident Description":"TAMPERING WITH VEHICLE-REPORT",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"(MH-56-E) REPORTS TAMPERING WITH A VEHICLE AND PROPERTY DAMAGE, HAAS PAVILION. SUSPECTS: 3 BMS 18-19 YEARS OLD ALL THIN BUILD AND WEARING BLACK JACKETS AND BLACK PANTS. UNKNOWN DIRECTION OF FLIGHT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259184,37.868706 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"20:55",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/TELE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258712,37.867806 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"21:16",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.268446,37.873017 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"21:42",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"SHATTUCK/BERKELEY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26588,37.867845 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"22:13",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BAN/FULTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260585,37.86938 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"22:33",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF",
+    "Location":"ZELLERBACH HALL",
+    "Synopsis":"HANAWALT, TIMOTHY (MW-20-O) CITED AND RELEASED FOR VANDALISM, ZELLERBACH HALL. PARRA, RAYMOND (MH-20-O) ARRESTED FOR VANDALISM, ZELLERBACH HALL TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"22:38",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - PUBLIC BLDG AFTER HOURS",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-03-22",
+    "Time":"23:10",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"LAWRENCE HALL OF SCIENCE",
+    "Synopsis":"NA"
+    }
+  }
+]
+}
