@@ -1,0 +1,290 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"0:38",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260598,37.874249 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"1:21",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY -REPORT",
+    "Location":"OBSERVATORY HILL",
+    "Synopsis":"(FO-21-S) REPORTS BATTERY VIA TOUCH, OBSERVATORY HILL. SUSPECT: MO, 22, 510, THIN BUILD, SHORT BROWN HAIR, BROWN LEATHER JACKET, JEANS, FRENCH ACCENT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.298287,37.884388 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"1:33",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"MONROE/10TH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.299843,37.884094 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"1:52",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"MONROE/JACKSON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253767,37.871571 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"7:16",
+    "Category":"TRAFFIC",
+    "Incident Description":"ACCIDENT / NO INJURIES",
+    "Location":"HAAS BUSINESS SCHOOL",
+    "Synopsis":"(MZA-E) INVOLVED IN A NON-INJURY ACCIDENT, IFO HBS."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"8:54",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266884,37.872345 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"9:07",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"UNIVERSITY/WALNUT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257606,37.866781 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"9:19",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"2520 CHANNING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26321,37.871598 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"10:46",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PACKAGE",
+    "Location":"LIFE SCIENCEADDITION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265828,37.866942 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"12:49",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/FULTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263207,37.867229 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"13:11",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/ELLSWORTH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.245926,37.864913 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"14:29",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"CKC TRACK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25265,37.86963 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"15:33",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/PIEDMONT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256838,37.867699 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"15:53",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"2334 BOWDITCH ST",
+    "Synopsis":"MCCRACKEN, CALEB (MW-37-O) ARRESTED FOR VIOLATION OF CAMPUS EXCLUSION ORDER AND PROBATION VIOLATION, 2334 BOWDTICH ST. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253755,37.872564 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"15:57",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"PIEDMONT/GAYLEY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301123,37.88548 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"16:00",
+    "Category":"ALL OTHER",
+    "Incident Description":"TRESPASS - REAL PROP OR STRUCTURE W/OUT OWNER CONSENT",
+    "Location":"UNIVERSITY VILLAGE ALBANY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"16:41",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"(MO-20-O) REPORTS THE THEFT OF HIS WALLET, LOWER SPROUL PLAZA. LOSS $30."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"17:55",
+    "Category":"DEMONSTRATION",
+    "Incident Description":"DEMONSTRATION",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"DEMONSTRATION UPPER SPROUL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248728,37.865691 ]
+    },
+    "properties": {
+    "Date":"2019-03-18",
+    "Time":"23:02",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"CKC-4",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

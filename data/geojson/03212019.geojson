@@ -1,0 +1,620 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261205,37.867479 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"0:03",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25614,37.865436 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"0:18",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258649,37.867633 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"0:25",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2500 DURANT AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"0:40",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ASUC",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265648,37.866043 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"1:08",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DRIVING ON SUSPENDED LICENSE",
+    "Location":"CHANNING/FULTON",
+    "Synopsis":"TAYLOR, TYRONE (MB-62-O) CITED FOR DRIVING ON A SUSPENDED LICENSE, CHANNING AND FULTON."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"1:23",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"2:20",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260388,37.868757 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"2:30",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"ESHLEMAN HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.255116,37.869305 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"4:13",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"UNLICENSED DRIVER",
+    "Location":"BANCROFT/COLLEGE",
+    "Synopsis":"REDERFORD, MARGARET (FB-53-O) CITED FOR DRIVING WITHOUT A LICENSE, COLLEGE AND BANCROFT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263207,37.867229 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"7:50",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/ELLSWORTH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25069,37.871133 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"8:12",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"MEMORIAL STADIUM",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248642,37.871228 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"8:38",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"WITTER FIELD LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258605,37.864518 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"8:52",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267399,37.86491 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"9:10",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HASTE/SHATTUCK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.245926,37.864913 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"9:10",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"CKC TRACK",
+    "Synopsis":"HAMMOND, BLAKE (MW-24-O) CITED FOR CAUSING A DISTURBANCE, EXCLUDED FROM CAMPUS FOR 7 DAYS AND TRANSPORTED VIA PPLUS TO JGP FOR PSYCHIATRIC EVALUATION, CKC TRACK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26471,37.873456 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"9:49",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"GENETICS & PLANT BIOLOGY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"10:03",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE -REPORT",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"11:15",
+    "Category":"FORGERY AND COUNTERFEITING",
+    "Incident Description":"FRAUDULENT USE OF CREDIT CARD",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"(MX-28-E) REPORTS FRAUDULENT USE TO HIS UC BLU CARD, HAAS PAVILION. NO LOSS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2578,37.872075 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"12:54",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"SATHER TOWER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255569,37.866262 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"13:03",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"UNIT-2 LOADING DOCK",
+    "Synopsis":"(MH-54-E) REPORTS AUTO BURGLARY VIA LOCK PICK TO UC VEHICLE. TOTAL LOSS OF $2500.00. TAKEN: MISCELLENOUS MAKITA TOOLS, UNIT 2-LOADING DOCK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260294,37.871898 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"13:18",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"CALIFORNIA HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304729,37.884754 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"14:29",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"OHLONE/LIBERTY SHIP",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"14:30",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"I HOUSE",
+    "Synopsis":"(MA-31-S) CONTACTED FOR WELFARE CHECK, I HOUSE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"15:53",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.303144,37.882743 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"16:22",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON -REPORT",
+    "Location":"UVA-148",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266126,37.87099 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"16:29",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"2120 OXFORD ST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256868,37.869024 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"16:47",
+    "Category":"DEMONSTRATION",
+    "Incident Description":"DEMONSTRATION STANDBY",
+    "Location":"BANCROFT/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257853,37.873688 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"17:03",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"EVANS HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"17:09",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258059,37.874581 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"17:26",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"DAVIS HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264292,37.867705 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"19:30",
+    "Category":"ROBBERY",
+    "Incident Description":"ROBBERY -REPORT",
+    "Location":"TANG CENTER",
+    "Synopsis":"(MH-19-O) VICTIM OF ROBBERY, TANG CENTER COURTYARD. TAKEN: BROWN BACKPACK, ITEMS RECOVERED ON SCENE. SUSPECTS: MB LIGHT COMPLEXION GREY HOODIE WITH HOOD UP, BLACK JEANS, WHITE AND BLUE OR BLACK SHOES. MB DARK JACKET W/ WHITE T-SHIRT UNDERNEATH, DARK BLUE JEANS, GREY TENNIS SHOES, WITH BACKPACK. LAST SEEN WESTBOUND ON BANCROFT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265141,37.867879 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"20:04",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"AQUATIC CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267504,37.865807 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"20:10",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/SHATTUCK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248642,37.871228 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"21:00",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"WITTER FIELD LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265373,37.867685 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"21:23",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"AQUATIC CENTER LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261161,37.86849 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"21:32",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 BANCROFT WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"21:35",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"ALUMNI HOUSE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259992,37.867506 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"22:10",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"VIOLATION OF COURT ORDER",
+    "Location":"UNIT-3 SPENS/BLACK",
+    "Synopsis":"CHOWCASTILLO, EDDY (MH-25-O) ARRESTED ON TWO UCPD MISDEMEANOR WARRANTS, AND FOR VIOLATION OF A COURT ORDER AND PROBATION VIOLATION, UNIT-3 SPENS/BLACK TO BPD JAIL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261161,37.86849 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"22:31",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 BANCROFT WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258649,37.867633 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"22:48",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2500 DURANT AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.305329,37.884621 ]
+    },
+    "properties": {
+    "Date":"2019-03-21",
+    "Time":"23:43",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"OHLONE/WEST END WAY",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

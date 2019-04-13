@@ -1,0 +1,275 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260038,37.869789 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"2:29",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"CESAR CHAVEZ CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301933,37.885053 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"2:54",
+    "Category":"VANDALISM",
+    "Incident Description":"TAMPERING WITH VEHICLE",
+    "Location":"300 GOODING WAY",
+    "Synopsis":"DIAZ, ELMER (MH-18-O) ARRESTED FOR TAMPERING WITH A VEHICLE, AND PROWLING, 605 OHLONE. TO BPD JAIL. ROMEROPAVON, BAYRON (MH-18-O) ARRESTED FOR PROWLING, 605 OHLONE. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259184,37.868706 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"3:27",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"BANCROFT/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"8:12",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ANNA HEAD ALUMNAE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26053,37.868756 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"8:11",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY -REPORT",
+    "Location":"LOWER SPROUL GARAGE",
+    "Synopsis":"(MW-55-E) VICTIM OF BATTERY VIA SPIT, LOWER SPROUL GARAGE. SUSPECT: MW, 16, 510, 140LBS, BLOND HAIR, BLUE EYES, BLUE BEANIE, CREAM JACKET, RED PANTS, BLACK SHOES, WITH SKATEBOARD. LAST SEEN BERKELEY BART-CENTER ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259744,37.868826 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"9:39",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"GRAND THEFT",
+    "Location":"CAL STUDENT STORE",
+    "Synopsis":"GEISEL, RICHARD (MW-71-O) ARRESTED FOR GRAND THEFT, MLK STUDENT STORE. LOSS OF $1946.96. PROPERTY RECOVERED. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259813,37.86694 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"10:36",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"UNIT-3 PRIESTLY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253893,37.869768 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"12:22",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"BOALT HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"13:38",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254963,37.868137 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"13:57",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"UNIT-1",
+    "Synopsis":"(MW-51-E) REPORTS AUTO BURGLARY VIA LOCK PRY TO UC VEHICLE, UNIT 1 LOADING DOCK. TAKEN MISCELLANEOUS TOOL. TOTAL LOSS OF $1195.00."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"15:11",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.246517,37.879208 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"15:41",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"LAWRENCE HALL OF SCIENCE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301381,37.885337 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"15:40",
+    "Category":"FORGERY AND COUNTERFEITING",
+    "Incident Description":"FRAUDULENT USE OF CREDIT CARD",
+    "Location":"UVA-116",
+    "Synopsis":"(MW-35-S) REPORTS MAIL THEFT AND FRADULENT USE OF CREDIT CARD, UVA."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265027,37.871785 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"17:47",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"WEST CRESCENT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260388,37.868757 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"21:09",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"ESHLEMAN HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"21:47",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"22:40",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"ENERGY BIOSCIENCES INSTITUTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.268761,37.865473 ]
+    },
+    "properties": {
+    "Date":"2019-03-27",
+    "Time":"23:29",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2020 CHANNING way",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

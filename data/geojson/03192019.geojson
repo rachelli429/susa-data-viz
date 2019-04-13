@@ -1,0 +1,380 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259685,37.86946 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"1:17",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"ASUC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"1:42",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265172,37.873201 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"2:39",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"LI KA SHING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265027,37.871785 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"5:24",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"WEST CRESCENT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266204,37.872187 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"7:48",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"UNIVERSITY/OXFORD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258931,37.873848 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"7:48",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MCLAUGHLIN HALL",
+    "Synopsis":"(MW-57-E) VICTIM OF PHISHING SCAM, MCLAUGHLIN HALL. LOSS: $400, RECOVERED."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"8:04",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"ENERGY BIOSCIENCES INSTITUTE",
+    "Synopsis":"(MB-54-O) CONTACTED FOR LODGING, EBI. KNIFE CONFISCATED FOR DESTRUCTION."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263889,37.874115 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"8:13",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"TOLMAN HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25484,37.86623 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"8:45",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -BIKE REPORT",
+    "Location":"UNIT-2",
+    "Synopsis":"(FW-21-S) REPORTS THE THEFT OF HER BLACK AND GREEN TREK HYBRID BICYCLE WITH A SILVER REAR BASKET, UNIT-2 EHRMAN. SUSPECT: WM MED BUILD BLOND HAIR GOATEE BLK HOODIE SKATER SHOES ON A YELLOW BIKE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253736,37.871042 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"9:44",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"CALVIN LAB",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265099,37.867621 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"11:46",
+    "Category":"VANDALISM",
+    "Incident Description":"TAMPERING WITH VEHICLE-REPORT",
+    "Location":"BANCROFT\\FULTON LOT",
+    "Synopsis":"(FH-37-S) REPORTS VANDALISM TO HER VEHICLE VIA KEY, BANCROFT/FULTON WEST LOT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"12:54",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258188,37.867034 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"13:26",
+    "Category":"HEALTH AND SAFETY CODE VIOLATION",
+    "Incident Description":"HEALTH AND SAFETY CODE",
+    "Location":"2515 CHANNING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"13:49",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"(MW-22-O) CONTACTED AS A SUSPICIOUS PERSON, LOWER SPROUL PLAZA. LARGE KNIFE CONFISCATED FOR DESTRUCTION."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261441,37.870747 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"14:06",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"MISD. HIT & RUN -REPORT",
+    "Location":"DWINELLE LOT",
+    "Synopsis":"(MW-61-E) REPORTS HIT AND RUN TO AN EDUCATIONAL TECHNOLOGY SERVICES ELECTRIC VEHICLE, DWINELLE LOT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"14:25",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"MISD. HIT & RUN -REPORT",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"(FH-53-E) REPORTS HIT AND RUN TO HER GOLD 2015 FORD C-MAX, UNDERHILL LOT,"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"15:12",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT-IN PROGRESS",
+    "Location":"ASUC",
+    "Synopsis":"GLODDY, PETER (MW-42-O) AND GUESS, MICHAEL (MB-24-O) CITED AND RELEASED FOR PETTY THEFT, ASUC STUDENT STORE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"15:22",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"ENERGY BIOSCIENCES INSTITUTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26108,37.866631 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"16:24",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259813,37.86694 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"17:16",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"UNIT-3 PRIESTLY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253736,37.871042 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"19:04",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"CALVIN LAB",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25947,37.86668 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"19:18",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"2424 CHANNING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259688,37.868442 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"20:41",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"2480 BANCROFT WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"21:15",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"MLK",
+    "Synopsis":"(MW-55-O) ISSUED A 7 DAY STAY AWAY FROM ALL UC PROPERTY, MLK."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252531,37.877142 ]
+    },
+    "properties": {
+    "Date":"2019-03-19",
+    "Time":"21:47",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"LBNL-50A",
+    "Synopsis":"NA"
+    }
+  }
+]
+}
