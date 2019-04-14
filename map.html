@@ -15,6 +15,7 @@
 			height: 100%;
 			margin: 0;
 		}
+
 		#map {
 			width: 600px;
 			height: 400px;
@@ -24,7 +25,7 @@
 </head>
 <body>
 
-  <div id="map"></div>
+  <div id="map" style="width: 600px; height: 400px;"></div>
 
 	<script src="geojson.js" type="text/javascript"></script>
 
@@ -41,7 +42,22 @@
 	}).addTo(mymap);
 
 
-L.geoJSON(geojsonFeature).addTo(mymap);
+var myStyle = {
+    "color": "#ff7800",
+    "weight": 5,
+    "opacity": 0.65
+};
+
+var stuff = L.geoJSON(geojsonFeature, {
+	color: 'red'
+}).addTo(mymap);
+
+var circle = L.circle([37.871896, -122.258541], {
+    color: 'red',
+    fillColor: '#f03',
+    fillOpacity: 0.5,
+    radius: 100
+}).addTo(mymap);
 
   </script>
 
