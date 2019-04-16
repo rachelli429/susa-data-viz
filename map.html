@@ -44,19 +44,20 @@
 		id: 'mapbox.streets'
 	}).addTo(mymap);
 
+coords = [];
 
-var myStyle = {
-    "color": "#ff7800",
-    "weight": 5,
-    "opacity": 0.65
-};
+var points = L.geoJSON(geojsonFeature, {
+	pointToLayer: function (geoJsonPoint, latlng) {
+                return L.marker(latlng);
+							},
+	onEachFeature: function (feature, layer) {
+				popupOptions = {maxWidth: 200};
+				layer.bindPopup(feature.properties.Synopsis);
+				coords.push([feature.geometry.coordinates[1],feature.geometry.coordinates[0]]);
+	}
+}).addTo(mymap);
 
-var points = L.geoJSON(geojsonFeature).addTo(mymap);
-
-var heat = L.heatLayer([
-	[ 37.868757, -122.260388 ],
-	[ 37.88085, -122.24573 ]
-], {radius:12,blur:25,maxZoom:11}).addTo(mymap);
+var heat = L.heatLayer(coords, {radius:12,blur:25,maxZoom:11}).addTo(mymap);
 
   </script>
 
