@@ -1,0 +1,425 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"3:36",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263868,37.874666 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"7:24",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HEARST/LECONTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267597,37.874933 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"7:39",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DELAWARE WALNUT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25959,37.872195 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"7:50",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"DOE LIBRARY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256304,37.866521 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"8:54",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"2420 BOWDITCH ST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25484,37.86623 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"9:16",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -BIKE REPORT",
+    "Location":"UNIT-2",
+    "Synopsis":"(FA-19-S) REPORTS THE THEFT OF HER MENS 1 SPEED BLK FELT VERZACAFE ROADBIKE, UNIT-2. LOSS $700."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267479,37.874019 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"9:56",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"WALNUT HEARST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26321,37.871598 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"11:27",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"LIFE SCIENCE ADDITION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255152,37.869854 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"11:37",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"KROEBER HALL",
+    "Synopsis":"(MW-68-F) REPORTS THEFT OF NAMEPLATE AND POSTER, KROEBER HALL.  LOSS $10."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"12:53",
+    "Category":"WEAPONS VIOLATIONS",
+    "Incident Description":"POSS KNIFE ON UNIV GROUNDS",
+    "Location":"UCPD",
+    "Synopsis":"CARTMILL, JAMES (MW-47-O) ARRESTED FOR POSSESSION OF A KNIFE ON UNIVERSITY GROUNDS, UCPD. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301418,37.883466 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"12:52",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"747 RED OAK AVE",
+    "Synopsis":"(FB-32-S) REPORTS THE THEFT OF PACKAGES, 747 RED OAK AVE -UVA. LOSS $200."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"13:38",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"ANNA HEAD ALUMNAE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255825,37.8698 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"13:55",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"STRUCTURE B",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254698,37.870815 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"15:06",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"WURSTER HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258803,37.869647 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"15:10",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"SPROUL HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258803,37.869647 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"15:41",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"SPROUL HALL",
+    "Synopsis":"(FA-22-S) REPORTS VANDALISM TO A DOOR, 319 SPROUL HALL. SUSPECT: MH 30S HEAVY BUILD BLUE SHIRT, BLUE PANTS."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260716,37.872794 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"16:02",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MOFFITT LIBRARY",
+    "Synopsis":"(MA-21-S) REPORTS THE THEFT OF A MICROSOFT SURFACE 3 TABLET, MOFFITT LIBRARY. LOSS $700."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259727,37.873652 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"16:09",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"EAST ASIAN LIBRARY",
+    "Synopsis":"(MH-23-S) REPORTS THE THEFT OF HIS WALLET AND CONTENTS, EAST ASIAN LIBRARY. LOSS $20."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255604,37.868062 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"16:33",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"UNIT-1 CHENEY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.269346,37.800165 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"17:40",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"10TH/HARRISON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"19:34",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258199,37.870671 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"20:17",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"ANTHONY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"20:42",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264829,37.868998 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"20:45",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"EDWARDS TRACK",
+    "Synopsis":"(MA-25-S) REPORTS THEFT OF HIS 15 INCH GRAY MACBOOK PRO, EDWARDS TRACK. LOSS OF $4300"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260331,37.867138 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"21:12",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"UNIT-3",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259672,37.869222 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"21:32",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"PAULEY BALLROOM",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259672,37.875023 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"21:31",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"INVADING PRIVACY BY LOOKING THRU HOLES OR OPENING",
+    "Location":"NORTHGATE HALL",
+    "Synopsis":"(MW-21-S) REPORTS INVASION OF PRIVACY OVER BATHROOM STALL, NORTHGATE 1ST FLOOR BATHROOM. SUSPECT MB 507-509, MED BUILD, 30-40S, SHORT DREADS, UNSHAVEN, GREEN JACKET, BLACK SWEATPANTS, UNKNOWN COLORED BACKPACK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.247597,37.880749 ]
+    },
+    "properties": {
+    "Date":"2019-01-28",
+    "Time":"23:50",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING PEACE-ENTERTAINMENT",
+    "Location":"LHS VISTA LOT",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

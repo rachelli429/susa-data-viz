@@ -1,0 +1,380 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261271,37.867513 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"0:19",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257714,37.867054 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"1:30",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"IFO MAX MARTINEZ CHANNING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267913,37.873481 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"3:57",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"BERKELEY WAY WEST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"5:45",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"CKC-12",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.255116,37.869305 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"5:55",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256845,37.87552 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"6:20",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HEARST/GAYLEY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257853,37.873688 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"9:27",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"EVANS HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26072,37.877802 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"10:00",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"VIRGINIA E EUCLID",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.272087,37.79612 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"10:28",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"4TH/HARRISON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.270392,37.869634 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"11:12",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"UNION/MILVIA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"11:23",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.270129,37.872127 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"11:32",
+    "Category":"VEHICLE CODE VIOLATOIN",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"2017 UNIVERSITY AV",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.302149,37.8834 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"12:58",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"IFO 865 KINKEAD WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265877,37.872775 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"13:46",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OXFORD UNI",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266288,37.87414 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"13:51",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OXFORD N HEARST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"14:37",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"BANWAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"14:59",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"BANWAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"15:09",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"UCPD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263111,37.870515 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"15:32",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"FRANK SCHLESSINGER WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259786,37.868702 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"17:25",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"PAROLE HOLD",
+    "Location":"BANCROFT TELEGRAPH",
+    "Synopsis":"LOPEZ, ROGER A (MW-55-O) ARRESTED FOR NO BAIL FELONY PAROLE WARRANT, BANCROFT AND TELEGRAPH TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"18:05",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"VIOLATION OF PROBATION",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"BURNS, RICHARD (MB-31-O) ARRESTED FOR PROBATION VIOLATION AND VIOLATION OF A COURT ORDER, HAAS PAVILION. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.249005,37.863267 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"19:03",
+    "Category":"MISSING PERSON",
+    "Incident Description":"MISSING PERSON",
+    "Location":"CKC-12",
+    "Synopsis":"(FA-19-S) REPORTED AS A MISSING PERSON, CKC-12."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253767,37.871571 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"22:12",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"HAAS BUSINESS SCHOOL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.300717,37.885562 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"23:12",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING PEACE-ENTERTAINMENT",
+    "Location":"980 OHLONE AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.243787,37.878056 ]
+    },
+    "properties": {
+    "Date":"2019-01-26",
+    "Time":"23:50",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"CENTENNIAL DR",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

@@ -1,0 +1,320 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255238,37.866303 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"0:04",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"UNIT-2 CUNNINGHAM",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253907,37.865703 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"0:14",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"0:28",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256868,37.869024 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"0:57",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256868,37.869024 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"1:48",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261404,37.875209 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"2:04",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"STRUCTURE A",
+    "Synopsis":"(FW-50-E) REPORTS AUTO BURGALRY VIA 2 WINDOWS SMASHED TO HER DARK GRAY TOYOTA HIGHLANDER 2014, 8BLF355, STRUCTURE A. NO LOSS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258803,37.869647 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"7:50",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY",
+    "Location":"SPROUL HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265576,37.867434 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"9:52",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"2200 BANCROFT WAY",
+    "Synopsis":"VANDALISM VIA RED AND BLU SPRAY PAINT, 2200 BANCROFT WAY. FS NOTIFIED"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257692,37.870823 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"11:52",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"STRAWBERRY CREEK BRIDGE",
+    "Synopsis":"VANDALISM VIA BLK SPRAY PAINT, SW/STRAWBERRY CREEK BRIDGE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255604,37.868062 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"11:51",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"INVADING PRIVACY BY LOOKING THRU HOLES OR OPENING",
+    "Location":"UNIT-1 CHENEY",
+    "Synopsis":"(FA-18-S) VICTIM OF PRIVACY INVASION, UNIT-1 CHENEY."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.238799,37.875213 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"11:54",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"191 CENTENNIAL DR",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257591,37.871265 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"12:46",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"STEPHENS HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26593,37.870599 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"14:42",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"OX CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265828,37.866942 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"18:31",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"FULTON DURANT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.249616,37.874596 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"18:57",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"FEMALE CALLING FOR HELP",
+    "Location":"BIG C TRAIL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25069,37.871133 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"19:28",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MEMORIAL STADIUM",
+    "Synopsis":"(MH-32-E) REPORTS THEFT OF HIS BLACK HEADPHONES, MEMORIAL STADIUM. LOSS $199"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"20:50",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248801,37.864256 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"20:54",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"CLARK KERR CAMPUS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265027,37.871785 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"21:28",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"WEST CRESCENT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253049,37.873397 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"21:36",
+    "Category":"ROBBERY",
+    "Incident Description":"ROBBERY -IN PROGRESS",
+    "Location":"BOWLES HALL",
+    "Synopsis":"(MW-18-S) VICTIM OF ROBBERY VIA BLACK SEMI-AUTOMATIC HAND GUN, BOWLES HALL BASKET BALL COURT. TAKE: 2 CELL PHONES 1 LAPTOP AND CASH. LOSS OF $1,440. SUSPECT: MB 20-30S 508 190 STOCKY BUILD, WITH A BEARD, BEANIE, AND BLACK CLOTHES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258635,37.870343 ]
+    },
+    "properties": {
+    "Date":"2019-01-27",
+    "Time":"23:44",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"BARROWS LANE/ESHLEMAN RD",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

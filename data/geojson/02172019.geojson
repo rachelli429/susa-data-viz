@@ -1,0 +1,425 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.247597,37.880749 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"1:14",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"LHS VISTA LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.289804,37.890808 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"1:32",
+    "Category":"DRIVING UNDER THE INFLUENCE",
+    "Incident Description":"DRIVING W/BAC MORE THAN 0.08%",
+    "Location":"SOLANO/CARMEL",
+    "Synopsis":"PERNA, MARIO (MW-25-O) ARRESTED FOR DRIVING WITH A BAC OVER 0.08%, CARMEL/SOLANO AVE, ALBANY. TOT BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258597,37.870137 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"9:35",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"BARROWS LANE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"10:07",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265648,37.866043 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"10:44",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/FULTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265027,37.871785 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"10:50",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"WEST CRESCENT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253731,37.872586 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"12:03",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"STADIUM RIM/GAYLEY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301123,37.88548 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"12:01",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"UNIVERSITY VILLAGE ALBANY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.250025,37.876048 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"12:41",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"LAWRENCE BERKELEY NATIONAL LAB",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256436,37.873858 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"12:49",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"STANLEY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256159,37.867052 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"12:53",
+    "Category":"FRAUD",
+    "Incident Description":"DEFRAUD INNKEEPER",
+    "Location":"CROSSROADS",
+    "Synopsis":"(MW-36-O) CONTACTED FOR DEFRAUDING AND INKEEPER, CROSSROADS. NO PROSECUTION SOUGHT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"13:51",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"ANNA HEAD LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258337,37.868846 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"15:31",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/BARROWS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26471,37.873456 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"16:21",
+    "Category":"SEX OFFENSES",
+    "Incident Description":"SEXUAL BATTERY",
+    "Location":"GENETICS & PLANT BIOLOGY",
+    "Synopsis":"(FW-17-O) REPORTS SEXUAL BATTERY VIA BUTT GRAB, PATHWAY BETWEEN MORGAN/MULFORD. SUSPECT: MW, 18-23, 510, BLONDE HAIR, RED FLANNEL SHIRT, BLK SUNGLASSES."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258337,37.868846 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"17:14",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/BARROWS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258597,37.870137 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"17:26",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"BARROWS LANE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254698,37.870815 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"17:26",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"WURSTER HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259184,37.868706 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"18:05",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"BANCROFT/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"18:11",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"REC SPRT FAC",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25832,37.863019 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"18:40",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"2601 TELEGRAPH AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"18:38",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258328,37.864431 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"18:59",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"2533 TELEGRAPH AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25484,37.86623 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"19:44",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"UNIT-2",
+    "Synopsis":"(MW-52-O) ISSUED A 7 DAY STAY AWAY ORDER FROM ALL UC PROPERTY, UNIT-2."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.303152,37.884937 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"21:34",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"580 OHLONE AVE",
+    "Synopsis":"(MX-1 MONTH-O) CONDUCTED WELFARE CHECK ON 1 MONTH OLD, 580 OHLONE AVE. NO CONTACT MADE, CPS ADVISED."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301807,37.883083 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"22:22",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"600 RED OAK AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"22:45",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"23:08",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"BANWAY",
+    "Synopsis":"(MA-23-S) VICTIM OF AUTO BURGLARY VIA WINDOW SMASH TO HIS SILVER 2015 BMW 418i, 7LBW356, BANWAY LOT. TAKE OF A BACKPACK CONTAINING A MACBOOK PRO AND A DIGITAL FUJI INSTANT CAMERA. LOSS $2500."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266711,37.871383 ]
+    },
+    "properties": {
+    "Date":"2019-02-17",
+    "Time":"23:26",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"BAMPFA LOT",
+    "Synopsis":"(MH-35-O) VICTIM OF AUTO BURGLARY VIA WINDOW SMASH TO A DARK GREY 2019 JEEP GRAND CHEROKEE, 8FJP490, BAMPFA LOT. TAKE OF A GOLD MOVADO WATCH AND CLOTHING ITEMS. LOSS: $2650"
+    }
+  }
+]
+}

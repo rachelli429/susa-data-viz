@@ -1,0 +1,395 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259685,37.86946 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"1:06",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"WARRANT ARREST",
+    "Location":"ASUC GARAGE",
+    "Synopsis":"MURPHY, IAN (MW-27-O) CITED AND RELEASED ON AN ORANGE COUNTY MISDEMEANOR WARRANT, ASUC GARAGE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261205,37.867479 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"1:13",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DUR DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261161,37.86849 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"1:59",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY",
+    "Location":"2400 BANCROFT WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"3:17",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.243787,37.878056 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"4:30",
+    "Category":"TRAFFIC",
+    "Incident Description":"ACCIDENT / MINOR INJURIES",
+    "Location":"CENTENNIAL DR",
+    "Synopsis":"MINOR TRAFFIC ACCIDENT, CENTENNIAL DRIVE. SILVER 2003 PONTIAC GRAND AM TOWED FOR CAUSING A ROAD HAZARD, CENTENIAL DR. TO M&A TOW."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.243787,37.878056 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"5:26",
+    "Category":"DRIVING UNDER THE INFLUENCE",
+    "Incident Description":"DRIVING W/BAC MORE THAN 0.08%",
+    "Location":"CENTENNIAL DR",
+    "Synopsis":"ROBINSON, PETRUS (MB-23-O) ARRESTED FOR DRUNK DRIVING, AND DRIVING WITH A BAC OVER 0.08%, CENTENNIAL BLVD, TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266809,37.86986 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"8:56",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"2121 ALLSTON WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.271797,37.873752 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"9:02",
+    "Category":"MOTOR VEHICLE THEFT",
+    "Incident Description":"VEHICLE THEFT -REPORT",
+    "Location":"OHLONE PARK",
+    "Synopsis":"(MAO-E) REPORTS THE THEFT OF A BLUE EZ-GO GOLF CART, MEMORIAL STADIUM. LOCATED STOLEN BLUE EZ-GO GOLF CART, OHLONE PARK. TOT OWNER AT THE SCENE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256159,37.867052 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"11:04",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"CROSSROADS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255238,37.866303 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"11:53",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -BIKE REPORT",
+    "Location":"UNIT-2 CUNNINGHAM",
+    "Synopsis":"(MW-19-S) REPORTS THE THEFT OF HIS BLUE QUATTRO ASSI ROADBIKE, UNIT 2-CUNNINGHAM. LOSS OF $500.00."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261025,37.876286 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"12:21",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"2451 RIDGE ROAD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248951,37.865032 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"13:19",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"CKC-3",
+    "Synopsis":"(MA-21-S) REPORTS THE THEFT OF HIS CAL CLIPPER CARD AND CASH, CKC-3. TOTAL LOSS OF $130.00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251439,37.876381 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"13:41",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"70 SEABORG ROAD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253928,37.873019 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"16:13",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY",
+    "Location":"BOWLES LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26053,37.868756 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"16:36",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"LOWER SPROUL GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"16:52",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"I HOUSE",
+    "Synopsis":"WELFARE CHECK, 2020 BANCROFT WAY. PROVED OK."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25421,37.865874 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"18:14",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"UNIT-2 GRIFFITH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264091,37.86817 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"18:33",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/ELLSWORTH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262298,37.873543 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"19:40",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"GIANNINI HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265172,37.873201 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"19:45",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TAMPER WITH FIRE ALARM",
+    "Location":"LI KA SHING",
+    "Synopsis":"MALICIOUS PULL OF FIRE ALARM, LI KA SHING."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.328278,37.918778 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"20:40",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"RFS-177",
+    "Synopsis":"(MO-49-E) REPORTS VANDALISM TO DOOR, RFS-177."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253907,37.865703 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"20:59",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301037,37.884124 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"22:00",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"735 GOODING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252614,37.869825 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"22:25",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - REAL PROP OR STRUCTURE W/OUT OWNER CONSENT",
+    "Location":"SIMON HALL",
+    "Synopsis":"MALMSTEAD, LIZBETH (FH-31-O) ARRESTED FOR TRESPASSING AND PROBATION VIOLATION AND ISSUED 7 DAY STAY AWAY ORDER FROM UC CAMPUS, SIMON HALL TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.271268,37.872093 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"23:19",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"UC BERKELEY EXTENSION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252876,37.87239 ]
+    },
+    "properties": {
+    "Date":"2019-02-15",
+    "Time":"23:51",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"STADIUM PARKING STRUCTURE",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

@@ -1,0 +1,455 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263207,37.867229 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"0:38",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/ELLSWORTH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254963,37.868137 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"0:44",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DUR IFO UNIT-1",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259685,37.86946 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"0:50",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"ASUC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258649,37.867633 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"1:10",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2500 DURANT AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301357,37.884703 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"1:43",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"435 GOODING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"2:40",
+    "Category":"RAPE",
+    "Incident Description":"RAPE -REPORT",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"(FW-23-O) VICTIM OF SEXUAL ASSAULT, PEOPLES PARK."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"3:02",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261807,37.869975 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"7:01",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"SPIEKER PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261161,37.86849 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"7:42",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"2400 BANCROFT WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"8:08",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261021,37.866224 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"8:08",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DANA ST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"11:21",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264484,37.872675 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"11:26",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"MULFORD HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264484,37.872675 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"11:58",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"FIREARM ON UNIV GROUNDS",
+    "Location":"MULFORD HALL",
+    "Synopsis":"ROBINSON, JEREMIAH (MB-18-O) ARRESTED FOR BEING A FELON IN POSSESSION OF CONCEALED LOADED FIREARM WITH A THREADED BARREL AND FILED SERIAL NUMBER ON CAMPUS, FOR POSSESSING A FIREARM UNDER THE AGE OF 30 WHILE A WARD OF COURT PER W&I REQUIREMENTS AND FOR PROVIDED FALSE ID TO POLICE OFFICER, S-E MULFORD HALL. TO SANTA RITA JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264484,37.872675 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"12:09",
+    "Category":"DRUG VIOLATIONS",
+    "Incident Description":"POSS LESS THAN 28.5GR MARIJUANA",
+    "Location":"MULFORD HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"12:53",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"I HOUSE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260038,37.869789 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"15:01",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"CESAR CHAVEZ CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258474,37.864577 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"16:01",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"2536 TELEGRAPH AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25832,37.863019 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"16:08",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"2601 TELEGRAPH AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260878,37.867763 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"16:12",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"BLACKWELL HALL",
+    "Synopsis":"(MZ-19-S) REPORTS GRAND THEFT OF HIS GRY APPLE MACBOOK PRO, BLACKWELL HALL, OCCURED: 02/15/19 1845-2030, LOSS: $1500."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258435,37.877406 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"16:29",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"2601 LECONTE AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.249918,37.879255 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"18:12",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"MISD. HIT & RUN -REPORT",
+    "Location":"LBNL-71",
+    "Synopsis":"(MAA-L) REPORTS HIT AND RUN 5HJM414, LBNL-71."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.299366,37.883795 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"19:18",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - FAIL TO LEAVE",
+    "Location":"UVA-COMMUNITY CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265027,37.871785 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"21:04",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"W/S WEST CRESCENT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.303152,37.884937 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"21:33",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"580 OHLONE AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255324,37.865827 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"21:34",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"UNIT-2 EHRMAN",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25614,37.865436 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"22:08",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"22:40",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25265,37.86963 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"22:48",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/PIEDMONT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255825,37.8698 ]
+    },
+    "properties": {
+    "Date":"2019-02-16",
+    "Time":"23:15",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"STRUCTURE B",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

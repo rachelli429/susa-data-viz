@@ -1,0 +1,515 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"3:46",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.272074,37.871233 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"4:50",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"1936 UNIVERSITY AV",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.246744,37.876117 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"8:25",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"LBNL 33",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"9:47",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -ATTEMPT",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259407,37.869246 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"10:42",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"AMAZON STORE",
+    "Synopsis":"(FW-44-O) EXCLUDED FROM CAMPUS FOR 7 DAYS, AMAZON STORE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"11:18",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MLK",
+    "Synopsis":"(FW-25-S) REPORTS THE THEFT OF HER BLACK APPLE IPHONE 5S, AND FRAUDULENT USE OF CREDIT CARD, MLK. TOTAL LOSS OF $50.00."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252784,37.871381 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"11:34",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"GAYLEY S/O HAAS BUSINESS SCHOOL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253893,37.869768 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"11:38",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BOALT HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260555,37.87528 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"12:16",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"2483 HEARST ST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"12:32",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"STRUCTURE C",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254067,37.866556 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"13:10",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2700 HASTE ST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266736,37.874255 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"13:23",
+    "Category":"FORGERY AND COUNTERFEITING",
+    "Incident Description":"FORGERY",
+    "Location":"WARREN HALL",
+    "Synopsis":"(FBA-E) REPORTS FRADULENT USE OF UC CHECKS, WARREN HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"13:27",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MLK",
+    "Synopsis":"WHITEMORE, HENRY (MB-52-O) ARRESTED FOR THEFT, VIOLATION OF PROBATION AND CAMPUS ORDER, MLK. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265828,37.866942 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"13:38",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/FULTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26488,37.86246 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"14:07",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"PARKER/FULTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257523,37.875046 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"15:43",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"CORY HALL",
+    "Synopsis":"(MW-27-O) EXCLUDED FROM CAMPUS FOR 7 DAYS, CORY HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259146,37.871328 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"16:23",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"WHEELER HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253731,37.872586 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"16:30",
+    "Category":"TRAFFIC",
+    "Incident Description":"ACCIDENT / MINOR INJURIES",
+    "Location":"STADIUM RIM/GAYLEY",
+    "Synopsis":"(FB-19-S) VICTIM OF MINOR INJURY TRAFFIC ACCIDENT, GAYLEY/RIM WAY. BFD RESPONDED. VICTIM WILL SEEK OWN MEDICAL TREATMENT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266809,37.86986 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"17:00",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"2121 ALLSTON WAY",
+    "Synopsis":"GOLD LEXUS ES300 TOWED FOR PARKING IN A PRIVATE PROPERTY POSTED TOW AWAY ZONE, 2121 ALLSTON WAY."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255081,37.873525 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"17:21",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"GAYLEY RD",
+    "Synopsis":"(FB-19-S) VICTIM OF MINOR INJURY TRAFFIC ACCIDENT, GAYLEY/RIM WAY. BFD RESPONDED. VICTIM WILL SEEK OWN MEDICAL TREATMENT. WHITE 2005 SUBURU OUTBACK TOWED FOR BEING A ROAD HAZARD, GAYLEY/RIM. TO M&A TOW."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257606,37.866781 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"17:27",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"MAX MARTINEZ",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25484,37.86623 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"17:51",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"UNIT-2",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265861,37.869687 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"19:43",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"ALLSTON/OXFORD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258649,37.867633 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"20:19",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2500 DURANT AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"20:31",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"ANNA HEAD ALUMNAE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266196,37.873367 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"20:33",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BERKELEY/OXFORD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256486,37.867231 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"20:40",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253722,37.863938 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"20:45",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"PARKER/COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258786,37.866916 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"20:50",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259146,37.871328 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"20:47",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"WHEELER HALL",
+    "Synopsis":"(MA-19-S) REPORTS THE THEFT OF HIS BACKPACK AND CONTENTS, WHEELER HALL. LOSS: $374."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260534,37.876952 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"22:14",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"LECONTE/EUCLID",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258786,37.866916 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"22:26",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258786,37.866916 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"22:38",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"SATHER TOWER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256845,37.87552 ]
+    },
+    "properties": {
+    "Date":"2019-02-13",
+    "Time":"23:35",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HEARST/GAYLEY",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

@@ -1,0 +1,410 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252272,37.868682 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"0:16",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/PIEDMONT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254963,37.868137 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"0:37",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNIT-1",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304376,37.88463 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"3:30",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"400 OHLONEAVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257853,37.873688 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"5:29",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"EVANS HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"7:38",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"BANWAY LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25614,37.865436 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"7:47",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY AGAINST PEACE OFFICER",
+    "Location":"DWIGHT/BOWDITCH",
+    "Synopsis":"JACKSON, CHARLES (MW-40-O) ARRESTED FOR BATTERY AGAINST APEACE OFFICER, RESISTING ARREST AND ONE ARIZONA FELONY WARRANT, DWIGHT E BOWDITCH. TO SANTA RITA JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.305057,37.88364 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"8:45",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"UVA-164",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265648,37.866043 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"10:25",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/FULTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"11:46",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"290 REGISTRATION",
+    "Location":"UCPD",
+    "Synopsis":"(MW-58-E) CONTACTED UCPD TO COMPLETE HIS REGISTRATION REQUIREMENT, UCPD."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265172,37.873201 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"11:45",
+    "Category":"BURGLARY",
+    "Incident Description":"BURGLARY -REPORT",
+    "Location":"LI KA SHING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258642,37.866028 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"12:05",
+    "Category":"DEMONSTRATION",
+    "Incident Description":"DEMONSTRATION STANDBY",
+    "Location":"HASTE/TELEGRAPH",
+    "Synopsis":"DEMONSTRATION, UPPER SPROUL PLAZA/CALIFORNIA HALL --PEOPLE`S PARK GROUP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258953,37.869564 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"12:41",
+    "Category":"DEMONSTRATION",
+    "Incident Description":"DEMONSTRATION STANDBY",
+    "Location":"SAVIO STEPS",
+    "Synopsis":"DEMONSTRATION, SAVIO STEPS ~WORLD LIBERATION FRONT~"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258787,37.875595 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"14:24",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSIDE ASSIST - BPD",
+    "Location":"SODA HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"14:35",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"UCPD",
+    "Synopsis":"OPHD RELATED INVESTIGATION, UCPD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.305078,37.883889 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"14:56",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"WEST END WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258093,37.871017 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"16:15",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"MOSES HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259672,37.875023 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"16:31",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"NORTHGATE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252876,37.87239 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"17:10",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"STADIUM PARKING STRUCTURE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248642,37.871228 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"17:46",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"MISD. HIT & RUN -REPORT",
+    "Location":"WITTER FIELD LOT",
+    "Synopsis":"(FW-32-O) REPORTS MISDEMEANOR HIT AND RUN WITH DAMAGE TO HER BLUE 2013 HYUNDAI SONATA, 7XBJ697, WITTERFIELD LOT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266959,37.871838 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"18:23",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"UNIVERSITY HALL WEST LOT",
+    "Synopsis":"(MA-22-S) REPORTS AUTO BURG VIA WINDOW SMASH TO HIS BLACK 2014 ACURA RDX, 7NAP828, LOSS: BACKPACK/LAPTOP, VALUE: $2380. PROPERTY LATER RECOVERED AND RETURNED TO OWNER."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.268623,37.814585 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"18:25",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSIDE ASSIST BPD COVER",
+    "Location":"2505 TELEGRAPH AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"19:31",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254958,37.868175 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"20:06",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"UNIT-1 CHRISTIAN",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253603,37.871225 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"21:00",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OPTOMETRY LANE S/ HAAS BS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254259,37.871817 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"21:48",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -BIKE REPORT",
+    "Location":"CHEIT HALL",
+    "Synopsis":"(MW-30-S) REPORTS THEFT OF HIS RED SPECIALIZED ALLEZ ELITE 10 SPEED ROAD BIKE, CHIET HALL BIKE RACKS. LOSS OF $800"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254743,37.866081 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"22:09",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"UNIT-2 COURTYARD",
+    "Synopsis":"(FO-18-S) CONTACTED FOR WELFARE CHECK, UNIT-2 COURTYARD. PROVED OK."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25412,37.868187 ]
+    },
+    "properties": {
+    "Date":"2019-01-22",
+    "Time":"22:28",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"JACKSON HOUSE",
+    "Synopsis":"(FI-22-S) CONTACTED FOR A WELFARE CHECK, IDA JACKSON HOUSE, PROVED OK."
+    }
+  }
+]
+}
