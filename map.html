@@ -25,7 +25,20 @@
 </head>
 <body>
 
-  <div id="map" style="width:100%; height:100%"></div>
+	<!--select month-->
+	<select id="month" onchange="updateMonth()">
+		<option value="january">January</option>
+		<option value = "february">February</option>
+		<option value = "march">March</option>
+	</select>
+
+	<!--select category of crimes-->
+	<select id="category" onchange="updateCategory()">
+		<option value="1">1</option>
+	</select>
+
+	<!--map box-->
+  <div id="map" style="width:800px; height:600px"></div>
 
 	<script src="march.js" type="text/javascript"></script>
 	<script src="leaflet-heat.js"></script>
@@ -34,21 +47,27 @@
 
   <script>
 
-	var mymap = L.map('map').setView([37.871896, -122.258541], 15);
+	// set up map
 
-	L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+	var background = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
 		maxZoom: 18,
 		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
 			'<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
 			'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
 		id: 'mapbox.streets'
-	}).addTo(mymap);
+	})
 
+
+// array to store latlng coordinates for heat map
 coords = [];
 
-var points = L.geoJSON(geojsonFeature, {
+// change behavior based on selected month
+var e = document.getElementById("month");
+
+// march
+var march = L.geoJSON(march, {
 	pointToLayer: function (geoJsonPoint, latlng) {
-                return L.circleMarker(latlng);
+								return L.circleMarker(latlng, {radius: 2});
 							},
 	onEachFeature: function (feature, layer) {
 				popupOptions = {maxWidth: 200};
@@ -57,7 +76,32 @@ var points = L.geoJSON(geojsonFeature, {
 	}
 })
 
-var heat = L.heatLayer(coords, {radius:12,blur:25,maxZoom:11}).addTo(mymap);
+// february
+
+// january
+
+// add heat map
+var heat = L.heatLayer(coords, {radius:12,blur:25,maxZoom:11});
+
+// add map
+var mymap = L.map('map', {
+	center: [37.871896, -122.258541],
+	zoom: 15,
+	layers: [background]
+});
+
+// base maps: mutually exclusive + should always be visible
+var baseMaps = {
+	"Background": background
+};
+
+// overlay maps: optional
+var overlayMaps = {
+	"March": march,
+	"Heat": heat
+};
+
+L.control.layers(baseMaps, overlayMaps).addTo(mymap);
 
   </script>
 
