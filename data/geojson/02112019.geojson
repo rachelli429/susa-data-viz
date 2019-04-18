@@ -1,0 +1,245 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260848,37.871348 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"0:06",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"CAMPANILE WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.298287,37.884388 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"1:35",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"MONROE/10TH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"8:47",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UCPD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262098,37.871701 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"10:07",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"OBSCENE, THREAT, ANNOYING CALL",
+    "Location":"VALLEY LIFE SCIENCE BLDG",
+    "Synopsis":"(FU-36-E) REPORTS ANNOYING AND HARRASSING E-MAILS, VLSB."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260331,37.867138 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"11:06",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"VIOLATION OF COURT ORDER",
+    "Location":"UNIT-3",
+    "Synopsis":"CHOWCASTILLO, EDDY (MH-25-O) ARRESTED FOR VIOLATION OF A COURT ORDER, POSSESSION OF PARAPHERNALIA, AND POSSESSION OF METHAMPHETAMINES, UNIT-3 TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"12:42",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25421,37.865874 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"12:59",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"UNIT-2 GRIFFITH",
+    "Synopsis":"(MH-19-O) REPORTS THE THEFT OF HIS BLACK NIKE MESSENGER BAG CONTAINING BOSE QUIET COMFORT HEADPHONES AND IPHONE CUBE CHARGER, UNIT-2 GRIFFITH. LOSS: $405."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"16:51",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260878,37.867763 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"19:54",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"SPOUSAL/COHAB ABUSE (MISD)",
+    "Location":"BLACKWELL HALL",
+    "Synopsis":"(MA-19-E) REPORTS SUSPICIOUS COHABITANT ABUSE INVOLVING A STUDENT, BLACKWELL HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.268623,37.814585 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"20:18",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"2505 TELEGRAPH AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258328,37.864431 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"20:23",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"2533 TELEGRAPH AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25832,37.863019 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"20:35",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"2601 TELEGRAPH AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258785,37.866917 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"21:20",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"22:01",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266288,37.87414 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"22:23",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HEARST/OXFORD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.250337,37.864285 ]
+    },
+    "properties": {
+    "Date":"2019-02-11",
+    "Time":"23:26",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"PARKER/WARRING",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

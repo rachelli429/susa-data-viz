@@ -1,0 +1,395 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265172,37.873201 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"8:31",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"LI KA SHING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253736,37.871042 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"10:27",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"CALVIN LAB",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.303909,37.882707 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"10:40",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"FIELDING FIELD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265648,37.866043 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"11:22",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/FULTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26471,37.873456 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"12:05",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"GENETICS & PLANT BIOLOGY",
+    "Synopsis":"REPORT OF A PETTY THEFT JUST PRIOR TO TIME OF REPORT WITH THE VICTIM RECOVERING THEIR PROPERTY. A SUSPECT WAS CONTACTED, BUT THE WITNESS WAS UNABLE TO ID."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26053,37.868756 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"12:46",
+    "Category":"BURGLARY",
+    "Incident Description":"BURGLARY -REPORT",
+    "Location":"LOWER SPROUL GARAGE",
+    "Synopsis":"(MAA-E) BURGLARY TO EDUC TECH SERV GEM CART, LOWER SPROUL GARAGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"13:01",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"REC SPRT FAC",
+    "Synopsis":"(MA-21-S) REPORTS THE THEFT OF HIS WALLET, RSF. LOSS: $100"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"13:29",
+    "Category":"MOTOR VEHICLE THEFT",
+    "Incident Description":"VEHICLE THEFT -REPORT",
+    "Location":"UCPD",
+    "Synopsis":"(MB-36-E) REPORTS THEFT/RECOVERY OF A UC GREEN EZ GO GOLF CART, EDWARDS TRACK."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"13:29",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.303909,37.882707 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"14:07",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"FIELDING FIELD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265141,37.867879 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"15:23",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"AQUATIC CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"15:29",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"(MW-26-O) VICTIM OF BATTERY VIA PUNCH, UPPER SPROUL PLAZA."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"15:33",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PACKAGE",
+    "Location":"UCPD",
+    "Synopsis":"SUSPICIOUS PACKAGE, UCPD, PROVED OKAY."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"15:53",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MLK",
+    "Synopsis":"(FH-18-S) REPORTS THEFT OF HER UC STUDENT ID, 2ND FLOOR MLK, LOSS: $30."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.268623,37.814585 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"16:07",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"2505 TELEGRAPH AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.328278,37.918778 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"17:00",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"RFS-201",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"17:59",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LEWD CONDUCT",
+    "Location":"UCPD",
+    "Synopsis":"(FA-20-S) REPORTS LEWD CONDUCT, TELEGRAPH/CHANNING. POSSIBLE SUSPECT: ZENG, SAM (MAA-S)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304775,37.88412 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"20:33",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"515 WEST END WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"20:49",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"20:56",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MLK",
+    "Synopsis":"(FAA-O) REPORTS THEFT OF HER CELL PHONE, MLK."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"21:00",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"21:02",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261365,37.875231 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"21:14",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"LOWER HEARST PARKING STRUCTURE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"21:20",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"BANWAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252564,37.872324 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"21:48",
+    "Category":"MEDICAL EVENT",
+    "Incident Description":"INJURY OR ILLNESS",
+    "Location":"MAXWELL FIELD",
+    "Synopsis":"(MW-28-S) VICTIM OF INJURY, MAXWELL FIELD. TRANSPORTED TO ABH VIA BFD."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-02-19",
+    "Time":"23:50",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

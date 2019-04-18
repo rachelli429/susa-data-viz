@@ -1,0 +1,425 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260038,37.869789 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"1:25",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"VIOLATION OF PROBATION",
+    "Location":"CESAR CHAVEZ CENTER",
+    "Synopsis":"SMITH, SAGE (MW-24-O) ARRESTED FOR PROBATION VIOLATION, VIOLATION OF A COURT ORDER, AND RESISTING ARREST, CESAR CHAVEZ. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"4:23",
+    "Category":"FIRE",
+    "Incident Description":"FIRE OF UNKNOWN TYPE",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254581,37.868037 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"7:40",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"UNIT-1 FREEBORN",
+    "Synopsis":"(MH-25-O) EXCLUDED FROM UC PROPERTY FOR 7 DAYS, UNIT 1 FREEBORN."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266846,37.865805 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"8:37",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"2100 CHANNING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301123,37.88548 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"8:45",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"UNIVERSITY VILLAGE ALBANY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260545,37.874931 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"9:07",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"NORTH GATE",
+    "Synopsis":"(MXA-S) REPORTS THEFT OF AC TRANSIT PASS, NORTH GATE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263965,37.870259 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"10:35",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF - REPORT",
+    "Location":"HAZ MAT FACILITY",
+    "Synopsis":"VANDALISM VIA BLACK AND GREEN SPRAY PAINT, HAZ MAT FACILITY."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266126,37.87099 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"10:41",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"2120 OXFORD ST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256306,37.874419 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"11:15",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"DONNER LAB",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"11:27",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MLK",
+    "Synopsis":"(FH-22-S) REPORTS THE THEFT OF HER CAL ID AND CLIPPER CARD, MLK LOSS $5."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"11:43",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"WARRANT ARREST",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"GAMBLE, JIMMIE (MB-61-O) ARRESTED FOR $15,000 BPD MISDEMEANOR WARRANT, PEOPLES PARK TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254698,37.871441 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"11:54",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"GRAND THEFT",
+    "Location":"MINOR HALL ADDITION",
+    "Synopsis":"RYANS, THOMASA (FB-50-O) ARRESTED FOR GRAND THEFT AND PROBATION VIOLATION, MINOR HALL ADDITION TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301631,37.885571 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"13:20",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"755 OHLONE AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251348,37.870388 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"14:36",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2227 PIEDMONT AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"14:52",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"I HOUSE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265835,37.868763 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"15:02",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS-CULTIVATED, FENCED, POSTED LAND",
+    "Location":"2223 FULTON ST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.246517,37.879208 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"15:53",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"LAWRENCE HALL OF SCIENCE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261161,37.86849 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"18:15",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 BANCROFT WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264091,37.86817 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"20:12",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/ELLSWORTH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258615,37.86764 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"20:29",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2500 BLK DURANT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26295,37.86792 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"20:52",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2300 BANCROFT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252777,37.865788 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"20:53",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/ETNA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260388,37.868757 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"21:27",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY",
+    "Location":"ESHLEMAN HALL",
+    "Synopsis":"MIYAZAKI, JOSEPH (MA-48-O) ARRESTED FOR BATTERY AND PROBATION VIOLATION, ESHELMAN HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263239,37.867033 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"22:08",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2300 DURANT AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.250337,37.864285 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"22:14",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"PARKER/WARRING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261178,37.868686 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"22:26",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT IFO DANCE STUDIO",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26295,37.86792 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"23:14",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2300 BANCROFT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261796,37.868553 ]
+    },
+    "properties": {
+    "Date":"2019-01-23",
+    "Time":"23:41",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/DANA",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

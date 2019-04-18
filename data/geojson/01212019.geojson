@@ -1,0 +1,410 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.250329,37.864441 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"0:10",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"CKC HORSESHOE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"2:04",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.250162,37.869862 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"7:48",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"VIOLATION OF PROBATION",
+    "Location":"PROSPECT COURT LOT",
+    "Synopsis":"COEN, WESTON (MW-28-O) ARRESTED FOR PROBATION VIOLATION AND VIOLATION OF A STAY AWAY ORDER, PROSPECT COURT LOT. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.272795,37.869688 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"9:08",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CENTER/MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260559,37.875021 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"9:58",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HEARST EUCLID",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301856,37.885652 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"11:56",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"OHLONE/GOODING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259685,37.86946 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"12:06",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"ASUC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267153,37.871418 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"12:08",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"2110 ADDISON ST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.293205,37.872832 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"12:12",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"FRANCISCO/SAN PABLO",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251907,37.867512 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"14:27",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/PIEDMONT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253767,37.871571 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"15:04",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"E SIDE HAAS BUSINESS SCHOOL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256707,37.87158 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"15:10",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266878,37.871493 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"16:07",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"W SIDE LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"16:36",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"VIOLATION OF PROBATION",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"SHEPHARDBOWEN, JUSTIN (MB-44-O) ARRESTED FOR PROBATION VIOLATION AND POSSESSION OF PARAPHERNALIA, UNIVERSITY HALL. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265972,37.871463 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"16:49",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"ADDISON/OXFORD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"18:11",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"18:43",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259685,37.86946 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"18:54",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"ASUC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"19:57",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY",
+    "Location":"BANWAY",
+    "Synopsis":"MESA, ALEXIA (FH-23-O) ARRESTED FOR AUTO BURGLARY, AND POSSESSION OF BURGLARY TOOLS, BANWAY LOT.  TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259737,37.86568 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"20:27",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"2424 HASTE ST",
+    "Synopsis":"TRANSPORTED VIA PARAMEDICS PLUS TO ABH FOR PSYCHIATRIC EVALUATION, 2424 HASTE ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"21:59",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911",
+    "Location":"I HOUSE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259184,37.868706 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"23:08",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254434,37.873621 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"23:18",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"Gayley IFO Greek Theater",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254581,37.868037 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"23:17",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"WARRANT ARREST",
+    "Location":"UNIT-1 FREEBORN",
+    "Synopsis":"JACKSON, CHARLES A (MW-40-O) DETAINED FOR MISDEMEANOR WARRANT OUT OF ARIZONA, UNIT-1 FREEBORN. TOT BPD JAIL AND RELEASED WITH 849B"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25265,37.869613 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"23:26",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/PIEDMONT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"23:51",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-21",
+    "Time":"23:55",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

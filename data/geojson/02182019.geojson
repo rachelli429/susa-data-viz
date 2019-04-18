@@ -1,0 +1,275 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.247597,37.880749 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"0:15",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"LHS VISTA LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.24573,37.88085 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"0:31",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"MSRI LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.246517,37.879208 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"0:35",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"LAWRENCE HALL OF SCIENCE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260128,37.870607 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"3:06",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"DWINELLE PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260958,37.867399 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"8:03",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 DURANT AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"8:42",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.284255,37.870065 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"10:19",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"UNIVERSITY/ACTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.303152,37.884937 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"10:59",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"580 OHLONE AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259146,37.871328 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"11:26",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"WHEELER HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"12:46",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"BANWAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257853,37.873688 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"13:08",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"EVANS HALL",
+    "Synopsis":"(FH-59-O) EXCLUDED FROM CAMPUS FOR 7 DAYS, EVANS HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265172,37.873201 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"15:29",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"LI KA SHING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.255116,37.869305 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"16:56",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259019,37.867822 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"17:54",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"2504 DURANT AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.255116,37.869305 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"20:33",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25832,37.863019 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"20:47",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - FAIL TO LEAVE",
+    "Location":"2601 TELEGRAPH AV",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"22:30",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"GRAND THEFT -REPORT",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"(MW-43-O) REPORTS THEFT HIS BACKPACK AND CONTENTS, DWINELLE HALL IFO RM 106. LOSS OF $3,590"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257161,37.875733 ]
+    },
+    "properties": {
+    "Date":"2019-02-18",
+    "Time":"23:44",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"UPPER HEARST STRUCTURE",
+    "Synopsis":"(MA-29-S) VICTIM OF AUTO BURGLARY VIA WINDOW SMASH TO HIS BLK 2018 LEXUS IS350, UPPER HEARST PARKING STRUCTRE, NO LOSS."
+    }
+  }
+]
+}

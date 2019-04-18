@@ -1,0 +1,710 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267823,37.867593 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"0:23",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT SHATTUCK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"1:14",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ANNA HEAD ALUMNAE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258786,37.866916 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"1:15",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"2:03",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"4:21",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"4:30",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF - REPORT",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"VANDALISM VIA WHITE, BLACK AND BLUE SPRAY PAINT, S/E UNIVERSITY HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248801,37.864256 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"4:32",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"CLARK KERR CAMPUS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256633,37.869644 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"6:57",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"HEARST GYM",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"7:56",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"ANNA HEAD ALUMNAE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248735,37.863734 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"7:59",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -BIKE REPORT",
+    "Location":"CKC-10",
+    "Synopsis":"(MW-20-S) REPORTS THEFT OF SILVER/RED GT TACHYON 24 SPEED MENS HYBRID BIKE, CKC-10. LOSS $300"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304699,37.883714 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"8:14",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"UVA-165",
+    "Synopsis":"GOLD 1997 JEEP CHEROKEE, 4JED238, TOWED FOR BLOCKING MOVEMENT OF A LEGALLY PARKED VEHICLE, UVA-165 TO EAST BAY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"8:47",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PACKAGE",
+    "Location":"UCPD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264829,37.868998 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"9:10",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -BIKE REPORT",
+    "Location":"EDWARDS TRACK",
+    "Synopsis":"(MH-20-S) REPORTS THEFT OF BLACK MENS 26 INCH TREK BIKE, EDWARDS TRACK. LOSS $650"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"10:19",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266959,37.871838 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"10:58",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"UNIVERSITY HALL WEST LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257523,37.875046 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"13:25",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"CORY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257988,37.870034 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"13:35",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"VIOLATION OF COURT ORDER",
+    "Location":"BARROWS HALL",
+    "Synopsis":"(FH-44-E) REPORTS VIOLATION OF A PROTECTIVE ORDER, BARROWS HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261271,37.867516 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"14:21",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"250 DURANT AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253055,37.875271 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"14:45",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"BLACKBERRY CANYON GATE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"15:11",
+    "Category":"MOTOR VEHICLE",
+    "Incident Description":"VEHICLE THEFT -REPORT",
+    "Location":"REC SPRT FAC",
+    "Synopsis":"RED 2017 VIP CHAMPION SCOOTER RECOVERED STOLEN OUT OF BPD, RSF TO M&A TOW."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"15:40",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"2151 BERKELEY WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26253,37.868494 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"16:16",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2301 BANCROFT WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301357,37.884703 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"17:13",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"435 GOODING WAY",
+    "Synopsis":"(FO-33-S) SOUGHT FOR WELFARE CHECK, 435 GOODING WAY."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253903,37.865694 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"18:05",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2500 COLLEGE AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265832,37.866967 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"19:16",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/OXFORD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261796,37.868553 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"19:29",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252667,37.869304 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"19:35",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2302 PIEDMONT AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265245,37.864276 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"19:57",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/FULTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263522,37.872323 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"20:13",
+    "Category":"WELFARE CHECK CALL",
+    "Incident Description":"CHECK WELFARE- 911",
+    "Location":"WEST CIRCLE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263508,37.868399 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"20:48",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"RSG GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264292,37.867705 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"20:54",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"TANG CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.247597,37.880749 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"21:28",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING PEACE-ENTERTAINMENT",
+    "Location":"LHS VISTA LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.269101,37.878426 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"21:32",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CEDAR/SHATTUCK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258712,37.867806 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"21:37",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25898,37.866794 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"21:53",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 CHANNING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254451,37.86834 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"21:55",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260706,37.864839 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"22:04",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 DWIGHT WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256486,37.867231 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"22:12",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258786,37.866916 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"22:17",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING/TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.241783,37.872469 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"22:29",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"COFFER DAM",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256707,37.87158 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"22:35",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255708,37.867616 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"22:45",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"WARRANT ARREST",
+    "Location":"UNIT-1 DEUTSCH",
+    "Synopsis":"FLETCHER, CHRISTIAN (MB-21-O) AKA FLETCHER, LINCOLN, ARRESTED FOR $10,000 HAYWARD MISDEMEANOR WARRANT, UNIT 1-DEUTSCH TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257606,37.866781 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"22:58",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"MAX MARTINEZ",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25342,37.8607 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"23:05",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"GARBER/COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265864,37.869661 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"23:22",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"ALLSTON/FULTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256517,37.865358 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"23:43",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/HILLEGAS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265828,37.866942 ]
+    },
+    "properties": {
+    "Date":"2019-01-24",
+    "Time":"23:56",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/FULTON",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

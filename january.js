@@ -1,0 +1,335 @@
+var january = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"3:35",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"THE FOLLOWING ARRESTED FOR LODGING, CURFEW AND CAMPSITE VIOLATIONS, PEOPLE`S PARK. TO SANTA RITA JAIL: CARTMILL, JAMES (MW-47-O),  CATHELINE, VINCENT (MW-24-S), DELLANTONIO, RICHARD (MW-45-O),  LORENTZEN, PETER AKA MYERS, MICHAEL (MW-45-O), LOT, MICHELLE (FW-48-O), TIMMS, JESSE (MW-40-O)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"5:02",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"PEOPLES PARK",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260294,37.871898 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"7:10",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"CALIFORNIA HALL",
+    "Synopsis":"(FAA-E) REPORTS VANDALISM VIA ROCK, CALIFORNIA HALL. SUSPECT: MW BLUE HOODIE BLACK JACKET FADED BLUE JEANS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301134,37.883376 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"9:20",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"RED OAK/GOODING",
+    "Synopsis":"(FW-60-O) REPORTS THE THEFT OF ITEMS FROM HER VEHICLE, RED OAK AND GOODING. LOSS $175."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260038,37.869789 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"11:22",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"CESAR CHAVEZ CENTER",
+    "Synopsis":"(MW-52-E) REPORTS VANDALISM TO DOOR GLASS WINDOW, N/W EXTERIOR CESAR CHAVEZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257109,37.87315 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"12:05",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"CAMPBELL HALL",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260038,37.869789 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"12:48",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF -REPORT",
+    "Location":"CESAR CHAVEZ CENTER",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"13:53",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.268936,37.877505 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"13:59",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"LINCOLN/SHATTUCK",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"15:40",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"ENERGY BIOSCIENCES INSTITUTE",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.238791,37.87664 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"15:51",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"LBNL-74",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.298208,37.884548 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"16:31",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"MONROE STREET",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"17:02",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"17:07",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258978,37.866792 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"18:02",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 BLK CHANNING",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253767,37.871571 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"18:04",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PACKAGE",
+    "Location":"HAAS BUSINESS SCHOOL",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"18:10",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY -REPORT",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"(MW-49-O) REPORTS ASSAULT VIA HEAD BUTT, PEOPLES PARK. NO PROSECUTION SOUGHT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301055,37.88552 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"19:14",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY -REPORT",
+    "Location":"945 OHLONE AVE",
+    "Synopsis":"(MH-25-O) REPORTS ASSAULT VIA PUNCH, 945 OHLONE AVE SUSPECT: (MH-24-S)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264364,37.870817 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"21:02",
+    "Category":"ROBBERY",
+    "Incident Description":"ROBBERY -REPORT",
+    "Location":"GRINNELL PATH",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257853,37.873688 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"22:08",
+    "Category":"HEALTH AND SAFETY CODE VIOLATION",
+    "Incident Description":"HEALTH AND SAFETY CODE",
+    "Location":"EVANS HALL",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.305107,37.884965 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"22:44",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"335 OHLONE AVE",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.305248,37.884426 ]
+    },
+    "properties": {
+    "Date":"2019-01-15",
+    "Time":"23:07",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"335 WEST END WAY",
+    "Synopsis":""
+    }
+  }
+]
+}

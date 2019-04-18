@@ -200,21 +200,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Date":"2019-01-14",
-    "Time":"19:33",
-    "Category":"VEHICLE CODE VIOLATION",
-    "Incident Description":"VEHICLE CODE VIOLATION",
-    "Location":"CAMPUS",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -122.254817,37.866947 ]
     },
     "properties": {

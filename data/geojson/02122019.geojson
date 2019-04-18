@@ -1,0 +1,470 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.250112,37.862324 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"0:15",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DERBY/WARRING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.250037,37.862393 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"0:22",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DERBY S/S CKC",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.250112,37.862324 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"0:33",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DERBY/WARRING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260294,37.871898 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"0:38",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"CALIFORNIA HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254434,37.873618 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"0:47",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"GREEK THEATER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253928,37.873019 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"1:00",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"BOWLES LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259992,37.867506 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"1:55",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"UNIT-3 SPENS/BLACK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260331,37.867138 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"2:22",
+    "Category":"BUSINESS/PROFESSIONS CODE VIOLATION",
+    "Incident Description":"BUSINESS/PROFESSIONS CODE",
+    "Location":"UNIT-3",
+    "Synopsis":"HILLSMAN, MICHAEL (MW-19-S) CITED FOR POSSESSION OF A FAKE ID, UNIT-3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260388,37.868757 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"9:09",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"ESHLEMAN HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.271268,37.872093 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"9:47",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"UC BERKELEY EXTENSION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267913,37.873481 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"10:06",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"BERKELEY WAY WEST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252564,37.872324 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"11:24",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -BIKE REPORT",
+    "Location":"MAXWELL FIELD",
+    "Synopsis":"(MO-19-S) REPORTS THE THEFT OF HIS GREEN UNKNOWN MAKE/MODEL BICYCLE, MAXWELL FIELD. LOSS OF $200.00 02/1/19 1800 - 02/02/19 0800 HOURS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"12:00",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"13:48",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"13:57",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"I HOUSE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256306,37.874419 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"14:08",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"DONNER LAB",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257988,37.870034 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"14:14",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"BARROWS HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.339992,37.916627 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"15:06",
+    "Category":"PENAL CODE VIOLATION",
+    "Incident Description":"PENAL CODE VIOLATION",
+    "Location":"3200 REGATTA BLVD",
+    "Synopsis":"(MW-61-E) REPORTS FRAUDULENT CHECKS, 3200 REGATTA."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259672,37.875023 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"15:41",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"NORTHGATE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254698,37.871441 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"16:12",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"MINOR HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248642,37.871228 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"17:22",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"WITTER FIELD LOT",
+    "Synopsis":"(MB-41-E) REPORTS AUTO BURGLARY TO HIS SILVER VOLVO 240 VIA WINDOW SMASH, WITTER FIELD LOT. TOTAL LOSS OF $150.00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260878,37.867763 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"17:57",
+    "Category":"PENAL CODE VIOLATION",
+    "Incident Description":"PENAL CODE VIOLATION",
+    "Location":"BLACKWELL HALL",
+    "Synopsis":"(MW-18-S) REPORTS FRAUD VIA PHONE SCAM, BLACKWELL HALL, LOSS: $2,800."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257523,37.875046 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"18:21",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"CORY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260913,37.865734 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"19:56",
+    "Category":"ALL OTHER",
+    "Incident Description":"WARRANT ARREST",
+    "Location":"HASTE/DANA",
+    "Synopsis":"SEPULVEDA, DANIEL (MH-28-S) ARRESTED FOR A $60,000 MISDEMEANOR WARRANT OUT OF BPD AND DRIVING WITH A SUSPENDED LICENSE, HASTE WEST OF DANA."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256016,37.873415 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"20:48",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"PIMENTEL HALL",
+    "Synopsis":"(FA-22-S) REPORTS THEFT OF A SILVER MACBOOK PRO, PIMENTEL HALL. LOSS $1400."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259407,37.869246 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"20:58",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"AMAZON STORE",
+    "Synopsis":"(MH-18-S) REPORTS PETTY THEFT OF BLACK IPHONE 7 PLUS, AMAZON STORE. LOSS $350."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258787,37.875595 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"22:09",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"SODA HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254963,37.868137 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"22:20",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNIT-1",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263207,37.867229 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"22:44",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/ELLSWORTH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259191,37.86893 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"23:26",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2300 BLOCK TELE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255825,37.8698 ]
+    },
+    "properties": {
+    "Date":"2019-02-12",
+    "Time":"23:31",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"STRUCTURE B",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

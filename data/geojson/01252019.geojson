@@ -1,0 +1,500 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256254,37.867961 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"0:13",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2600 BLK DWIGHT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257789,37.865204 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"0:20",
+    "Category":"DRIVING UNDER THE INFLUENCE",
+    "Incident Description":"MISDEMEANOR DRUNK DRIVING",
+    "Location":"DWIGHT REGENTS",
+    "Synopsis":"KANETZKE, JONATHAN (MW-34-O) ARRESTED FOR DRUNK DRIVING, DWIGHT & REGENT TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"0:55",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264683,37.873486 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"0:58",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"GPB GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"1:12",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267913,37.873481 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"3:42",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"BERKELEY WAY WEST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260724,37.864846 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"8:04",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265576,37.867434 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"9:29",
+    "Category":"PENAL CODE VIOLATION",
+    "Incident Description":"PENAL CODE VIOLATION",
+    "Location":"2200 BANCROFT WAY",
+    "Synopsis":"EMAIL REPORT OF THREATS AND EXTORTION, 2200 BANCROFT WAY."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.330734,37.947237 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"10:09",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"SAN PABLO AVE",
+    "Synopsis":"(MW-45-E) REPORTS THEFT OF TOOLS FROM UC VEHICLE, 1300 4TH STREET. LOSS $1050."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260545,37.874931 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"10:20",
+    "Category":"SEX OFFENSES",
+    "Incident Description":"INDECENT EXPOSURE",
+    "Location":"NORTH GATE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"11:12",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"ENERGY BIOSCIENCES INSTITUTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258803,37.869647 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"11:14",
+    "Category":"FORGERY AND COUNTERFEITING",
+    "Incident Description":"FRAUDULENT USE OF CREDIT CARD",
+    "Location":"SPROUL HALL",
+    "Synopsis":"(FH-27-E) REPORTS FRADULENT USE OF HER UC BLUE CARD, SPROUL HALL. LOSS $1500.28."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.241465,37.871663 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"12:35",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"LOWER FIRE TRAIL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256306,37.874419 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"12:52",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"DONNER LAB",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253893,37.869768 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"13:57",
+    "Category":"FORGERY AND COUNTERFEITING",
+    "Incident Description":"FRAUDULENT USE OF CREDIT CARD",
+    "Location":"BOALT HALL",
+    "Synopsis":"(FW-61-E) REPORTS FRADULENT USE OF HER UC EVENT PLANNER CARD, BOALT HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"14:14",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"I HOUSE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.183912,38.093816 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"14:26",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING CIR",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"14:37",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"ENERGY BIOSCIENCES INSTITUTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258597,37.870137 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"14:55",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"BARROWS LANE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258597,37.870137 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"16:04",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"BARROWS LANE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"16:39",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"16:53",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"I HOUSE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267692,37.871247 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"17:12",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"ADDISON/SHATTUCK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257109,37.87315 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"18:12",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"CAMPBELL HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256486,37.867231 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"18:41",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"CHANNING/BOWDITCH",
+    "Synopsis":"BRYANT, CANDRA (FB-22-O) CITED FOR POSSESSION OF AN ALTERED LICENSE PLATE, BOWDITCH CHANNING."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256486,37.867231 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"19:16",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"WARRANT ARREST",
+    "Location":"CHANNING/BOWDITCH",
+    "Synopsis":"DORSEY-COOPER, BRUCE (MB-22-O) ARRESTED FOR ONE SFPD MISDEMEANOR WARRANT, BOWDITCH S/O CHANNING. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"19:17",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"GRAND THEFT -REPORT",
+    "Location":"I HOUSE",
+    "Synopsis":"(MA-29-S) REPORTS THE THEFT OF HIS BACKPACK AND CONTENTS, I HOUSE. TOTAL LOSS OF $1080.00."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256159,37.867052 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"19:44",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"CROSSROADS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.255116,37.869305 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"20:28",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261796,37.868553 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"20:41",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"21:45",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"BANWAY",
+    "Synopsis":"(MW-51-E) REPORTS AUTO BURGLARY TO HIS GOLD 2002 SUBARU FORRESTER VIA WINDOW SMASH, BANWAY LOT. TOTAL LOSS OF $300.00."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26588,37.867845 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"22:21",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/FULTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.255116,37.869305 ]
+    },
+    "properties": {
+    "Date":"2019-01-25",
+    "Time":"23:22",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/COLLEGE",
+    "Synopsis":"NA"
+    }
+  }
+]
+}
