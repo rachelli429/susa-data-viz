@@ -7,36 +7,62 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+	<!--leaflet css-->
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
-    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
-
+	<link rel="stylesheet" href="leaflet.groupedlayercontrol.min.css" />
+	<!--leaflet javascript-->
+	<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
 		<style>
 		html, body {
 			height: 100%;
 			margin: 0;
+			background-color: #fcfdff;
 		}
 
-		#titles {
+		.titles {
 			text-align: center;
 			font-family: Gill Sans;
 		}
 
+		.paragraph {
+			text-align: center;
+			font-family: Gill Sans;
+			width: 60%;
+			margin:auto;
+		}
+
 		#map {
-			width: 75%;
-			height: 75%;
+			width: 65%;
+			height: 65%;
 			margin: auto;
 			border-radius: 3%;
 			box-shadow: 5px 5px 10px grey;
 			margin-top: 25px;
+		}
+
+		#map2 {
+			width: 65%;
+			height: 65%;
+			margin: auto;
+			border-radius: 3%;
+			box-shadow: 5px 5px 10px grey;
+			margin-top: 25px;
+			margin-bottom: 50px;
 		}
 	</style>
 
 </head>
 <body>
 
-	<h1 id = "titles">Data Viz Project: Berkeley Crime Rates</h1>
-	<h3 id = "titles" style="text-align: center;">Tiffany Lee, Rachel Li, Allison Xu | Web Dev Spring 2019</h3>
+	<h1 class = "titles">Data Viz Project: Berkeley Crime Rates</h1>
+	<h3 class = "titles">Tiffany Lee, Rachel Li, Allison Xu | Web Dev Spring 2019</h3>
 
+	<p class = "paragraph">For our data visualization project, we chose to visualize crime in Berkeley using daily crime logs from UCPD for January through March 2019.
+		We chose this because crime is an important issue that affects everyone’s day-to-day lives, and we want to be able to provide more information about it in an accessible and easy to understand manner.
+</p>
+
+	<h4 class = "titles">Map #1</h4>
+	<p class = "paragraph">Filter by month or category of crime. Click on marker to view information about the crime (date, category, synopsis. etc.).</p>
 	<!--map box-->
   <div id="map"></div>
 
@@ -51,6 +77,9 @@
 <script src="leaflet.ajax.min.js"></script>
 <script src="heat_points.js"></script>
 
+<!--grouped layer control plugin-->
+<script src="leaflet.groupedlayercontrol.min.js" type="text/javascript"></script>
+
   <script>
 
 	// map street view, always show
@@ -64,8 +93,9 @@
 
 	// point to layer function
 	function showPoints (geoJsonPoint, latlng) {
-		return L.circleMarker(latlng, {radius: 2});
+		return L.marker(latlng, {radius: 2});
 	}
+	// add option to choose type of marker?
 
 	// on each feature function
 	function onFeature (feature, layer) {
@@ -295,15 +325,11 @@ var drug = L.geoJSON(all, {
 	onEachFeature: onFeature
 });
 
-// add heat map
-var heat = L.heatLayer(coords, {radius:10,blur:15,maxZoom:11,gradient:{0.4:'yellow', 1:'red'}});
-//mymap.removeLayer(heat);
-
 // add map
 var mymap = L.map('map', {
 	center: [37.871896, -122.258541],
 	zoom: 15,
-	layers: [background, heat]
+	layers: [background, march] //add all as default? or at least set something as default
 });
 
 // base maps: mutually exclusive + should always be visible
@@ -312,43 +338,62 @@ var baseMaps = {
 };
 
 // overlay maps: optional
-var overlayMonths = {
-	"January": january,
-	"February": february,
-	"March": march,
-	"Heat Map": heat
+var groupedOverlays = {
+	"Months": {
+		"January": january,
+		"February": february,
+		"March": march
+	},
+	"Crime Categories": {
+		"All Other Offenses": other,
+		"Disorderly Conduct": disorderly,
+		"Pedestrian Stop": pedestrian,
+		"Traffic Stop": traffic_stop,
+		"Traffic": traffic,
+		"Driving Under the Influence": dui,
+		"Larceny/Theft": theft,
+		"Other Assaults": assaults,
+		"Suspicious Event": suspicious,
+		"Welfare Check": welfare,
+		"Vehicle Code Violation": vehicle,
+		"Penal Code Violation": penal,
+		"Forgery and Counterfeiting": forgery,
+		"Fraud": fraud,
+		"Motor Vehicle Theft": motor,
+		"Rape": rape,
+		"Sex Offenses": sex,
+		"Drug Violations": drug
+	}
+	//"Heat Map": heat
 };
 
-var overlayCategories = {
-	//"All": all,
-	"All Other Offenses": other,
-	"Disorderly Conduct": disorderly,
-	"Pedestrian Stop": pedestrian,
-	"Traffic Stop": traffic_stop,
-	"Traffic": traffic,
-	"Driving Under the Influence": dui,
-	"Larceny/Theft": theft,
-	"Other Assaults": assaults,
-	"Suspicious Event": suspicious,
-	"Welfare Check": welfare,
-	"Vehicle Code Violation": vehicle,
-	"Penal Code Violation": penal,
-	"Forgery and Counterfeiting": forgery,
-	"Fraud": fraud,
-	"Motor Vehicle Theft": motor,
-	"Rape": rape,
-	"Sex Offenses": sex,
-	"Drug Violations": drug,
-	"Heat Map": heat
-}
-
-// layer control: months
-L.control.layers(baseMaps, overlayMonths).addTo(mymap);
-
-// layer control: categories
-L.control.layers(baseMaps, overlayCategories).addTo(mymap);
+L.control.groupedLayers(baseMaps, groupedOverlays).addTo(mymap);
 
   </script>
+
+	<h4 class="titles">Heat Map</h4>
+	<p class="paragraph">Heat map showing density of crimes from January to March 2019</p>
+
+	<!--map #2-->
+	<div id ="map2"></div>
+
+	<script>
+
+	var heatmap = L.map('map2').setView([37.871896, -122.258541], 15);
+
+	// background layer
+	L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+		maxZoom: 18,
+		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
+			'<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+			'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+		id: 'mapbox.streets'
+	}).addTo(heatmap);
+
+	// heat map
+	L.heatLayer(coords, {radius:10,blur:15,maxZoom:11,gradient:{0.4:'yellow', 1:'red'}}).addTo(heatmap);
+
+	</script>
 
 
 
