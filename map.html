@@ -16,24 +16,35 @@
 			margin: 0;
 		}
 
+		#titles {
+			text-align: center;
+			font-family: Gill Sans;
+		}
+
 		#map {
-			width: 600px;
-			height: 400px;
+			width: 75%;
+			height: 75%;
+			margin: auto;
+			border-radius: 3%;
+			box-shadow: 5px 5px 10px grey;
+			margin-top: 25px;
 		}
 	</style>
 
 </head>
 <body>
 
-	<h1 style="text-align: center">Data Viz Project: Berkeley Crime Rates</h1>
+	<h1 id = "titles">Data Viz Project: Berkeley Crime Rates</h1>
+	<h3 id = "titles" style="text-align: center;">Tiffany Lee, Rachel Li, Allison Xu | Web Dev Spring 2019</h3>
 
 	<!--map box-->
-  <div id="map" style="width:800px; height:600px; margin:auto"></div>
+  <div id="map"></div>
 
 	<!--geojson files-->
 	<script src="march.js" type="text/javascript"></script>
 	<script src="january.js" type="text/javascript"></script>
 	<script src="february.js" type="text/javascript"></script>
+	<script src="all.js" type="text/javascript"></script>
 
 	<!--heat map plugin-->
 	<script src="leaflet-heat.js"></script>
@@ -51,48 +62,242 @@
 		id: 'mapbox.streets'
 	})
 
+	// point to layer function
+	function showPoints (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 2});
+	}
+
+	// on each feature function
+	function onFeature (feature, layer) {
+		popupOptions = {maxWidth: 200};
+		layer.bindPopup(feature.properties.Date +  " " + feature.properties.Synopsis + " " + feature.properties.Category);
+		coords.push([feature.geometry.coordinates[1],feature.geometry.coordinates[0]]);
+	}
 
 // array to store latlng coordinates for heat map
 coords = [];
 
 // march
 var march = L.geoJSON(march, {
-	pointToLayer: function (geoJsonPoint, latlng) {
-								return L.circleMarker(latlng, {radius: 2});
-							},
-	onEachFeature: function (feature, layer) {
-				popupOptions = {maxWidth: 200};
-				layer.bindPopup(feature.properties.Date +  " " + feature.properties.Synopsis);
-				coords.push([feature.geometry.coordinates[1],feature.geometry.coordinates[0]]);
-	}
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
 });
 
 // february
 var february = L.geoJSON(february, {
-	pointToLayer: function (geoJsonPoint, latlng) {
-								return L.circleMarker(latlng, {radius: 2});
-							},
-	onEachFeature: function (feature, layer) {
-				popupOptions = {maxWidth: 200};
-				layer.bindPopup(feature.properties.Date +  " " + feature.properties.Synopsis);
-				coords.push([feature.geometry.coordinates[1],feature.geometry.coordinates[0]]);
-	}
+		pointToLayer: showPoints,
+		onEachFeature: onFeature
 });
 
 // january
 var january = L.geoJSON(january, {
-	pointToLayer: function (geoJsonPoint, latlng) {
-								return L.circleMarker(latlng, {radius: 2});
-							},
-	onEachFeature: function (feature, layer) {
-				popupOptions = {maxWidth: 200};
-				layer.bindPopup(feature.properties.Date +  " " + feature.properties.Synopsis);
-				coords.push([feature.geometry.coordinates[1],feature.geometry.coordinates[0]]);
-	}
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// all
+
+function filterOther(feature) {
+	if (feature.properties.Category == "ALL OTHER OFFENSES") return true
+}
+
+// all other offenses
+var other = L.geoJSON(all, {
+	filter: filterOther,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// disorderly conduct
+function filterDisorderly(feature) {
+	if (feature.properties.Category == "DISORDERLY CONDUCT") return true
+}
+
+var disorderly = L.geoJSON(all, {
+	filter: filterDisorderly,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// pedestrian stop
+function filterPedestrian(feature) {
+	if (feature.properties.Category == "PEDESTRIAN STOP") return true
+}
+
+var pedestrian = L.geoJSON(all, {
+	filter: filterPedestrian,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// traffic stop
+function filterTrafficStop(feature) {
+	if (feature.properties.Category == "TRAFFIC STOP") return true
+}
+
+var traffic_stop = L.geoJSON(all, {
+	filter: filterTrafficStop,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// traffic
+function filterTraffic (feature) {
+	if (feature.properties.Category == "TRAFFIC") return true
+}
+
+var traffic = L.geoJSON(all, {
+	filter: filterTraffic,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// driving under the influence
+function filterDUI (feature) {
+	if (feature.properties.Category == "DRIVING UNDER THE INFLUENCE") return true
+}
+
+var dui = L.geoJSON(all, {
+	filter: filterDUI,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// larceny/theft
+function filterTheft (feature) {
+	if (feature.properties.Category == "LARCENY/THEFT") return true
+}
+
+var theft = L.geoJSON(all, {
+	filter: filterTheft,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// other assaults
+function filterAssaults (feature) {
+	if (feature.properties.Category == "OTHER ASSAULTS") return true
+}
+
+var assaults = L.geoJSON(all, {
+	filter: filterAssaults,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// suspicious event
+function filterSuspicious (feature) {
+	if (feature.properties.Category == "SUSPICIOUS EVENT") return true
+}
+
+var suspicious = L.geoJSON(all, {
+	filter: filterSuspicious,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// welfare check
+function filterWelfare (feature) {
+	if (feature.properties.Category == "WELFARE CHECK") return true
+}
+
+var welfare = L.geoJSON(all, {
+	filter: filterWelfare,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// vehicle code violation
+function filterVehicle (feature) {
+	if (feature.properties.Category == "VEHICLE CODE VIOLATION") return true
+}
+
+var vehicle = L.geoJSON(all, {
+	filter: filterVehicle,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// penal code violation
+function filterPenal (feature) {
+	if (feature.properties.Category == "PENAL CODE VIOLATION") return true
+}
+
+var penal = L.geoJSON(all, {
+	filter: filterPenal,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// forgery and counterfeiting
+function filterForgery (feature) {
+	if (feature.properties.Category == "FORGERY AND COUNTERFEITING") return true
+}
+
+var forgery = L.geoJSON(all, {
+	filter: filterForgery,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// fraud
+function filterFraud (feature) {
+	if (feature.properties.Category == "FRAUD") return true
+}
+
+var fraud = L.geoJSON(all, {
+	filter: filterFraud,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// motor vehicle theft
+function filterMotorTheft (feature) {
+	if (feature.properties.Category == "MOTOR VEHICLE THEFT") return true
+}
+
+var motor = L.geoJSON(all, {
+	filter: filterMotorTheft,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// rape
+function filterRape (feature) {
+	if (feature.properties.Category == "RAPE") return true
+}
+
+var rape = L.geoJSON(all, {
+	filter: filterRape,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// sex offenses
+function filterSex (feature) {
+	if (feature.properties.Category == "SEX OFFENSES") return true
+}
+
+var sex = L.geoJSON(all, {
+	filter: filterSex,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
+
+// drug violations
+function filterDrug (feature) {
+	if (feature.properties.Category == "DRUG VIOLATIONS") return true
+}
+
+var drug = L.geoJSON(all, {
+	filter: filterDrug,
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
 });
 
 // add heat map
-var heat = L.heatLayer(coords, {radius:12,blur:25,maxZoom:11});
+var heat = L.heatLayer(coords, {radius:10,blur:15,maxZoom:11,gradient:{0.4:'yellow', 1:'red'}});
+//mymap.removeLayer(heat);
 
 // add map
 var mymap = L.map('map', {
@@ -107,15 +312,41 @@ var baseMaps = {
 };
 
 // overlay maps: optional
-var overlayMaps = {
+var overlayMonths = {
 	"January": january,
 	"February": february,
 	"March": march,
-	"Heat": heat
+	"Heat Map": heat
 };
 
-// layer control
-L.control.layers(baseMaps, overlayMaps).addTo(mymap);
+var overlayCategories = {
+	//"All": all,
+	"All Other Offenses": other,
+	"Disorderly Conduct": disorderly,
+	"Pedestrian Stop": pedestrian,
+	"Traffic Stop": traffic_stop,
+	"Traffic": traffic,
+	"Driving Under the Influence": dui,
+	"Larceny/Theft": theft,
+	"Other Assaults": assaults,
+	"Suspicious Event": suspicious,
+	"Welfare Check": welfare,
+	"Vehicle Code Violation": vehicle,
+	"Penal Code Violation": penal,
+	"Forgery and Counterfeiting": forgery,
+	"Fraud": fraud,
+	"Motor Vehicle Theft": motor,
+	"Rape": rape,
+	"Sex Offenses": sex,
+	"Drug Violations": drug,
+	"Heat Map": heat
+}
+
+// layer control: months
+L.control.layers(baseMaps, overlayMonths).addTo(mymap);
+
+// layer control: categories
+L.control.layers(baseMaps, overlayCategories).addTo(mymap);
 
   </script>
 
