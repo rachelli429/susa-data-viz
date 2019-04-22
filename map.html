@@ -100,7 +100,10 @@
 	// on each feature function
 	function onFeature (feature, layer) {
 		popupOptions = {maxWidth: 200};
-		layer.bindPopup(feature.properties.Date +  " " + feature.properties.Synopsis + " " + feature.properties.Category);
+		layer.bindPopup(feature.properties.Date + " @ " + feature.properties.Time
+										+ "<br> <b>LOCATION:</b> " + feature.properties.Location
+										+ "<br> <b> CATEGORY:</b> " + feature.properties.Category
+										+ "<br> <b>SYNOPSIS:</b> " + feature.properties.Synopsis);
 		coords.push([feature.geometry.coordinates[1],feature.geometry.coordinates[0]]);
 	}
 
