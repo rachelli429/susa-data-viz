@@ -215,7 +215,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 122.255116,37.869305 ]
+       "coordinates":  [ -122.255116,37.869305 ]
     },
     "properties": {
     "Date":"2019-02-18",

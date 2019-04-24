@@ -485,7 +485,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -122.25967,37.869249 ]
     },
     "properties": {
     "Date":"2019-03-02",
@@ -3950,21 +3950,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Date":"2019-03-12",
-    "Time":"10:16",
-    "Category":"LARCENY/THEFT",
-    "Incident Description":"GRAND THEFT -REPORT",
-    "Location":"HUSBANDRY POULTRY",
-    "Synopsis":"(MW-52-E) REPORTS THE THEFT OF A BLACK FLAT BED TRAILER, ANIMAL HUSBANDRY LOT."
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -122.258188,37.867034 ]
     },
     "properties": {
@@ -4175,7 +4160,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 122.255116,37.869305 ]
+       "coordinates":  [ -122.255116,37.869305 ]
     },
     "properties": {
     "Date":"2019-03-12",
@@ -5105,7 +5090,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 122.255116,37.869305 ]
+       "coordinates":  [ -122.255116,37.869305 ]
     },
     "properties": {
     "Date":"2019-03-15",
@@ -6920,7 +6905,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 122.255116,37.869305 ]
+       "coordinates":  [ -122.255116,37.869305 ]
     },
     "properties": {
     "Date":"2019-03-21",
@@ -9875,7 +9860,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 122.255116,37.869305 ]
+       "coordinates":  [ -122.255116,37.869305 ]
     },
     "properties": {
     "Date":"2019-03-30",

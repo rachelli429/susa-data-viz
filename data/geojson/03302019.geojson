@@ -5,119 +5,44 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.267838,37.86763 ]
+       "coordinates":  [ -122.230098,37.880615 ]
     },
     "properties": {
-    "Date":"2019-03-30",
-    "Time":"0:01",
-    "Category":"TRAFFIC STOP",
-    "Incident Description":"TRAFFIC STOP",
-    "Location":"BANCROFT/SHATTUCK",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.261205,37.867479 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"0:25",
-    "Category":"TRAFFIC STOP",
-    "Incident Description":"TRAFFIC STOP",
-    "Location":"DURANT/DANA",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 122.255116,37.869305 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"1:04",
-    "Category":"TRAFFIC STOP",
-    "Incident Description":"TRAFFIC STOP",
-    "Location":"BANCROFT/COLLEGE",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.259337,37.869556 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"1:19",
-    "Category":"PEDESTRIAN STOP",
-    "Incident Description":"SUSPECT STOP",
-    "Location":"UPPER SPROUL PLAZA",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.254253,37.867498 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"1:25",
-    "Category":"PEDESTRIAN STOP",
-    "Incident Description":"SUSPECT STOP",
-    "Location":"CHANNING/COLLEGE",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.258712,37.867806 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"1:37",
-    "Category":"TRAFFIC STOP",
-    "Incident Description":"TRAFFIC STOP",
-    "Location":"DURANT/TELEGRAPH",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.260222,37.86918 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"1:48",
-    "Category":"PEDESTRIAN STOP",
-    "Incident Description":"SUSPECT STOP",
-    "Location":"LOWER SPROUL PLAZA",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.25967,37.869249 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"9:01",
+    "Date":"2019-03-31",
+    "Time":"7:05",
     "Category":"ALL OTHER OFFENSES",
-    "Incident Description":"DISTURBING THE PEACE",
-    "Location":"MLK",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"SIGNPOST-16",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259992,37.867506 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"7:03",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"UNIT-3 SPENS/BLACK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.235922,37.870095 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"7:44",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"UPPER FIRE TRAIL",
     "Synopsis":"NA"
     }
   },
@@ -128,8 +53,8 @@
        "coordinates":  [ -122.253736,37.871042 ]
     },
     "properties": {
-    "Date":"2019-03-30",
-    "Time":"9:29",
+    "Date":"2019-03-31",
+    "Time":"9:15",
     "Category":"WELFARE CHECK",
     "Incident Description":"CHECK WELFARE- 911 CALL",
     "Location":"CALVIN LAB",
@@ -140,14 +65,44 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.266867,37.867904 ]
+       "coordinates":  [ -122.251803,37.86958 ]
     },
     "properties": {
-    "Date":"2019-03-30",
-    "Time":"9:51",
+    "Date":"2019-03-31",
+    "Time":"9:42",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"I HOUSE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25265,37.869613 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"9:59",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/PIEDMONT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265768,37.870194 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"10:29",
     "Category":"PEDESTRIAN STOP",
     "Incident Description":"PEDESTRIAN STOP",
-    "Location":"BANWAY",
+    "Location":"OXFORD/FRANK SCHLESSINGER",
     "Synopsis":"NA"
     }
   },
@@ -155,30 +110,180 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.301123,37.88548 ]
+       "coordinates":  [ -122.271268,37.872093 ]
     },
     "properties": {
-    "Date":"2019-03-30",
-    "Time":"10:26",
-    "Category":"PEDESTRIAN STOP",
-    "Incident Description":"SUSPECT STOP",
-    "Location":"UNIVERSITY VILLAGE ALBANY",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.299579,37.883438 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"11:07",
+    "Date":"2019-03-31",
+    "Time":"10:59",
     "Category":"WELFARE CHECK",
     "Incident Description":"CHECK WELFARE- 911 CALL",
-    "Location":"1125 JACKSON ST",
+    "Location":"UC BERKELEY EXTENSION",
     "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257988,37.870034 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"11:07",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"BARROWS HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"11:44",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"WELFARE CHECK",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256707,37.87158 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"12:48",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25947,37.86668 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"13:11",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911",
+    "Location":"2424 CHANNING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256846,37.875521 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"15:06",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HEARST/LA LOMA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"15:12",
+    "Category":"SEX OFFENSES",
+    "Incident Description":"INDECENT EXPOSURE",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"15:29",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258337,37.868846 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"15:45",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/BARROWS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263868,37.874666 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"16:09",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HEARST/LECONTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256339,37.866327 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"16:37",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HASTE/BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.247122,37.865062 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"17:08",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY -REPORT",
+    "Location":"25 SPORTS LANE",
+    "Synopsis":"(FH-49-O) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HER WHITE HYUNDAI TUCSON, 6XYN664, W/S CKC-22, LOSS: $1,100, TAKEN: GRY MESSENGER BAG/LAPTOP/CONTENTS."
     }
   },
   {
@@ -188,10 +293,10 @@
        "coordinates":  [ -122.257058,37.86582 ]
     },
     "properties": {
-    "Date":"2019-03-30",
-    "Time":"12:27",
+    "Date":"2019-03-31",
+    "Time":"17:19",
     "Category":"PEDESTRIAN STOP",
-    "Incident Description":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
     "Location":"PEOPLES PARK",
     "Synopsis":"NA"
     }
@@ -200,179 +305,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.252876,37.87239 ]
+       "coordinates":  [ -122.248801,37.864256 ]
     },
     "properties": {
-    "Date":"2019-03-30",
-    "Time":"12:30",
-    "Category":"WELFARE CHECK",
-    "Incident Description":"CHECK WELFARE- 911 CALL",
-    "Location":"STADIUM PARKING STRUCTURE",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.252876,37.87239 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"12:52",
-    "Category":"TRAFFIC",
-    "Incident Description":"ACCIDENT / NO INJURIES",
-    "Location":"STADIUM PARKING STRUCTURE",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.297884,37.885236 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"15:52",
-    "Category":"ALL OTHER OFFENSES",
-    "Incident Description":"TRESPASS - REAL PROP OR STRUCTURE W/OUT OWNER CONSENT",
-    "Location":"SPROUTS FARMERS MARKET",
-    "Synopsis":"(MB-46-O) CITED FOR TRESPASSING WITHOUT OWNERS CONSENT, 1075 MONROE STREET-UVA."
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.258642,37.866028 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"16:08",
-    "Category":"SUSPICIOUS EVENT",
-    "Incident Description":"SUSPICIOUS VEHICLE",
-    "Location":"HASTE/TELEGRAPH",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.303909,37.882707 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"16:28",
-    "Category":"ALL OTHER OFFENSES",
-    "Incident Description":"WARRANT ARREST",
-    "Location":"FIELDING FIELD",
-    "Synopsis":"CUMBY, ERIC (MB-49-O) ARRESTED FOR A $10,000 APD MISDEMEANOR WARRANT AND FOR POSSESSION OF METHAMPHETAMINE FOR SALE, FIELDING FIELD-UVA. TO BPD JAIL."
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.25484,37.86623 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"16:41",
-    "Category":"ALL OTHER OFFENSES",
-    "Incident Description":"RULE VIOLATION",
-    "Location":"UNIT-2",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.252876,37.87239 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"18:11",
-    "Category":"VEHICLE CODE VIOLATION",
-    "Incident Description":"VEHICLE CODE VIOLATION",
-    "Location":"STADIUM PARKING STRUCTURE",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.252876,37.87239 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"18:45",
-    "Category":"WELFARE CHECK",
-    "Incident Description":"CHECK WELFARE- 911 CALL",
-    "Location":"SATHER TOWER",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.264364,37.870817 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"19:19",
-    "Category":"WELFARE CHECK",
-    "Incident Description":"CHECK WELFARE- 911 CALL",
-    "Location":"GRINNELL PATH",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.253049,37.873397 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"19:28",
-    "Category":"SUSPICIOUS EVENT",
-    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
-    "Location":"BOWLES HALL",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.246517,37.879208 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"19:43",
-    "Category":"SUSPICIOUS EVENT",
-    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
-    "Location":"LAWRENCE HALL OF SCIENCE",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.301123,37.88548 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"21:38",
+    "Date":"2019-03-31",
+    "Time":"18:23",
     "Category":"SUSPICIOUS EVENT",
     "Incident Description":"SUSPICIOUS PERSON",
-    "Location":"UNIVERSITY VILLAGE ALBANY",
+    "Location":"CLARK KERR CAMPUS",
     "Synopsis":"NA"
     }
   },
@@ -380,29 +320,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.3051,37.884477 ]
+       "coordinates":  [ -122.261205,37.867479 ]
     },
     "properties": {
-    "Date":"2019-03-30",
-    "Time":"22:49",
-    "Category":"VEHICLE CODE VIOLATION",
-    "Incident Description":"VEHICLE CODE VIOLATION",
-    "Location":"305 WEST END WAY",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.256034,37.875337 ]
-    },
-    "properties": {
-    "Date":"2019-03-30",
-    "Time":"22:50",
+    "Date":"2019-03-31",
+    "Time":"21:43",
     "Category":"SUSPICIOUS EVENT",
-    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
-    "Location":"FOOTHILL COMPLEX",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"DANA/DURANT",
     "Synopsis":"NA"
     }
   },
@@ -410,15 +335,45 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.257507,37.86652 ]
+       "coordinates":  [ -122.260388,37.868757 ]
     },
     "properties": {
-    "Date":"2019-03-30",
-    "Time":"23:57",
+    "Date":"2019-03-31",
+    "Time":"21:46",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF",
+    "Location":"ESHLEMAN HALL",
+    "Synopsis":"WALTON, JAHLIL (MB-20-O) ARRESTED FOR VANDALISM VIA MARKER TO SPRINKLER STAND PIPE, ESHLEMAN HALL. TO BPD JAIL. FS NOTIFIED."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.329831,37.917272 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"21:49",
     "Category":"WELFARE CHECK",
-    "Incident Description":"CHECK WELFARE- 911 CALL",
-    "Location":"2536 CHANNING WAY",
+    "Incident Description":"PERSON CALLING FOR HELP",
+    "Location":"RICHMOND FIELD STATION",
     "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304376,37.88463 ]
+    },
+    "properties": {
+    "Date":"2019-03-31",
+    "Time":"23:10",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"400 OHLONE AVE",
+    "Synopsis":"(FW-30-O) REPORTS A DISTURBANCE, 400 OHLONE AVE. MADE CONTACT, ADVICE GIVEN."
     }
   }
 ]
