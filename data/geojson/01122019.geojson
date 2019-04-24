@@ -1,0 +1,470 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.247597,37.880749 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"0:11",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING PEACE-ENTERTAINMENT",
+    "Location":"LHS VISTA LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262098,37.871701 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"0:37",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"VALLEY LIFE SCIENCE BLDG",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"0:45",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"2:42",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"DRUNK IN PUBLIC",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"01/12/18 0307 HOURS SMITH, HANNAH (FW-28-O) ARRESTED FOR BEING DRUNK IN PUBLIC, N/E HAAS PAVILION. TO BPD JAIL. TO BE RELEASED WHEN SOBER."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26605,37.870141 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"2:54",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSDE ASSIST BPD COVER",
+    "Location":"2144 OXFORD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.248745,37.876064 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"7:45",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"LBNL 6",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"10:49",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"RED OAK 6TH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"11:21",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259184,37.868706 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"12:30",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"BANC TELE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267838,37.86763 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"13:00",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANC SHATTUCK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26321,37.871598 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"13:13",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"LIFE SCIENCE ADDITION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263986,37.871515 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"13:42",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"EUCALYPTUS GROVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258786,37.866916 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"13:47",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY",
+    "Location":"CHANNING TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"15:35",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261205,37.867479 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"16:04",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT E DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301123,37.88548 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"16:21",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"UNIVERSITY VILLAGE ALBANY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"16:49",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"JACKSON STREET",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26655,37.872583 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"17:09",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSIDE ASSIST BPD COVER",
+    "Location":"IFO MIKES BIKES",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.300224,37.883677 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"17:31",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"1110 JACKSON STREET",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.270904,37.873626 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"18:25",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"MILVIA N HEARST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.302076,37.883678 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"18:59",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"805 KINKEAD WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261205,37.867479 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"20:27",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DANA/DURANT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26588,37.867845 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"20:36",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"FULTON/BANCROFT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258987,37.868869 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"21:13",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BARROWS/BANC",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"21:13",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - FAIL TO LEAVE",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259063,37.868642 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"22:25",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2500 BANCROFT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"22:34",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"WARRANT ARREST",
+    "Location":"ANNA HEAD",
+    "Synopsis":"OCC 01/12/2019 2234 WARDLAW, DAVID S (MW-46-O) ARRESTED FOR A $10,000 MISDEMEANOR WARRANT OUT OF SFPD, ANNA HEAD. LOCATED AS A WANTED PERSON OUT OF SFP. TOT BPD JAIL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260237,37.867179 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"23:20",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT IFO UNIT-3",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256707,37.87158 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"23:36",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT W BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258597,37.870137 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"23:41",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"DRUNK IN PUBLIC",
+    "Location":"BARROWS LANE",
+    "Synopsis":"OCCURED: 01/12/2019 2353 BONFILTAPIA, EUNICE (FO-19-S) ARRESTED FOR BEING INTOXICATED IN PUBLIC, BARROWS LANE. TO BPD JAIL, TO BE RELEASED WHEN SOBER."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256109,37.865434 ]
+    },
+    "properties": {
+    "Date":"2019-01-12",
+    "Time":"23:48",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"",
+    "Location":"2600 DWIGHT",
+    "Synopsis":"OCC 01/12/2019 2348 MCGILLVERY, KWAME (MB-19-O) CITED FOR BEING AN UNLICENSED DRIVER, 2600 DWIGHT ST."
+    }
+  }
+]
+}

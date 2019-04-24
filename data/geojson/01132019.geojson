@@ -1,0 +1,500 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265864,37.869661 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"0:26",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"FULTON/ALLSTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"0:33",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260038,37.869789 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"0:36",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"CESAR CHAVEZ CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258712,37.867806 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"0:40",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSIDE ASSIST-MISCELLANEOUS",
+    "Location":"DURANT/TELE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261161,37.86849 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"0:44",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 BANCROFT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256868,37.869024 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"0:49",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANC/BOWD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"1:16",
+    "Category":"MAINTENANCE ISSUE",
+    "Incident Description":"CAMPUS CONDITION-GROUNDS",
+    "Location":"N/SIDE OF CAMPUS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26593,37.870599 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"3:20",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OXFO N CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258992,37.862951 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"3:32",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSIDE ASSIST-MISCELLANEOUS",
+    "Location":"2600 TELEGRAPH AV",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304332,37.884975 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"5:09",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"485 OHLONEAVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258712,37.867806 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"8:30",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"TELE DURANT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"8:41",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"9:33",
+    "Category":"DRUG VIOLATIONS",
+    "Incident Description":"POSSESION OF METHAMPHETAMINES",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"OCCD 1/13/19, 0933 HRS. HOLSING, HANS (MW-55-O) CITED FOR POSSESSION OF METHAMPHETAMINES AND DRUG PARAPHERNALIA, UNIVERSITY HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263399,37.873338 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"10:38",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"HILGARD HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260038,37.869789 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"13:31",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"CESAR CHAVEZ CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"13:42",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265861,37.869687 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"14:12",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"ALLSTON OXFORD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256707,37.87158 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"14:32",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BOWDITCH DURANT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266196,37.873367 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"14:35",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OXFORD S BERKELEY WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259358,37.874366 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"14:39",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"HESSE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"14:44",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWI EDNA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.246517,37.879208 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"15:07",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"ENTRANCE OF LBNL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257161,37.875733 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"15:13",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY-REPORT",
+    "Location":"UPPER HEARST STRUCTURE",
+    "Synopsis":"OCCD 01/13/2019 1030-1513. (FW-50-E) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HER GREY 2015 TOYOTA PRIUS, UPPER HEARST PARKING STRUCTURE. TAKEN: BACKPACK AND CONTENTS, LOSS $50."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"15:18",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"DWI W HILEGAS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"16:52",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26471,37.873456 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"17:02",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"WARRANT ARREST",
+    "Location":"GENETICS & PLANT BIOLOGY",
+    "Synopsis":"OCCD D 1/13/2019 1709. MCCLAY, JAVARRI (MB-22-O) ARRESTED FOR TWO MISDEMEANOR WARRANTS OUT OF PLACERVILLE, VIOLATION OF A COURT ORDER, AND PROBATION VIOLATION, GPB TO BPD JAIL. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"17:14",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256707,37.87158 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"19:44",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSIDE ASSIST-MISCELLANEOUS",
+    "Location":"BOWDITCH/DURANT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304168,37.883142 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"22:09",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"RED OAK/WEST END WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"22:42",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"22:47",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"UNIVERSITY DR",
+    "Synopsis":"OCC 1/14/2019 2247 BROWN, STEVEN K (MW-53-S) CITED FOR LODGING ON CAMPUS, UNIVERSITY DR N/W CORNER."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25046,37.865957 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"22:57",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"WARRING/DWIGHT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-01-13",
+    "Time":"23:42",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"BANWAY",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

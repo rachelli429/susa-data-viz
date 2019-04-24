@@ -1,0 +1,395 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"0:50",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258642,37.866028 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"1:01",
+    "Category":"OUTSIDEASSIST",
+    "Incident Description":"OUTSIDEASSIST - BPD",
+    "Location":"HASTE/TELE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.302504,37.88307 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"1:20",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"RED OAK/6TH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264683,37.873486 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"1:35",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"GPB GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253404,37.871011 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"3:40",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"BOALT LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259395,37.873187 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"5:49",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"MEMORIAL GLADE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255708,37.867616 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"6:22",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"UNIT-1 DEUTSCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"7:05",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258803,37.869647 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"7:29",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"SPROUL HALL",
+    "Synopsis":"OCCD 2/6/2019 0729 BROKEN PELLET GUN FOUND, TAKEN FOR DESTRUCTION, SPROUL HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"8:17",
+    "Category":"SUPPLEMENT",
+    "Incident Description":"SUPPLEMENT",
+    "Location":"UCPD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.302149,37.8834 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"8:41",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"865 KINKEAD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"12:54",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266856,37.869825 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"13:18",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF - REPORT",
+    "Location":"MAGNES BLDG",
+    "Synopsis":"OCCD 2/1/2019-2/6/2019 UNK TIME (MUA-E) REPORTS VANDALISM VIA WAX CRAYON, MARKER, AND STICKER, MAGNES BLDG."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"13:57",
+    "Category":"DRUG VIOLATIONS",
+    "Incident Description":"POSSESION OF METHAMPHETAMINES",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"OCCD 2/6/2019 1419 DANIELS, ERIC (MB-28-O) ARRESTED FOR POSSESSION OF METHAMPHETAMINES, FELON IN POSSESSION OF PEPPER SPRAY, AND PROBATION VIOLATION, UNDERHILL LOT TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259469,37.8703 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"15:18",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"SATHER GATE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265027,37.871785 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"16:36",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY-REPORT",
+    "Location":"WEST CRESCENT",
+    "Synopsis":"OCCURRED: 02/06/19 1800 -2300 HOURS (FWA-O) REPORTS AUTO BURGLARY TO HER WHITE 2015 LEXUS VIA WINDOW SMASH, WEST CRESCENT. TOTAL LOSS OF $2200.00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"18:12",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.222818,37.866276 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"18:21",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"GRIZZLY PEAK BLVD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261205,37.867479 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"20:23",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265828,37.866942 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"20:38",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT FULTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258642,37.866028 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"22:11",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSDE ASSIST BPD COVER",
+    "Location":"HASTE TELE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261161,37.86849 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"22:15",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 BLK BANCROFT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"23:19",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259063,37.868642 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"23:22",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2500 BLK CHANNING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256707,37.87158 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"23:36",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BOWDITCH DURANT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301123,37.88548 ]
+    },
+    "properties": {
+    "Date":"2019-02-06",
+    "Time":"23:48",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNIVERSITY VILLAGE ALBANY",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

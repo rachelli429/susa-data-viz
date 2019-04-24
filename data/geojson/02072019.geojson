@@ -1,0 +1,605 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"0:04",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256159,37.867052 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"0:20",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"CROSSROADS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.247597,37.880749 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"0:24",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"LHS VISTA LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.247597,37.880749 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"0:31",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"LHS VISTA LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"0:46",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"STRUCTURE C",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266219,37.868049 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"0:57",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"FULTON S CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254963,37.868137 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"1:53",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNIT-1",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260222,37.86918 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"4:02",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"LOWER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254698,37.870815 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"4:26",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"WURSTER HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257988,37.870034 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"5:07",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"VIOLATION OF PROBATION",
+    "Location":"BARROWS HALL",
+    "Synopsis":"OCCD 2/7/2019 0523 ROBINSON, DEMORRIS (MB-46-O) ARRESTED FOR PROBATION VIOLATION AND VIOLATION OF A COURT ORDER, BARROWS HALL TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"5:42",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"VANDALISM TO TELEPHONE",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260559,37.875021 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"6:14",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"EUCLID N HEARST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"7:20",
+    "Category":"OUTSIDEASSIST",
+    "Incident Description":"OUTSIDEASSIST - BPD",
+    "Location":"REC SPRT FAC",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256304,37.866521 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"8:07",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"2420 BOWDITCH ST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"8:31",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"10:40",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251681,37.866823 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"11:33",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"PIED HASTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259672,37.875023 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"11:34",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"NORTHGATE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254162,37.86676 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"12:01",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HASTE COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.249647,37.865039 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"12:28",
+    "Category":"MOTOR VEHICLE THEFT",
+    "Incident Description":"VEHICLE THEFT -REPORT",
+    "Location":"CKC-2",
+    "Synopsis":"OCCD 2/6/2019 1600-2/7/2019 1150 (MW-18-S) REPORTS THE THEFT OF HIS HONDA SCOOTER, CKC-2 LOT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"12:53",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"UCPD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253893,37.869768 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"14:17",
+    "Category":"FORGERY AND COUNTERFEITING",
+    "Incident Description":"FRAUDULENT USE OF CREDIT CARD",
+    "Location":"BOALT HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.302681,37.885254 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"14:31",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -BIKE REPORT",
+    "Location":"605 OHLONE AVE",
+    "Synopsis":"OCCD 2/7/2019 (FW-27-S) REPORTS THE THEFT OF TWO BICYCLE TIRES, 605 OHLONE. LOSS $150."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"15:46",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"16:59",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BAN IFO REC SPRT FAC GAR",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"18:36",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"GRAND THEFT -REPORT",
+    "Location":"CAMPUS",
+    "Synopsis":"OCCURRED: 02/07/19 1244 HOURS (FO-28-S) REPORTS GRAND THEFT VIA PHONE SCAM. LOSS OF $2900.00."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267504,37.865807 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"19:57",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"SHATTUCK N CHANN",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"19:58",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"REC SPRT FAC",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260716,37.872794 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"20:08",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"GRAND THEFT -REPORT",
+    "Location":"MOFFITT LIBRARY",
+    "Synopsis":"02/07/19 1230-1300 HOURS (MA-20-S) REPORTS THE THEFT OF HIS SILVER APPLE MACBOOK PRO, MOFFITT LIBRARY. LOSS OF $2000.00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"20:38",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265027,37.871785 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"21:22",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY-REPORT",
+    "Location":"WEST CRESCENT",
+    "Synopsis":"OCCURRED: 02/07/19 1915 - 2115 HOURS (MW-28-O) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HIS BLUE AUDI A3, WEST CRESCENT. TOTAL LOSS OF $1100.00."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259063,37.868642 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"21:28",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2500 BANCROFT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264292,37.867705 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"21:48",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT TANG CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263006,37.864554 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"22:15",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT ELLSWWORTH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266684,37.876456 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"22:23",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OXFORD VIRGINIA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.270728,37.871804 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"22:27",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"UNI MILVIA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26053,37.868756 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"23:16",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - FAIL TO LEAVE",
+    "Location":"LOWER SPROUL GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264829,37.868998 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"23:21",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"EDWARDS TRACK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265027,37.871785 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"23:35",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY-REPORT",
+    "Location":"WEST CRESCENT",
+    "Synopsis":"OCCURRED: 02/07/19 1900 - 2335 HOURS (MH-34-S) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HIS BLACK MAZDA, WEST CRESCENT. NO LOSS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265091,37.870017 ]
+    },
+    "properties": {
+    "Date":"2019-02-07",
+    "Time":"23:42",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF - REPORT",
+    "Location":"HELLMAN TENNIS COURTS",
+    "Synopsis":"OCCURRED: 02/06/19 2342 HOURS - 02/07/19 2342 HOURS GRAFITTI VIA PINK AND WHITE PAINT, NORTH WALL HELLMAN TENNIS COURTS."
+    }
+  }
+]
+}

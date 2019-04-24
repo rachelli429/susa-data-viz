@@ -1,0 +1,380 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.222818,37.866276 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"3:36",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSIDE ASSIST-MISCELLANEOUS",
+    "Location":"GRIZZLY PEAK BLVD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"6:24",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25265,37.86963 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"6:58",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"PIEDMONT/BANCROFT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26588,37.867845 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"7:35",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"FULTON N BANCROFT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"8:43",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304074,37.87324 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"8:57",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"2ND/CEDAR",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.270553,37.870063 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"12:07",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CENTER W MILVIA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264292,37.867705 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"12:58",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSDE ASSIST BPD COVER",
+    "Location":"TANG CENTER",
+    "Synopsis":"OCCURED: 02/10/19 1258 OUTSIDE ASSIST TO BERKELEY PD WITH A NOTICE OF REPORT, TANG CENTER."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301933,37.885053 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"13:11",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"300 GOODING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256707,37.87158 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"13:13",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266818,37.873051 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"13:52",
+    "Category":"TOW",
+    "Incident Description":"EXPIRED REGISTRATION OVER 6 MO",
+    "Location":"1925 WALNUT ST",
+    "Synopsis":"OCCURRED: 02/10/19 1446 HOURS WHITE CHEVY COBALT TOWED FOR HAVING EXPIRED REGISTRATION OVER 6 MONTHS, 1925 WALNUT ST. TO M&A TOW."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"13:55",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254698,37.870815 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"14:16",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"BICYCLE THEFT -IN- PROGRESS",
+    "Location":"WURSTER HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263207,37.867229 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"14:27",
+    "Category":"STOLEN PROPERTY",
+    "Incident Description":"POSSESSION OF STOLEN PROPERTY",
+    "Location":"ELLSWORTH N DURANT",
+    "Synopsis":"OCCURED: 02/10/2019 1531 COOMBS, JARED (MW-25-O) ARRESTED FOR POSSESSION OF STOLEN PROPERTY, POSSESSION OF BURGLARY TOOLS, GIVING FALSE INFORMATION TO A POLICE OFFICER, AND ISSUED A 7 DAY STAY AWAY ORDER FROM UC PROPERTY, ELLSWORTH N DURANT. TO BPD JAIL. (MO-26-O) AND (FB-19-O) BOTH ISSUED 7 DAY STAY AWAY ORDERS FROM UC PROPERTY, ELLSWORTH N DURANT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"20:09",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"20:17",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267187,37.876262 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"20:40",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"OXFORD TRACT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"21:08",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ANNA HEAD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256436,37.873858 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"21:39",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"STANLEY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255677,37.875686 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"22:10",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HEARST/HIGHLAND",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25265,37.86963 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"22:20",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"PIEDMONT N BANCROFT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25833,37.874789 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"22:22",
+    "Category":"BURGLARY",
+    "Incident Description":"BURGLARY -REPORT",
+    "Location":"SUTARDJA DAI HALL",
+    "Synopsis":"OCCD 02/08/19 1655 - 02/10/19 2222 FOUND BUILDING BURGLARY VIA OPENED LOADING DOCK GATE AND UNSECURED DOOR, SUTARDJA DAI HALL. UNKNOWN LOSS AND TAKE AT THIS TIME."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2578,37.872075 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"22:32",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"SATHER TOWER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254698,37.870815 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"23:22",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"WURSTER HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255708,37.867616 ]
+    },
+    "properties": {
+    "Date":"2019-02-10",
+    "Time":"23:50",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"UNIT-1 DEUTSCH",
+    "Synopsis":"OCCD 02/10/19 2350 (MB-25-O) ISSUED A 7 DAY STAY AWAY FROM ALL UC PROPERTY, UNIT-1 DEUTSCH."
+    }
+  }
+]
+}

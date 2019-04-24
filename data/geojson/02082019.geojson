@@ -1,0 +1,635 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"0:01",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266288,37.87414 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"0:25",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"OXFORD HEARST",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260261,37.866724 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"2:46",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANN UNIT 3",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"5:13",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254451,37.86834 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"7:48",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"COLL S DUR",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"7:57",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"WARRANT ARREST",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":"OCCD 2/8/2019 0814 ANGHILANTE, PAUL (MW-50-O) ARRESTED ON A BPD MISDEMEANOR WARRANT, RSF GARAGE TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264292,37.867705 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"8:39",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSIDE ASSIST-MISCELLANEOUS",
+    "Location":"TANG CENTER",
+    "Synopsis":"SUSPECTED VIOLENT INJURY REPORT, TANG CENTER."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"9:00",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OPTOMETRY WAY",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"9:37",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OPT WAY",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266288,37.87414 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"9:51",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OX N HEARST",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259685,37.86946 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"10:07",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"ASUC GARAGE",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264683,37.873486 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"10:30",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"GPB GARAGE",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25959,37.872195 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"10:35",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"DOE LIBRARY",
+    "Synopsis":"OCCD 2/8/2019 1035 (MH-37-E) REPORTS SUBJECT CAUSING A DISTURBANCE, DOE LIBRARY.  NO PROSECUTION SOUGHT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264292,37.867705 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"10:48",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DUR IFO TANG",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"11:27",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"DWINELLE HALL",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.272657,37.868556 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"12:45",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSIDE ASSIST - BPD",
+    "Location":"MLK JR WAY",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"12:44",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"13:24",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"UCPD",
+    "Synopsis":"OCCD 1/28/2019-1/29/2019 (FB-46-E) REPORTS SUSPICIOUS POSTCARDS, 1 SPROUL HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"13:40",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MLK",
+    "Synopsis":"OCCD 2/6/2019 1500-1505 (FA-19-S) REPORTS THEFT OF WALLET, MLK.  LOSS $1."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"15:03",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"ANNA HEAD",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"16:05",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26053,37.868756 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"18:37",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"LOWER SPROUL GARAGE",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260878,37.867763 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"18:45",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON - REPORT",
+    "Location":"BLACKWELL HALL",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"19:20",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"ENERGY BIOSCIENCES INSTITUTE",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265828,37.866942 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"19:47",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT E FULTON",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25872,37.867804 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"20:06",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"TELE DURANT",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"20:23",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HASTE BOWDITCH",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258783,37.866918 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"20:24",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2500 CHANNING",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"20:25",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"BARROW LANE",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258649,37.867633 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"20:48",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2500 BLK DURANT",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26108,37.866631 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"20:50",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING DANA",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254451,37.86834 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"21:10",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT COLLEGE",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"21:14",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"WARRANT ARREST",
+    "Location":"STRUCTURE C",
+    "Synopsis":"OCCURRED: 02/08/19 2114 HOURS GERLACH, JENNIFER (FW-45-O) ARRESTED FOR ONE SANTA MONICA PD MISDEMEANOR WARRANT, ELLSWORTH STRUCTURE. CITED AND RELEASED AT THE SCENE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.273037,37.871584 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"21:23",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"UNI MLK",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260716,37.872794 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"21:24",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MOFFITT LIBRARY",
+    "Synopsis":"OCCURRED: 02/08/19 2102-2105 HOURS (MW-41-O) REPORTS THE THEFT OF HIS BLK APPLE I PHONE 8, 501 MOFFITT LIBRARY. LOSS OF $600.00. SUSPECT: MA, 20, 508, GRY HOODY UNDER DARK JACKET, MED BUILD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256486,37.867231 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"22:00",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BOWDITCH CHANNING",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253893,37.869768 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"22:24",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT IFO BOALT",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260878,37.867763 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"22:24",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT IFO BLACKWELL",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261796,37.868553 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"22:26",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT IFO DANA",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258712,37.867806 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"22:37",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT TELEGRAPH",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"23:28",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26053,37.868756 ]
+    },
+    "properties": {
+    "Date":"2019-02-08",
+    "Time":"23:35",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"LOWER SPROUL GARAGE",
+    "Synopsis":"OCCURRED: 02/09/19 2335 HOURS (MB-38-O) EXCLUDED FROM CAMPUS FOR 7 DAYS, LOWER SPROUL GARAGE."
+    }
+  }
+]
+}

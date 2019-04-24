@@ -1,0 +1,410 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"4:11",
+    "Category":"MOTOR VEHICLE THEFT",
+    "Incident Description":"RECOVERED STOLEN VEHICLE",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"OCCD 01/09/2019, 0411. RECOVERED RED 2015 JEEP WRANGLER, 4WDONLY, OUT OF VALLEJO PD AND ONE RECOVERED LICENSE PLATE, 4LLM571, OUT OF BENICIA PD, UNDERHILL LOT TO M&A TOW."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"4:21",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301933,37.885053 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"7:46",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"300 GOODING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260331,37.867138 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"8:11",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"UNIT-3",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254698,37.870815 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"10:29",
+    "Category":"CALIFORNIA CODE OF REGULATIONS VIOLATIONS",
+    "Incident Description":"CALIFORNIA CODE OF REGULATIONS",
+    "Location":"WURSTER HALL",
+    "Synopsis":"OCCD 01/09/2019, 1029 (MHA-E) GIVEN ADVICE REGARDING DISRUPTIVE ALUMNI (MB-70-O), WURSTER HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"10:49",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"10:50",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2489 TELEGRAPH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"10:57",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258157,37.869482 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"11:02",
+    "Category":"FORGERY AND COUNTERFEITING",
+    "Incident Description":"FRAUDULENT USE OF CREDIT CARD",
+    "Location":"HEARST FIELD ANNEX",
+    "Synopsis":"OCCD 12/21/2018, UNKNOWN TIME (FXA-E) REPORTS FRAUDULENT USE OF UC BLU CARD, HEARST FIELD ANNEX."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304652,37.883756 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"12:07",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"625 WEST END WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"13:07",
+    "Category":"CALIFORNIA CODE OF REGULATIONS VIOLATIONS",
+    "Incident Description":"CALIFORNIA CODE OF REGULATIONS",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"OCCD 01/09/2019, 1249 REMOVAL OF SIGN, PEOPLES PARK TO UCPD."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254313,37.876652 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"13:19",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"LBNL-88",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257116,37.872735 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"13:40",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"GRAND THEFT -REPORT",
+    "Location":"LECONTE HALL",
+    "Synopsis":"OCCD 12/15/2018 - 01/07/2019 (MWA-E) REPORTS THEFT OF PROJECTOR,LECONTE HALL. LOSS $3300"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.269939,37.864598 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"13:57",
+    "Category":"TOW",
+    "Incident Description":"TOWED VEHICLE-NO ONE WITH DL",
+    "Location":"MILVIA AND HASTE",
+    "Synopsis":"OCCD 01/09/2019, 0453 1999 WHITE CHEVY TAHOE, 6SLL522, TOWED FOR UNLICENSED DRIVER, MILVIA AND HASTE TO M&A TOW."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.245769,37.880194 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"15:02",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"LHS TERRACE LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264683,37.873486 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"17:32",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"GPB GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"17:59",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.245814,37.883011 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"18:55",
+    "Category":"TRAFFIC",
+    "Incident Description":"ACCIDENT / MINOR INJURIES",
+    "Location":"CENTENNIAL/GP",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"19:31",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSIDE ASSIST - BPD",
+    "Location":"UCPD",
+    "Synopsis":"OCCURRED: 10/2018 - PRESENT OUTSIDE ASSIST TO UCSD REGARDING CYBER STALKING. (FA-21-O) GIVEN CIVIL ADVICE REGARDING CYBER STALKING, UCPD."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26321,37.871598 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"20:11",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PACKAGE",
+    "Location":"LIFE SCIENCE ADDITION",
+    "Synopsis":"OCCURRED: 1/9/19 2011 HOURS SUSPICIOUS PACKAGE, LSA. PROVED OKAY."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266959,37.871838 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"20:22",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY",
+    "Location":"UNIVERSITY HALL WEST LOT",
+    "Synopsis":"OCCURRED: 1/9/19 2018-2022 HOURS (MW-50-O) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HIS 2017 GRAY HONDA CIVIC, NO LOSS."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266959,37.871838 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"21:12",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"IFO UNIVERSITY HALL WEST LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"22:32",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263006,37.864554 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"22:46",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT ELLSWORTH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"23:03",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260878,37.867763 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"23:23",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"BLACKWELL HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261174,37.86872 ]
+    },
+    "properties": {
+    "Date":"2019-01-09",
+    "Time":"23:28",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"DANCE STUDIO",
+    "Synopsis":"NA"
+    }
+  }
+]
+}
