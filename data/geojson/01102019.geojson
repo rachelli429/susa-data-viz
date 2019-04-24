@@ -1,0 +1,215 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257159,37.872243 ]
+    },
+    "properties": {
+    "Date":"2019-01-10",
+    "Time":"4:52",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"BIRGE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301359,37.884718 ]
+    },
+    "properties": {
+    "Date":"2019-01-10",
+    "Time":"8:39",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"435 GOODING WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-10",
+    "Time":"8:48",
+    "Category":"FIRE",
+    "Incident Description":"FIRE OF UNKNOWN TYPE",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-01-10",
+    "Time":"8:53",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"S END OF WEST END WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259184,37.868706 ]
+    },
+    "properties": {
+    "Date":"2019-01-10",
+    "Time":"9:05",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCAND TELE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258337,37.868846 ]
+    },
+    "properties": {
+    "Date":"2019-01-10",
+    "Time":"9:47",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFTAND BARROW",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.271268,37.872093 ]
+    },
+    "properties": {
+    "Date":"2019-01-10",
+    "Time":"9:58",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"MISD. HIT & RUN-REPORT",
+    "Location":"1995 UNIVERSITY AV",
+    "Synopsis":"OCCD 01/09/2018, 0650-1525 (FA-62-E) REPORTS DAMAGE TO HER GRAY HONDA CIVIC, 7WGZ908 VIA HIT AND RUN, 1995 UNIVERSITY."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257116,37.872735 ]
+    },
+    "properties": {
+    "Date":"2019-01-10",
+    "Time":"10:21",
+    "Category":"MISC. SERVICE",
+    "Incident Description":"FOUND PROPERTY",
+    "Location":"LECONTE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25122,37.865931 ]
+    },
+    "properties": {
+    "Date":"2019-01-10",
+    "Time":"12:18",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT AND PIEDMONT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259509,37.867409 ]
+    },
+    "properties": {
+    "Date":"2019-01-10",
+    "Time":"14:23",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"SATHER GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25614,37.865436 ]
+    },
+    "properties": {
+    "Date":"2019-01-10",
+    "Time":"14:31",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"DWIGHT E OF BOWDITCH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-01-10",
+    "Time":"16:29",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSIDE ASSIST - BPD",
+    "Location":"CAMPUS",
+    "Synopsis":"OCCD 09/2018, UNKNOWN DATE AND TIME SUSPECTED VIOLENT INJURY REPORT, UNKNOWN LOCATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264683,37.873486 ]
+    },
+    "properties": {
+    "Date":"2019-01-10",
+    "Time":"18:17",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON - REPORT",
+    "Location":"GPB GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.759566,38.541843 ]
+    },
+    "properties": {
+    "Date":"2019-01-10",
+    "Time":"20:03",
+    "Category":"MUTUAL AID SERVICE",
+    "Incident Description":"CIVIL DISTRUBANCE MUTUAL AID REQUEST",
+    "Location":"UC DAVIS",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

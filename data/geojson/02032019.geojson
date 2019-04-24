@@ -1,0 +1,230 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"7:42",
+    "Category":"TOW",
+    "Incident Description":"EXPIRED REGISTRATION OVER 6 MO",
+    "Location":"8TH/RED OAK",
+    "Synopsis":"OCCD 2/3/19, 0742 HRS GREEN 2002 KIA SEDONA LX MINIVAN, 4VYE066, TOWED FOR HAVING EXPIRED REGISTRATION OVER 6 MONTHS, 8TH/RED OAK-UVA. TO AVENUE TOW."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.303156,37.882742 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"8:34",
+    "Category":"BURGLARY",
+    "Incident Description":"BURGLARY -REPORT",
+    "Location":"540 RED OAK AVE",
+    "Synopsis":"OCCD 2/2/19 2330 - 2/3/19 0700 HRS (MW-48-O) REPORTS BURGLARY VIA WINDOW, 540 RED OAK -UVA. TAKE: TWO IPHONES, LOSS $1660"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260554,37.875088 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"8:48",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROMCAMPUS",
+    "Location":"2481 HEARST",
+    "Synopsis":"OCCD 2/3/19, 0848 HRS (MW-56-O) CONTACTED FOR TRESPASSING AND ISSUED A 7 DAY STAY AWAY ORDER FROM ALL UC PROPERTY, 2481 HEARST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.303156,37.882742 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"10:34",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF - REPORT",
+    "Location":"540 RED OAK AVE",
+    "Synopsis":"OCCD 2/3/19, 1034 HRS VANDALISM VIA CUT FENCE, 540 RED OAK AVE -UVA."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255152,37.869854 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"11:25",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"KROEBER HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304168,37.883142 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"11:57",
+    "Category":"TOW",
+    "Incident Description":"TOWED VEHICLE-POSTED TOW AREA",
+    "Location":"WEST END/N RED OAK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26593,37.870599 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"13:36",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"RESISTING ARREST",
+    "Location":"OXFORD CENTER",
+    "Synopsis":"OCCD 2/3/19, 1340 HRS ELLIS, MATTHEW (MW-29-O) ARRESTED FOR RESISTING ARREST, OXFORD/CENTER. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266196,37.873367 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"14:25",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OXFORD BERK WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256868,37.869024 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"14:52",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BOW S BAN",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.303265,37.883595 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"16:04",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"725 KULA GULF WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258614,37.869286 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"16:40",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"UCPD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259685,37.86946 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"17:25",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ASUC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259184,37.868706 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"20:59",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT W TELE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"21:58",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING IFO UNDERHILL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25484,37.86623 ]
+    },
+    "properties": {
+    "Date":"2019-02-03",
+    "Time":"23:15",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNIT-2",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

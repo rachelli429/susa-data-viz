@@ -1,0 +1,260 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258597,37.870137 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"4:13",
+    "Category":"TOW",
+    "Incident Description":"TOWED VEHICLE-POSTED TOW AREA",
+    "Location":"BARROWS LANE",
+    "Synopsis":"OCCD 2/2/2019 0413 (MW-21-S) CONTACTED FOR RULES VIOLATION, BARROWS LANE. BLUE 2002 YAMAHA MOTORSCOOTER TOWED FOR BEING PARKED IN A POSTED TOW AWAY AREA, AND BEING A HAZARD, BARROWS LANE TO M&A TOW."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26053,37.868756 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"8:26",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"LOWER SPROUL GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256751,37.87064 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"9:15",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"PEPPERTREE LN",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"10:55",
+    "Category":"MOTOR VEHICLE THEFT",
+    "Incident Description":"VEHICLE THEFT -REPORT",
+    "Location":"I HOUSE",
+    "Synopsis":"OCCD 02/01/2019 1600-02/02/2019 1055 (MW-19-S) REPORTS THEFT OF BLUE YAMAHA ZUMA SCOOTER, 16G2134. IHOUSE. RECOVERED AND RELEASED TO RO."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"12:10",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"STRUCTURE C",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301134,37.883376 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"13:38",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"RED OAK/GOODING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25069,37.871133 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"14:09",
+    "Category":"SPECIAL EVENT",
+    "Incident Description":"SPECIAL EVENT -SPORTS",
+    "Location":"MEMORIAL STADIUM",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"14:15",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"OCCD 02/02/2019, 1415 (MW-49-O) CONTACTED FOR FAILURE TO REGISTER VIOLATION AND EXCLUDED FROM ALL UC PROPERTY FOR 7 DAYS, UPPER SPROUL PLAZA."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255144,37.875394 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"15:40",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"FOOTHILL-6",
+    "Synopsis":"OCCD 2/02/19 1400-1420 HRS (FW-19-S) REPORTS THE THEFT OF HER GRAY MACBOOK PRO LAPTOP, FOOTHILL-6 RM 6C32G. LOSS $1000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266684,37.876456 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"15:46",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"UNLICENSED DRIVER",
+    "Location":"VIRGINIA AND OXFORD",
+    "Synopsis":"OCCD 2/02/19, 1546 HRS CALLOWAYPIERSON, BRIANA (FB-27-O) CITED FOR BEING AN UNLICENSED DRIVER, EXPIRED REGISTRATION AND NO LICENSE PLATE, VIRGINIA/OXFORD."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261404,37.875209 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"16:00",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"STRUCTURE A",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26053,37.868756 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"17:10",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"LOWER SPROUL GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259184,37.868706 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"17:44",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"BANC TELE",
+    "Synopsis":"OCCD 2/2/19, 1744 HRS POWERS, DONAVAN (MW-49-O) ARRESTED FOR VIOLATION OF CAMPUS EXCLUSION ORDER, BANC/TELE. TO SANTA RITA JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301123,37.88548 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"19:17",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY-REPORT",
+    "Location":"UNIVERSITY VILLAGE ALBANY",
+    "Synopsis":"OCCURED: 02/02/19 1800-1912.(FA-45-O) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HER 2004 GREY VW GOLF, 6MMZ149, UVA STAFF PARKING LOT, NO LOSS."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251803,37.86958 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"19:48",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"GRAND THEFT -REPORT",
+    "Location":"I HOUSE",
+    "Synopsis":"OCCURED: 02/01/19 1055-1500. (FA-27-S) REPORTS GRAND THEFT OF $10,000 WORTH OF APPLE GIFT CARDS VIA PHONE SCAM, I HOUSE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"20:34",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.249576,37.866004 ]
+    },
+    "properties": {
+    "Date":"2019-02-02",
+    "Time":"23:59",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"PROSPECT N/ DWIGHT",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

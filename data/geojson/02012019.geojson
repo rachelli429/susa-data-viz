@@ -1,0 +1,335 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267399,37.86491 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"0:37",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"SHATTUCK S HASTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.246206,37.883142 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"3:07",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"GOLF COURSE RD E GRIZZLY PEAK BLVD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266261,37.868738 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"3:20",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"2224 FULTON ST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264292,37.867705 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"8:09",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"TANG CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"8:42",
+    "Category":"BIKE STOP",
+    "Incident Description":"BIKE STOP",
+    "Location":"COLLEGE/STEWART",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"8:56",
+    "Category":"TRAFFIC",
+    "Incident Description":"ACCIDENT / NO INJURIES",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.302073,37.873188 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"9:38",
+    "Category":"FORGERY AND COUNTERFEITING",
+    "Incident Description":"FRAUDULENT USE OF CREDIT CARD",
+    "Location":"1608 1608 4TH STREET",
+    "Synopsis":"OCCD 01/30/2019, 1730 (MH-41-E) REPORTS FRAUDULENT USE OF UC BLU CARD, CSS. LOSS $0.09."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"11:06",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"OCCD 02/01/2019, 1109 (FX-A-S) REPORTS DISTURBANCE, UPPER SPROUL PLAZA. NO PROSECUTION SOUGHT. SUSPECT: MALE, WHITE, 49, 5-10, 195, BROWN HAIR, HAZEL EYES."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259184,37.868706 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"11:25",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"BANC TELE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"13:16",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"ANNA HEAD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.298287,37.884388 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"14:31",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"MONROE/10TH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"14:37",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"2151 BERKELEY WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256183,37.867053 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"14:45",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"VIOLATION OF PROBATION",
+    "Location":"THE DEN",
+    "Synopsis":"OCCD 02/01/2019, 1520 (MW-23-O) ARRESTED FOR COURT ORDER VIOLATION, POSSESSION OF METHAMPHETAMINE, POSSESSION OF PARAPHERNALIA AND PROBATION VIOLATION, TRANSPORTED FOR PSYCHIATRIC EVALUATION, PEOPLES PARK TO JGP VIA PARAMEDICS PLUS. LATER TRANSPORTED TO SANTA RITA JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254844,37.86623 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"15:59",
+    "Category":"OUTSIDE ASSIST-MISCELLANEOUS",
+    "Incident Description":"OUTSIDE ASSIST-MISCELLANEOUS",
+    "Location":"2650 HASTE ST",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.241964,37.874133 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"16:07",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS-CULTIVATED, FENCED, POSTED LAND",
+    "Location":"LBNL-62",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304332,37.884975 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"16:10",
+    "Category":"MOTOR VEHICLE THEFT",
+    "Incident Description":"VEHICLE THEFT -REPORT",
+    "Location":"485 OHLONE AVE",
+    "Synopsis":"OCCD 01/31/2019 2030 - 02/01/2019 1600 HRS (MWA-S) REPORTS THE THEFT OF HIS BLUE 2012 KAWASAKI ZX1400R NINJA MOTORCYCLE, 21E3356, 485 OHLONE AVE-UVA."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"17:13",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"OCCD 2/1/2019 1640-1645 (FA-19-S) REPORTS THE THEFT OF HER BACKPACK AND CONTENTS, 183 DWINELLE.  LOSS $1705."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259216,37.875412 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"17:36",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"ETCHEVERRY HALL",
+    "Synopsis":"OCCURRED: 02/01/19 1000-1700 HOURS (FW-25-S) REPORTS THE THEFT OF HER BICYCLE LIGHT, ETCHEVERRY HALL. LOSS OF $35.00."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265861,37.869687 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"18:19",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OX ALLSTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26471,37.873456 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"19:43",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF - REPORT",
+    "Location":"GENETICS & PLANT BIOLOGY",
+    "Synopsis":"OCCD 2/1/2019 1745-1943 (MWA-E) REPORTS VANDALISM VIA WINDOW SMASH TO 1ST FLOOR VENDING MACHINE, GPB."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255144,37.874934 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"21:02",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"STERN HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255144,37.874934 ]
+    },
+    "properties": {
+    "Date":"2019-02-01",
+    "Time":"21:53",
+    "Category":"OTHER ASSAULTS",
+    "Incident Description":"BATTERY AGAINST PEACE OFFICER",
+    "Location":"STERN HALL",
+    "Synopsis":"OCCURRED: 02/1/19 2205 HOURS SMITH, BYRON (MB-23-O) ARRESTED FOR BATTERY AGAINST A PEACE OFFICER, RESISTING ARREST AND TRESPASSING, STERN HALL. TO SANTA RITA JAIL"
+    }
+  }
+]
+}

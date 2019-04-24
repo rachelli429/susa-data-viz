@@ -1,0 +1,215 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256845,37.87552 ]
+    },
+    "properties": {
+    "Date":"2019-01-11",
+    "Time":"0:48",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"HEARST GAYLEY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259672,37.875023 ]
+    },
+    "properties": {
+    "Date":"2019-01-11",
+    "Time":"1:18",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"NORTHGATE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-11",
+    "Time":"2:52",
+    "Category":"DRUG VIOLATIONS",
+    "Incident Description":"POSS OF PARAPHERNALIA",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"OCCURRED: 1/11/19 0252 HOURS WARNER, RICHARD (MB-44-O) CITED FOR POSSESSION OF DRUG PARAPHERNALIA AND EXCLUDED FROM CAMPUS FOR 7 DAYS, DWINELLE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-01-11",
+    "Time":"3:19",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258814,37.876047 ]
+    },
+    "properties": {
+    "Date":"2019-01-11",
+    "Time":"10:38",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"JACOBS HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-01-11",
+    "Time":"10:58",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"2519 DURANT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-01-11",
+    "Time":"11:22",
+    "Category":"HEALTH AND SAFETY CODE VIOLATION",
+    "Incident Description":"HEALTH AND SAFETY CODE",
+    "Location":"ELLSWORTH PARKING STRUCTURE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265027,37.871785 ]
+    },
+    "properties": {
+    "Date":"2019-01-11",
+    "Time":"11:27",
+    "Category":"HEALTH AND SAFETY CODE VIOLATION",
+    "Incident Description":"HEALTH AND SAFETY CODE",
+    "Location":"WEST GATE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-11",
+    "Time":"12:30",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259337,37.869556 ]
+    },
+    "properties": {
+    "Date":"2019-01-11",
+    "Time":"14:08",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
+    "Location":"UPPER SPROUL PLAZA",
+    "Synopsis":"OCCD 1/11/19, 1408 HRS (MB-33-O) CONTACTED FOR RULES VIOLATION AND ISSUED 7 DAY STAY AWAY ORDER FROM ALL UC PROPERTY, UPPER SPROUL PLAZA."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.245926,37.864913 ]
+    },
+    "properties": {
+    "Date":"2019-01-11",
+    "Time":"19:22",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT-ATTEMPT",
+    "Location":"CKC TRACK",
+    "Synopsis":"OCC: 1/11/19 1300-1330 HOURS (MA-63-O) REPORTS ATTEMPTED THEFT OF BACKPACK AND CONTENTS, CKC TRACK. NO LOSS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26588,37.867845 ]
+    },
+    "properties": {
+    "Date":"2019-01-11",
+    "Time":"21:03",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"FULTON S BANCROFT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-01-11",
+    "Time":"21:59",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"TRESPASS - FAIL TO LEAVE",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25046,37.865957 ]
+    },
+    "properties": {
+    "Date":"2019-01-11",
+    "Time":"22:19",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"WARR S DWI",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

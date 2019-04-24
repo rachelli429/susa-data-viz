@@ -1,0 +1,425 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260038,37.869789 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"0:45",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"CESAR CHAVEZ CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"0:57",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"1:05",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.329831,37.917272 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"1:22",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"RICHMOND FIELD STATION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"1:58",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25706,37.873558 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"5:30",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HEARST MINING CIR",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253893,37.869768 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"5:59",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"BOALT HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"7:16",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE - REPORT",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260237,37.867179 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"7:36",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"UNIT-3",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266826,37.865813 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"8:55",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"MANVILLE APTS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.30267,37.883275 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"9:03",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"585 RED OAK AVE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.329831,37.917272 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"9:24",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF - REPORT",
+    "Location":"RICHMOND FIELD STATION",
+    "Synopsis":"OCCURRED 1/1/19 1700 - 1/5/19 0800. (MWA-E) REPORTS SUSPICIOUS CIRCUMSTANCE REGARDING TWO MISSING PADLOCKS, RFS."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258328,37.864431 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"9:32",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"2533 TELEGRAPH AV",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258936,37.866071 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"15:34",
+    "Category":"RAPE",
+    "Incident Description":"RAPE -REPORT",
+    "Location":"SEQUOIA APTS",
+    "Synopsis":"OCCURRED: 01/06/18 1800-2030. (FH-21-S) VICTIM OF RAPE AND SEXUAL ASSAULT VIA FOREIGN OBJECT, SEQUOIA APTS,"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"17:28",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"MLK",
+    "Synopsis":"OCCURRED: 01/07/2018 1705-1710. (MW-21-S) REPORTS THE THEFT OF HIS FRONT LIGHT, SEAT, AND REAR LIGHT OFF HIS BICYCLE, MLK, VALUE: $60."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.277526,37.871051 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"19:56",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"UNIV/MCGEE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"20:10",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"HEARST AV",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265828,37.866942 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"20:13",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"FULTON DURANT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.270728,37.871804 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"20:30",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"UNI/WEST OF MILVIA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256514,37.873306 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"21:02",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"TAN HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258649,37.867633 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"21:47",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2500 DURANT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256711,37.868145 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"22:03",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"BOW/DURANT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254253,37.867498 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"22:06",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"CHANNING E COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263207,37.867229 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"22:32",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT W ELLS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"23:17",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"OCCURRED:  01/07/2019 23:27 HRS. ROBINSON, DEMORRIS (MB-46-O) ARRESTED FOR PROBATION VIOLATION, VIOLATION OF A COURT ORDER, AND TRESPASSING, DWINELLE HALL.  TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261205,37.867479 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"23:22",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DURANT/DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267695,37.867647 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"23:23",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2100 BANCROFT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267875,37.869416 ]
+    },
+    "properties": {
+    "Date":"2019-01-07",
+    "Time":"23:34",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"SHATTUCK/ALLSTON",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

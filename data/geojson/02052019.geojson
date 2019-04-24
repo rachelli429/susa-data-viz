@@ -1,0 +1,440 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"0:30",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"KINKEAD/RED OAK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"0:31",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/IFO ROCHDALE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"0:38",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"MLK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.299843,37.884094 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"0:45",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"JACKSON/MONROE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"0:49",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254451,37.86834 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"0:55",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"COLLEGE/DURANT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.254817,37.866947 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"0:59",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNDERHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"1:03",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"UVA OFFICE IFO",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"1:12",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ANNA HEAD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255693,37.872548 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"1:41",
+    "Category":"VANDALISM",
+    "Incident Description":"MALICIOUS MISCHIEF - REPORT",
+    "Location":"HILDEBRAND HALL",
+    "Synopsis":"VANDALISM VIA RED SPRAY PAINT, HILDEBRAND HALL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"1:46",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSIDEASSIST - BPD",
+    "Location":"2518 DURANT AV",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263207,37.867229 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"2:46",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"DURANT /ELLSWORTH",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"7:21",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261438,37.87076 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"10:36",
+    "Category":"TOW",
+    "Incident Description":"TOWED VEHICLE-POSTED TOW AREA",
+    "Location":"NORTH SPROUL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"11:01",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"8TH HARRISON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260559,37.875021 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"11:12",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HEARST EUCLID",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"11:22",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"LEROY LECONTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"11:46",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"BANWAY LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266204,37.872187 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"12:15",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OXFORD UNIVERSITY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"12:17",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING THE PEACE",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266867,37.867904 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"13:31",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"BANWAY LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266959,37.871838 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"13:54",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"UNIVERSITY HALL WEST LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258803,37.869647 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"14:05",
+    "Category":"VEHICLE CODE VIOLATION",
+    "Incident Description":"VEHICLE CODE VIOLATION",
+    "Location":"SPROUL HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264091,37.86817 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"16:13",
+    "Category":"SUPPLEMENT",
+    "Incident Description":"SUPPLEMENT",
+    "Location":"BANCROFT ELLSWORTH",
+    "Synopsis":"OCCURRED: 02/05/19 1618 HOURS. SUPPLEMENT UCPD CASE : 18-02282. GUIZA, MARCO (MH-37-O) ARRESTED FOR ONE UCPD MISDEMEANOR WARRANT, 2300 BLK TELEGRAPH AVE. TO BPD JAIL. SUPPLEMENT UCPD CASE 15-03132. GUIZA, MARCO (MH-37-O) ARRESTED FOR ONE UCPD MISDEMEANOR WARRANT, 2300 BLK TELEGRAPH AVE. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.264091,37.86817 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"16:23",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"WARRANT ARREST",
+    "Location":"BANCROFT ELLSWORTH",
+    "Synopsis":"OCCURRED: 02/05/19 1618 HOURS GUIZA, MARCO (MH-37-O) ARRESTED FOR ONE BPD MISDEMEANOR WARRANT, 2300 BLK TELEGRAPH AVE. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258195,37.86738 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"21:03",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY-REPORT",
+    "Location":"EPWORTH LOT",
+    "Synopsis":"OCCD 02/05/2019 1815-1835 (MH-52-E) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO GRAY 2004 VW PASSAT, 5GKE355, EPWORTH LOT. TAKE OF A BLUE BACKPACK, LOSS $50."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.245926,37.864913 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"21:11",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -REPORT",
+    "Location":"CKC TRACK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263868,37.874666 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"21:31",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"HEARST/LECONTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255598,37.865345 ]
+    },
+    "properties": {
+    "Date":"2019-02-05",
+    "Time":"22:00",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"2614 DWIGHT WAY",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

@@ -1,0 +1,410 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301134,37.883376 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"0:14",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"RED OAK/GOODING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"0:23",
+    "Category":"BIKE STOP",
+    "Incident Description":"BIKE STOP",
+    "Location":"MONROE ACROSS APPARATUS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26471,37.873456 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"1:14",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"GENETICS & PLANT BIOLOGY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.305078,37.883889 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"1:18",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"WEST END WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"5:48",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ANNA HEAD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.284806,37.913651 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"8:03",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE - REPORT",
+    "Location":"BLAKE ESTATE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.302232,37.87323 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"9:29",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"CSS",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.222818,37.866276 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"9:40",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSDE ASSIST BPD COVER",
+    "Location":"GRIZZLY PEAK BLVD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25069,37.871133 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"9:53",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"MEMORIAL STADIUM",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266204,37.872187 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"10:18",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OXFORD UNI",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262235,37.869557 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"11:32",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"GRAND THEFT -REPORT",
+    "Location":"HAAS PAVILION",
+    "Synopsis":"OCCD 2/2/2019 1430-2/4/2019 1000 (FW-22-E) REPORTS THE THEFT CASH FROM HER OFFICE, HAAS PAVILION.  LOSS: UNKNOWN."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255598,37.865345 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"12:04",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"2614 DWIGHT WAY",
+    "Synopsis":"OCCD 2/4/2019 1231 TURNER, TAMAR (MB-32-O) ARRESTED FOR AN SFPD MISDEMEANOR WARRANT, 2614 DWIGHT TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252564,37.872324 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"13:56",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"PETTY THEFT -BIKE REPORT",
+    "Location":"MAXWELL FIELD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"14:29",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"VIOLATION OF COURT ORDER",
+    "Location":"OCTAGON BR",
+    "Synopsis":"OCCD 2/4/2019 1458 WHITMORE, HENRY (MB-51-O) ARRESTED FOR VIOLATION OF PROBATION AND VIOLATION OF A COURT ORDER, OCTAGON BRIDGE TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267913,37.873481 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"16:21",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"DRUNK IN PUBLIC",
+    "Location":"BWW",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25967,37.869249 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"17:19",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"GRAND THEFT -REPORT",
+    "Location":"MLK",
+    "Synopsis":"OCCD 2/4/2019 1200-1630 (MH-28-S) REPORTS THEFT FROM A PERSON, UPPER SPROUL PLAZA. LOSS $20."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"17:36",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"OBSCENE, THREAT, ANNOYING CALL",
+    "Location":"CAMPUS",
+    "Synopsis":"(FB-23-S) REPORTS ANNOYING, AND HARASSING COMMUNICATION VIA EMAILS/TEXTS, CAMPUS, OCCURED: 10/17/18-02/04/19 1736."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266441,37.87216 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"18:00",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"LODGING",
+    "Location":"UNIVERSITY HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259685,37.86946 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"18:29",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ASUC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"19:08",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25602,37.873428 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"19:16",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"PIMENTEL HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.263111,37.870515 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"21:33",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY-REPORT",
+    "Location":"FRANK SCHLESSINGER WAY",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252472,37.873895 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"21:36",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"FOOTHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256633,37.869644 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"21:45",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"HEARST GYM",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25265,37.86963 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"22:04",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BAN W PIED",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255116,37.869305 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"22:14",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANC/W COLLEGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Date":"2019-02-04",
+    "Time":"22:53",
+    "Category":"OUTSIDE ASSIST",
+    "Incident Description":"OUTSIDE ASSIST - BPD",
+    "Location":"DULTON/ELLSWORTH",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

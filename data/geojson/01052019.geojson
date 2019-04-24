@@ -1,0 +1,320 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"0:07",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"7:56",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"8:11",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"PEDESTRIAN STOP",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.247149,37.865073 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"12:57",
+    "Category":"ANIMAL CASE",
+    "Incident Description":"ANIMAL CASE",
+    "Location":"GOLDEN BEAR REC CENTER",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.251829,37.868089 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"13:04",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"PIEDMONT CHANNING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257058,37.86582 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"14:09",
+    "Category":"SUPPLEMENT",
+    "Incident Description":"SUPPLEMENT",
+    "Location":"PEOPLES PARK",
+    "Synopsis":"OCCD 1/5/19, 1538 HRS (FO-35-O) LOCATED AS MISSING PERSON. SUPPLEMENT TO 19-00026"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"14:18",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"AUTO BURGLARY-REPORT",
+    "Location":"ELLSWORTH PARKING STRUCTURE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260388,37.868757 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"17:26",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANC IFO ESHLEMAN",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"17:43",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260603,37.870547 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"17:55",
+    "Category":"ALL OTHER OFFENSES ",
+    "Incident Description":"WARRANT ARREST",
+    "Location":"DWINELLE HALL",
+    "Synopsis":"YIN, MICHAEL (MA-50-O) ARRESTED ON A UCPD MISDEMEANOR. WARRANT, DWINELLE HALL. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261161,37.86849 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"18:36",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 BANCROFT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25898,37.866794 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"18:45",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 CHANNING",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255159,37.865551 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"20:07",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"DWIGHT/BENE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259685,37.86946 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"20:17",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ASUC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"20:20",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"REC SPRT FAC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259786,37.868702 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"20:22",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"TELE S BANC",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259672,37.875023 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"20:31",
+    "Category":"BURGLARY",
+    "Incident Description":"BURGLARY-REPORT",
+    "Location":"NORTHGATE HALL",
+    "Synopsis":"OCCURRED: 01/05/19 0710-0726. BURGLARY VIA WINDOW PRY, NORTHGATE HALL, UNK TAKE AND LOSS, INVESTIGATION 2 CAMCORDERS RECOVERED AT SCENE. SUSPECTS: 1. MW, BEARD, BLK SWEATSHIRT W/SCRILLA ON FRONT, KHAKI PANTS, RED/GRY SHOES. 2. MB, BLK HOODED JACKET, FADED BAGGY BLUE JEANS, TAN SHOES."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25265,37.869613 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"21:03",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"PIED S BANC",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259685,37.86946 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"21:11",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ASUC GARAGE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259924,37.865435 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"21:13",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"2400 HASTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267314,37.87629 ]
+    },
+    "properties": {
+    "Date":"2019-01-05",
+    "Time":"22:58",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"OXFORD TRACT",
+    "Synopsis":"NA"
+    }
+  }
+]
+}

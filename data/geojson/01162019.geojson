@@ -13,8 +13,7 @@
     "Category":"LARCENY/THEFT",
     "Incident Description":"AUTO BURGLARY -REPORT",
     "Location":"UNDERHILL LOT",
-    "Synopsis":"(MHA-E) VICTIM OF INJURY, 6TH/GILMAN. WILL SEEK OWN MEDICAL.",
-    "FIELD9":""
+    "Synopsis":"(MHA-E) VICTIM OF INJURY, 6TH/GILMAN. WILL SEEK OWN MEDICAL."
     }
   },
   {
@@ -29,8 +28,7 @@
     "Category":"WELFARE CHECK",
     "Incident Description":"CHECK WELFARE- 911 CALL",
     "Location":"BERKELEY WAY WEST",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -45,8 +43,7 @@
     "Category":"DISORDERLY CONDUCT",
     "Incident Description":"LODGING",
     "Location":"2614 DWIGHT WAY",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -61,8 +58,7 @@
     "Category":"PEDESTRIAN STOP",
     "Incident Description":"PEDESTRIAN STOP",
     "Location":"ANNA HEAD ALUMNAE HALL",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -77,8 +73,7 @@
     "Category":"PEDESTRIAN STOP",
     "Incident Description":"PEDESTRIAN STOP",
     "Location":"STRUCTURE C",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -93,15 +88,14 @@
     "Category":"SUSPICIOUS EVENT",
     "Incident Description":"SUSPICIOUS VEHICLE",
     "Location":"UNDERHILL LOT",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.866334,37.866334 ]
+       "coordinates":  [ -122.263354,37.866344 ]
     },
     "properties": {
     "Date":"2019-01-16",
@@ -109,8 +103,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"CHANNING/ELLSWORTH",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -125,8 +118,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"DURANT/COLLEGE",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -141,8 +133,7 @@
     "Category":"LARCENY/THEFT",
     "Incident Description":"AUTO BURGLARY -REPORT",
     "Location":"UNDERHILL LOT",
-    "Synopsis":"(MW-44-E) REPORTS VEHICLE BURGLARY VIA WINDOW SMASH TO HIS RED MAZDA SPEED III, 6VSZ304, UNDERHILL LOT. ",
-    "FIELD9":""
+    "Synopsis":"(MW-44-E) REPORTS VEHICLE BURGLARY VIA WINDOW SMASH TO HIS RED MAZDA SPEED III, 6VSZ304, UNDERHILL LOT. "
     }
   },
   {
@@ -157,8 +148,7 @@
     "Category":"VANDALISM",
     "Incident Description":"MALICIOUS MISCHIEF -REPORT",
     "Location":"CESAR CHAVEZ CENTER",
-    "Synopsis":"(FWA-E) REPORTS VANDALISM VIA CLAY TO WINDOWS, CESAR CHAVEZ ART STUDIO.",
-    "FIELD9":""
+    "Synopsis":"(FWA-E) REPORTS VANDALISM VIA CLAY TO WINDOWS, CESAR CHAVEZ ART STUDIO."
     }
   },
   {
@@ -173,8 +163,7 @@
     "Category":"LARCENY/THEFT",
     "Incident Description":"PETTY THEFT -REPORT",
     "Location":"AMAZON STORE",
-    "Synopsis":"(MW-26-O) REPORTS THEFT OF 2 IPOD TOUCHES, AMAZON STORE. LOSS $200. SUSPECT; BLACK FEMALE ADULT, THIN BUILD, BLUE HOODED SWEATSHIRT, SUNGLASSES, BLUE JEANS, CARRYING GROCERY BAGS.",
-    "FIELD9":""
+    "Synopsis":"(MW-26-O) REPORTS THEFT OF 2 IPOD TOUCHES, AMAZON STORE. LOSS $200. SUSPECT; BLACK FEMALE ADULT, THIN BUILD, BLUE HOODED SWEATSHIRT, SUNGLASSES, BLUE JEANS, CARRYING GROCERY BAGS."
     }
   },
   {
@@ -189,8 +178,7 @@
     "Category":"WELFARE CHECK",
     "Incident Description":"CHECK WELFARE- 911 CALL",
     "Location":"HAVILAND HALL",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -205,8 +193,7 @@
     "Category":"VANDALISM",
     "Incident Description":"MALICIOUS MISCHIEF -REPORT",
     "Location":"MOFFITT LIBRARY",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -221,8 +208,7 @@
     "Category":"ALL OTHER OFFENSES",
     "Incident Description":"VIOLATION OF PROBATION",
     "Location":"MLK",
-    "Synopsis":"WHITMORE, HENRY (MB-51-O) ARRESTED FOR PROBATION VIOLATION AND VIOLATION OF A COURT ORDER, MLK TO BPD JAIL. ",
-    "FIELD9":""
+    "Synopsis":"WHITMORE, HENRY (MB-51-O) ARRESTED FOR PROBATION VIOLATION AND VIOLATION OF A COURT ORDER, MLK TO BPD JAIL. "
     }
   },
   {
@@ -237,8 +223,7 @@
     "Category":"ALL OTHER OFFENSES",
     "Incident Description":"VIOLATION OF PROBATION",
     "Location":"MLK",
-    "Synopsis":"THORNTON, GEORGE (MW-65-O) ARRESTED FOR PROBATION VIOLATION AND VIOLATION OF A COURT ORDER, MLK TO SANTA RITA JAIL. ",
-    "FIELD9":""
+    "Synopsis":"THORNTON, GEORGE (MW-65-O) ARRESTED FOR PROBATION VIOLATION AND VIOLATION OF A COURT ORDER, MLK TO SANTA RITA JAIL. "
     }
   },
   {
@@ -253,8 +238,7 @@
     "Category":"LARCENY/THEFT",
     "Incident Description":"AUTO BURGLARY -REPORT",
     "Location":"LOWER HEARST PARKING STRUCTURE",
-    "Synopsis":"(MO-41-E) REPORTS THEFT OF BACKPACK AND LAPTOP VIA WINDOW SMASH TO HIS GRAY HONDA CRV, 6TCE507, LOWER HEARST STRUCTURE. LOSS $2025 ",
-    "FIELD9":""
+    "Synopsis":"(MO-41-E) REPORTS THEFT OF BACKPACK AND LAPTOP VIA WINDOW SMASH TO HIS GRAY HONDA CRV, 6TCE507, LOWER HEARST STRUCTURE. LOSS $2025 "
     }
   },
   {
@@ -269,8 +253,7 @@
     "Category":"FIRE",
     "Incident Description":"FIRE OF UNKNOWN TYPE",
     "Location":"DOE LIBRARY",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -285,8 +268,7 @@
     "Category":"SUSPICIOUS EVENT",
     "Incident Description":"SUSPICIOUS PERSON -REPORT",
     "Location":"LIFE SCIENCE ADDITION",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -301,8 +283,7 @@
     "Category":"WELFARE CHECK",
     "Incident Description":"CHECK WELFARE- 911 CALL",
     "Location":"HAZ MAT FACILITY",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -317,8 +298,7 @@
     "Category":"DISORDERLY CONDUCT",
     "Incident Description":"DRUNK IN PUBLIC",
     "Location":"BARROWS LANE",
-    "Synopsis":"HENRIQUEZ, ABEL (MH-27-O) ARRESTED FOR DRUNK IN PUBLIC, POSSESSION OF METHAMPHETAMINES, AND POSSESSION OF PARAPHERNALIA, BARROWS LANE TO BPD JAIL. ",
-    "FIELD9":""
+    "Synopsis":"HENRIQUEZ, ABEL (MH-27-O) ARRESTED FOR DRUNK IN PUBLIC, POSSESSION OF METHAMPHETAMINES, AND POSSESSION OF PARAPHERNALIA, BARROWS LANE TO BPD JAIL. "
     }
   },
   {
@@ -333,8 +313,7 @@
     "Category":"LARCENY/THEFT",
     "Incident Description":"AUTO BURGLARY -REPORT",
     "Location":"UNIVERSITY HALL WEST LOT",
-    "Synopsis":"(MHA-E) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HIS BLACK NISSAN SENTRA, UNIVERSITY HALL WEST LOT. ",
-    "FIELD9":""
+    "Synopsis":"(MHA-E) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HIS BLACK NISSAN SENTRA, UNIVERSITY HALL WEST LOT. "
     }
   },
   {
@@ -349,8 +328,7 @@
     "Category":"PEDESTRIAN STOP",
     "Incident Description":"SUSPECT STOP",
     "Location":"CHANNING ELLSWORTH STRUCTURE",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -365,8 +343,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"2600 DWIGHT WAY",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -381,8 +358,7 @@
     "Category":"ROBBERY",
     "Incident Description":"ROBBERY -REPORT",
     "Location":"ANTHONY HALL",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -397,8 +373,7 @@
     "Category":"LARCENY/THEFT",
     "Incident Description":"AUTO BURGLARY -REPORT",
     "Location":"BANWAY",
-    "Synopsis":"(MW-43-O) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HIS BLACK DODGE MINIVAN, BANWAY LOT. LOSS $2510. ",
-    "FIELD9":""
+    "Synopsis":"(MW-43-O) REPORTS AUTO BURGLARY VIA WINDOW SMASH TO HIS BLACK DODGE MINIVAN, BANWAY LOT. LOSS $2510. "
     }
   },
   {
@@ -413,8 +388,7 @@
     "Category":"VEHICLE CODE VIOLATION",
     "Incident Description":"VEHICLE CODE VIOLATION",
     "Location":"605 OHLONE AVE",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -429,8 +403,7 @@
     "Category":"DISORDERLY CONDUCT",
     "Incident Description":"LODGING",
     "Location":"AMAZON STORE",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -445,8 +418,7 @@
     "Category":"PEDESTRIAN STOP",
     "Incident Description":"SUSPECT STOP",
     "Location":"PEOPLES PARK",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -461,15 +433,14 @@
     "Category":"PEDESTRIAN STOP",
     "Incident Description":"SUSPECT STOP",
     "Location":"STRUCTURE C",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -122.261174,37.86872 ]
     },
     "properties": {
     "Date":"2019-01-16",
@@ -477,8 +448,7 @@
     "Category":"PEDESTRIAN STOP",
     "Incident Description":"SUSPECT STOP",
     "Location":"DANCE STUDIO",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -493,8 +463,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"OXFORD/SCHLESSINGER",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -509,8 +478,7 @@
     "Category":"SUSPICIOUS EVENT",
     "Incident Description":"SUSPICIOUS PERSON",
     "Location":"MLK",
-    "Synopsis":"NA",
-    "FIELD9":""
+    "Synopsis":"NA"
     }
   }
 ]

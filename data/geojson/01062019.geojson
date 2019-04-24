@@ -1,0 +1,170 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.329831,37.917272 ]
+    },
+    "properties": {
+    "Date":"2019-01-06",
+    "Time":"1:09",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"UNLICENSED DRIVER",
+    "Location":"RICHMOND FIELD STATION",
+    "Synopsis":"OCCURRED 01/06/19 0109 HRS. CORREIA, MITCHELL (MW-55-O) CITED FOR BEING AN UNLICENSED DRIVER, RFS. KNIGHT, TERESA (FW-35-O) CITED FOR DRIVING WITH NO INSURANCE AND EXPIRED REGISTRATION, RFS."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.260585,37.86938 ]
+    },
+    "properties": {
+    "Date":"2019-01-06",
+    "Time":"2:02",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ZELLERBACH HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262164,37.866273 ]
+    },
+    "properties": {
+    "Date":"2019-01-06",
+    "Time":"9:54",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"STRUCTURE C",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.286971,37.869696 ]
+    },
+    "properties": {
+    "Date":"2019-01-06",
+    "Time":"11:38",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"UNI BONAR",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259672,37.875023 ]
+    },
+    "properties": {
+    "Date":"2019-01-06",
+    "Time":"12:43",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"NORTHGATE HALL",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267875,37.869416 ]
+    },
+    "properties": {
+    "Date":"2019-01-06",
+    "Time":"20:18",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"SHATT/S ALLSTON",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.257558,37.866336 ]
+    },
+    "properties": {
+    "Date":"2019-01-06",
+    "Time":"21:02",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ANNA HEAD",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266457,37.874039 ]
+    },
+    "properties": {
+    "Date":"2019-01-06",
+    "Time":"21:26",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"ENERGY BIOSCIENCES INSTITUTE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265877,37.872775 ]
+    },
+    "properties": {
+    "Date":"2019-01-06",
+    "Time":"21:42",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"OXF W UNIV",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261457,37.868423 ]
+    },
+    "properties": {
+    "Date":"2019-01-06",
+    "Time":"22:57",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"BANCROFT/DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255825,37.8698 ]
+    },
+    "properties": {
+    "Date":"2019-01-06",
+    "Time":"23:00",
+    "Category":"PEDESTRIAN STOP",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"STRUCTURE B",
+    "Synopsis":"NA"
+    }
+  }
+]
+}
