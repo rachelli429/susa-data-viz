@@ -1151,7 +1151,7 @@ var march = {
     "Date":"2019-03-04",
     "Time":"17:59",
     "Category":"ALL OTHER OFFENSES",
-    "Incident Description":" EXCLUSION FROM CAMPUS",
+    "Incident Description":"EXCLUSION FROM CAMPUS",
     "Location":"MOSES HALL",
     "Synopsis":"(MH-36-O) ISSUED A 7 DAY STAY AWAY FOR UNWANTED CONTACT TO A UC EMPLOYEE, MOSES HALL. EMERGENCY PROTECTIVE ORDER SERVED."
     }
@@ -3260,59 +3260,14 @@ var march = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.258597,37.870137 ]
+       "coordinates":  [ -122.260388,37.868757 ]
     },
     "properties": {
-    "Date":"2019-03-02",
-    "Time":"0:00",
-    "Category":"TRAFFIC STOP",
-    "Incident Description":"TRAFFIC STOP",
-    "Location":"BARROWS LANE",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.25967,37.869249 ]
-    },
-    "properties": {
-    "Date":"2019-03-02",
-    "Time":"0:36",
-    "Category":"PEDESTRIAN STOP",
-    "Incident Description":"SUSPECT STOP",
-    "Location":"ASUC",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.25412,37.868187 ]
-    },
-    "properties": {
-    "Date":"2019-03-02",
-    "Time":"8:54",
+    "Date":"2019-03-10",
+    "Time":"0:33",
     "Category":"ALL OTHER OFFENSES",
-    "Incident Description":"TRESPASS - REAL PROP OR STRUCTURE W/OUT OWNER CONSENT",
-    "Location":"JACKSON HOUSE",
-    "Synopsis":"CHOWCASTILLO, EDDY (MH-25-O) ARRESTED FOR TRESPASSING, VIOLATING AN EXCLUSION ORDER AND EXCLUDED FROM UNIVERSITY PROPERTY FOR SEVEN DAYS, IDA JACKSON HOUSE. TO BPD JAIL."
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.255144,37.874934 ]
-    },
-    "properties": {
-    "Date":"2019-03-02",
-    "Time":"9:10",
-    "Category":"SUSPICIOUS EVENT",
-    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
-    "Location":"STERN HALL",
+    "Incident Description":"RULE VIOLATION",
+    "Location":"ESHLEMAN HALL",
     "Synopsis":"NA"
     }
   },
@@ -3320,14 +3275,89 @@ var march = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.265861,37.869687 ]
+       "coordinates":  [ -122.247597,37.880749 ]
     },
     "properties": {
-    "Date":"2019-03-02",
-    "Time":"9:56",
-    "Category":"TRAFFIC STOP",
-    "Incident Description":"TRAFFIC STOP",
-    "Location":"ALLSTON/OXFORD",
+    "Date":"2019-03-10",
+    "Time":"1:12",
+    "Category":"ALL OTHER OFFENSES",
+    "Incident Description":"DISTURBING PEACE-ENTERTAINMENT",
+    "Location":"LHS VISTA LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.24573,37.88085 ]
+    },
+    "properties": {
+    "Date":"2019-03-10",
+    "Time":"1:35",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"MSRI LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.246517,37.879208 ]
+    },
+    "properties": {
+    "Date":"2019-03-10",
+    "Time":"1:39",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS VEHICLE",
+    "Location":"LAWRENCE HALL OF SCIENCE",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266153,37.868739 ]
+    },
+    "properties": {
+    "Date":"2019-03-10",
+    "Time":"8:12",
+    "Category":"AGGRAVATED ASSAULTS",
+    "Incident Description":"BATTERY AGAINST PERSON -GBI",
+    "Location":"KITTREDGE/FULTON",
+    "Synopsis":"QUINTANILLA, JUAN (MH-28-O) ARRESTED FOR BATTERY AGAINST A PERSON, ROBBERY AND REMOVING AND DAMAGING A WIRELESS COMMUNICATION DEVICE DURING AN EMERGENCY, FULTON/KITTRIDGE. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253767,37.871571 ]
+    },
+    "properties": {
+    "Date":"2019-03-10",
+    "Time":"9:43",
+    "Category":"DISORDERLY CONDUCT",
+    "Incident Description":"DRUNK IN PUBLIC",
+    "Location":"HAAS BUSINESS SCHOOL",
+    "Synopsis":"ADKINS, JOHN (MW-38-O) ARRESTED FOR BEING DRUNK IN PUBLIC AND ISSUED A 7 DAY STAY AWAY FROM ALL UC PROPERTY, HBS. TO BPD JAIL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252876,37.87239 ]
+    },
+    "properties": {
+    "Date":"2019-03-10",
+    "Time":"12:06",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
+    "Location":"STADIUM PARKING STRUCTURE",
     "Synopsis":"NA"
     }
   },
@@ -3338,26 +3368,11 @@ var march = {
        "coordinates":  [ -122.25069,37.871133 ]
     },
     "properties": {
-    "Date":"2019-03-02",
-    "Time":"13:40",
-    "Category":"LARCENY/THEFT",
-    "Incident Description":"PETTY THEFT -REPORT",
+    "Date":"2019-03-10",
+    "Time":"12:57",
+    "Category":"WELFARE CHECK",
+    "Incident Description":"CHECK WELFARE- 911 CALL",
     "Location":"MEMORIAL STADIUM",
-    "Synopsis":"(MH-50-O) REPORTS THEFT OF WALLET AND CONTENTS, LOSS $400, MEMORIAL STADIUM."
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.258337,37.868846 ]
-    },
-    "properties": {
-    "Date":"2019-03-02",
-    "Time":"15:33",
-    "Category":"TRAFFIC STOP",
-    "Incident Description":"TRAFFIC STOP",
-    "Location":"BANCROFT/BARROWS",
     "Synopsis":"NA"
     }
   },
@@ -3365,59 +3380,74 @@ var march = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.25412,37.868187 ]
+       "coordinates":  [ -122.26053,37.868756 ]
     },
     "properties": {
-    "Date":"2019-03-02",
-    "Time":"15:38",
+    "Date":"2019-03-10",
+    "Time":"13:10",
     "Category":"ALL OTHER OFFENSES",
-    "Incident Description":"OBSCENE, THREAT, ANNOYING CALL",
-    "Location":"JACKSON HOUSE",
-    "Synopsis":"(FX-31-S) REPORTS HARASSING EMAILS, JACKSON HOUSE."
+    "Incident Description":"RULE VIOLATION",
+    "Location":"LOWER SPROUL GARAGE",
+    "Synopsis":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.25967,37.869249 ]
+       "coordinates":  [ -122.222818,37.866276 ]
     },
     "properties": {
-    "Date":"2019-03-02",
-    "Time":"16:38",
+    "Date":"2019-03-10",
+    "Time":"14:13",
     "Category":"SUSPICIOUS EVENT",
     "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
-    "Location":"MLK",
-    "Synopsis":"(FO-20-S) REPORTS A SUSPICIOUS CIRCUMSTANCE REGARDING A POSSIBLY STOLEN CELL PHONE, MLK. SUSPECT: MB, 60S, RED/WHITE JORDANS, HOMELESS TYPE."
+    "Location":"GRIZZLY PEAK BLVD",
+    "Synopsis":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.30448,37.884027 ]
+       "coordinates":  [ -122.259672,37.869222 ]
     },
     "properties": {
-    "Date":"2019-03-02",
-    "Time":"16:41",
-    "Category":"BURGLARY",
-    "Incident Description":"BURGLARY -REPORT",
-    "Location":"685 LIBERTY SHIP WAY",
-    "Synopsis":"(FW-28-O) REPORTS BURGLARY VIA OPEN DOOR, 685 LIBERTY SHIP, LOSS: $150."
+    "Date":"2019-03-10",
+    "Time":"15:01",
+    "Category":"LARCENY/THEFT",
+    "Incident Description":"GRAND THEFT -REPORT",
+    "Location":"PAULEY BALLROOM",
+    "Synopsis":"(MW-18-S) REPORTS THE GRAND THEFT OF HIS GRAY MACBOOK PRO LAPTOP, PAULEY BALLROOM. LOSS: $1000."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.255144,37.874934 ]
+       "coordinates":  [ -122.261796,37.868553 ]
     },
     "properties": {
-    "Date":"2019-03-02",
-    "Time":"16:49",
+    "Date":"2019-03-10",
+    "Time":"17:51",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"BANCROFT/DANA",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253767,37.871571 ]
+    },
+    "properties": {
+    "Date":"2019-03-10",
+    "Time":"20:34",
     "Category":"SUSPICIOUS EVENT",
-    "Incident Description":"SUSPICIOUS PERSON",
-    "Location":"STERN HALL",
+    "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
+    "Location":"HAAS BUSINESS SCHOOL",
     "Synopsis":"NA"
     }
   },
@@ -3425,74 +3455,14 @@ var march = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.267913,37.873481 ]
+       "coordinates":  [ -122.253767,37.871571 ]
     },
     "properties": {
-    "Date":"2019-03-02",
-    "Time":"17:16",
-    "Category":"SUSPICIOUS EVENT",
-    "Incident Description":"SUSPICIOUS",
-    "Location":"BERKELEY WAY WEST",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.259337,37.869556 ]
-    },
-    "properties": {
-    "Date":"2019-03-02",
-    "Time":"17:46",
-    "Category":"ALL OTHER OFFENSES",
-    "Incident Description":"TRESPASS - REAL PROP OR STRUCTURE W/OUT OWNER CONSENT",
-    "Location":"UPPER SPROUL PLAZA",
-    "Synopsis":"(MB-47-O) ISSUED A TRESPASS WARNING FOR ALL UC BERKELEY LIBRARIES, UPPER SPROUL PLAZA."
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.248801,37.864256 ]
-    },
-    "properties": {
-    "Date":"2019-03-02",
-    "Time":"20:15",
-    "Category":"ALL OTHER OFFENSES",
-    "Incident Description":"DISTURBING THE PEACE",
-    "Location":"CLARK KERR CAMPUS",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.258435,37.868066 ]
-    },
-    "properties": {
-    "Date":"2019-03-02",
-    "Time":"20:42",
-    "Category":"PEDESTRIAN STOP",
-    "Incident Description":"SUSPECT STOP",
-    "Location":"2515 DURANT HALL",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.258435,37.868066 ]
-    },
-    "properties": {
-    "Date":"2019-03-02",
+    "Date":"2019-03-10",
     "Time":"20:45",
     "Category":"SUSPICIOUS EVENT",
     "Incident Description":"SUSPICIOUS VEHICLE",
-    "Location":"2515 DURANT HALL",
+    "Location":"HAAS BUSINESS SCHOOL",
     "Synopsis":"NA"
     }
   },
@@ -3500,14 +3470,44 @@ var march = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.257853,37.873688 ]
+       "coordinates":  [ -122.329831,37.917272 ]
     },
     "properties": {
-    "Date":"2019-03-02",
-    "Time":"21:25",
+    "Date":"2019-03-10",
+    "Time":"21:26",
+    "Category":"SUSPICIOUS EVENT",
+    "Incident Description":"SUSPICIOUS PERSON",
+    "Location":"RICHMOND FIELD STATION",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.252472,37.873895 ]
+    },
+    "properties": {
+    "Date":"2019-03-10",
+    "Time":"21:46",
     "Category":"PEDESTRIAN STOP",
-    "Incident Description":"PEDESTRIAN STOP",
-    "Location":"EVANS HALL",
+    "Incident Description":"SUSPECT STOP",
+    "Location":"FOOTHILL LOT",
+    "Synopsis":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.262722,37.868572 ]
+    },
+    "properties": {
+    "Date":"2019-03-10",
+    "Time":"22:15",
+    "Category":"TRAFFIC STOP",
+    "Incident Description":"TRAFFIC STOP",
+    "Location":"REC SPRT FAC",
     "Synopsis":"NA"
     }
   },
@@ -4160,7 +4160,7 @@ var march = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 122.255116,37.869305 ]
+       "coordinates":  [ -122.255116,37.869305 ]
     },
     "properties": {
     "Date":"2019-03-12",
@@ -4243,9 +4243,7 @@ var march = {
     "Category":"ALL OTHER OFFENSES",
     "Incident Description":"DISTURBING PEACE-ENTERTAINMENT",
     "Location":"LHS VISTA LOT",
-    "Synopsis":"NA",
-    "FIELD9":"",
-    "Disposition":"CLOSED"
+    "Synopsis":"NA"
     }
   },
   {
@@ -4260,9 +4258,7 @@ var march = {
     "Category":"ALL OTHER OFFENSES",
     "Incident Description":"DISTURBING THE PEACE",
     "Location":"335 OHLONE AVE",
-    "Synopsis":"NA",
-    "FIELD9":"",
-    "Disposition":"CLOSED"
+    "Synopsis":"NA"
     }
   },
   {
@@ -4277,9 +4273,7 @@ var march = {
     "Category":"OTHER ASSAULTS",
     "Incident Description":"BATTERY -REPORT",
     "Location":"400 OHLONE AVE",
-    "Synopsis":"(FB-28-O) AND (FO-31-O) INVOLVED IN A MUTUAL BATTERY, 400 OHLONE. NO PROSECUTION SOUGHT ON EITHER PARTY.",
-    "FIELD9":"OCCURED: 03/13/19 0113-0159",
-    "Disposition":"UNDER"
+    "Synopsis":"(FB-28-O) AND (FO-31-O) INVOLVED IN A MUTUAL BATTERY, 400 OHLONE. NO PROSECUTION SOUGHT ON EITHER PARTY."
     }
   },
   {
@@ -4294,9 +4288,7 @@ var march = {
     "Category":"ALL OTHER OFFENSES",
     "Incident Description":"DISTURBING PEACE-ENTERTAINMENT",
     "Location":"UPPER SPROUL PLAZA",
-    "Synopsis":"NA",
-    "FIELD9":"",
-    "Disposition":"CLOSED"
+    "Synopsis":"NA"
     }
   },
   {
@@ -4311,9 +4303,7 @@ var march = {
     "Category":"ALL OTHER OFFENSES",
     "Incident Description":"DISTURBING THE PEACE",
     "Location":"400 OHLONE AVE",
-    "Synopsis":"NA",
-    "FIELD9":"",
-    "Disposition":"CLOSED"
+    "Synopsis":"NA"
     }
   },
   {
@@ -4328,9 +4318,7 @@ var march = {
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"MONROE JACKSON",
-    "Synopsis":"NA",
-    "FIELD9":"",
-    "Disposition":"WARNING ISSUED"
+    "Synopsis":"NA"
     }
   },
   {
@@ -4345,9 +4333,7 @@ var march = {
     "Category":"WELFARE CHECK",
     "Incident Description":"CHECK WELFARE- 911 CALL",
     "Location":"CALVIN LAB",
-    "Synopsis":"NA",
-    "FIELD9":"",
-    "Disposition":"CLOSED"
+    "Synopsis":"NA"
     }
   },
   {
@@ -4362,9 +4348,7 @@ var march = {
     "Category":"FORGERY AND COUNTERFEITING",
     "Incident Description":"FRAUDULENT USE OF CREDIT CARD",
     "Location":"UNIVERSITY HALL",
-    "Synopsis":"(MH-36-E) REPORTS FRADULENT USE TO HIS UC BLU CARD, UNIVERSITY HALL. LOSS OF $1329.85",
-    "FIELD9":"OCCURRED: 02/27/19",
-    "Disposition":"UNDER"
+    "Synopsis":"(MH-36-E) REPORTS FRADULENT USE TO HIS UC BLU CARD, UNIVERSITY HALL. LOSS OF $1329.85"
     }
   },
   {
@@ -4379,9 +4363,7 @@ var march = {
     "Category":"ALL OTHER OFFENSES",
     "Incident Description":"DISTURBING PEACE-ENTERTAINMENT",
     "Location":"SPROUL HALL",
-    "Synopsis":"NA",
-    "FIELD9":"CLOSED",
-    "Disposition":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -4396,9 +4378,7 @@ var march = {
     "Category":"WELFARE CHECK",
     "Incident Description":"WELFARE CHECK",
     "Location":"CHANNING/BOWDITCH APTS",
-    "Synopsis":"WELFARE CHECK, CHANNING/BOWDITCH APTS (MW-21-S)",
-    "FIELD9":"UNDER",
-    "Disposition":""
+    "Synopsis":"WELFARE CHECK, CHANNING/BOWDITCH APTS (MW-21-S)"
     }
   },
   {
@@ -4413,9 +4393,7 @@ var march = {
     "Category":"WELFARE CHECK",
     "Incident Description":"CHECK WELFARE- 911 CALL",
     "Location":"STADIUM PARKING STRUCTURE",
-    "Synopsis":"NA",
-    "FIELD9":"CLOSED",
-    "Disposition":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -4430,9 +4408,7 @@ var march = {
     "Category":"WELFARE CHECK",
     "Incident Description":"CHECK WELFARE- 911 CALL",
     "Location":"UNIVERSITY HALL",
-    "Synopsis":"NA",
-    "FIELD9":"CLOSED",
-    "Disposition":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -4447,9 +4423,7 @@ var march = {
     "Category":"MOTOR VEHICLE THEFT",
     "Incident Description":"VEHICLE THEFT -REPORT",
     "Location":"400 OHLONE AVE",
-    "Synopsis":"(FB-28-O) REPORTS THE THEFT OF A GREY NISSAN ALTIMA, 8DKP302, SPOT #1075 LIBERTY SHIP WAY.",
-    "FIELD9":"UNDER",
-    "Disposition":""
+    "Synopsis":"(FB-28-O) REPORTS THE THEFT OF A GREY NISSAN ALTIMA, 8DKP302, SPOT #1075 LIBERTY SHIP WAY."
     }
   },
   {
@@ -4464,9 +4438,7 @@ var march = {
     "Category":"WELFARE CHECK",
     "Incident Description":"WELFARE CHECK",
     "Location":"UNIVERSITY VILLAGE ALBANY",
-    "Synopsis":"NA",
-    "FIELD9":"CLOSED",
-    "Disposition":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -4481,9 +4453,7 @@ var march = {
     "Category":"SUSPICIOUS EVENT",
     "Incident Description":"SUSPICIOUS CIRCUMSTANCE",
     "Location":"DOE LIBRARY",
-    "Synopsis":"NA",
-    "FIELD9":"CLOSED",
-    "Disposition":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -5120,7 +5090,7 @@ var march = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 122.255116,37.869305 ]
+       "coordinates":  [ -122.255116,37.869305 ]
     },
     "properties": {
     "Date":"2019-03-15",
@@ -6935,7 +6905,7 @@ var march = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 122.255116,37.869305 ]
+       "coordinates":  [ -122.255116,37.869305 ]
     },
     "properties": {
     "Date":"2019-03-21",
@@ -9609,7 +9579,7 @@ var march = {
     },
     "properties": {
     "Date":"2019-03-29",
-    "Time":"0:01",
+    "Time":"0:00",
     "Category":"PEDESTRIAN STOP",
     "Incident Description":"SUSPECT STOP",
     "Location":"PEOPLES PARK",
@@ -9890,7 +9860,7 @@ var march = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 122.255116,37.869305 ]
+       "coordinates":  [ -122.255116,37.869305 ]
     },
     "properties": {
     "Date":"2019-03-30",

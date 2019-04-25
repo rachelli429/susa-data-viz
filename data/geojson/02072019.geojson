@@ -380,7 +380,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.258539,37.871915 ]
     },
     "properties": {
     "Date":"2019-02-07",

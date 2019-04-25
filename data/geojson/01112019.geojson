@@ -80,7 +80,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.258138,37.868105 ]
     },
     "properties": {
     "Date":"2019-01-11",
