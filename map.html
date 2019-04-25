@@ -128,7 +128,11 @@ var january = L.geoJSON(january, {
 	onEachFeature: onFeature
 });
 
-// all
+// all_months
+var all_months = L.geoJSON(all, {
+	pointToLayer: showPoints,
+	onEachFeature: onFeature
+});
 
 function filterOther(feature) {
 	if (feature.properties.Category == "ALL OTHER OFFENSES") return true
@@ -345,7 +349,8 @@ var groupedOverlays = {
 	"Months": {
 		"January": january,
 		"February": february,
-		"March": march
+		"March": march,
+		"All": all_months
 	},
 	"Crime Categories": {
 		"All Other Offenses": other,
