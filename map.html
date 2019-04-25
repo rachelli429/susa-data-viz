@@ -32,8 +32,8 @@
 		}
 
 		#map {
-			width: 65%;
-			height: 90%;
+			width: 75%;
+			height: 100%;
 			margin: auto;
 			border-radius: 3%;
 			box-shadow: 5px 5px 10px grey;
@@ -41,8 +41,8 @@
 		}
 
 		#map2 {
-			width: 65%;
-			height: 65%;
+			width: 75%;
+			height: 75%;
 			margin: auto;
 			border-radius: 3%;
 			box-shadow: 5px 5px 10px grey;
@@ -55,14 +55,8 @@
 <body>
 
 	<h1 class = "titles">Data Viz Project: Berkeley Crime Rates</h1>
-	<h3 class = "titles">Tiffany Lee, Rachel Li, Allison Xu | Web Dev Spring 2019</h3>
-
-	<p class = "paragraph">For our data visualization project, we chose to visualize crime in Berkeley using daily crime logs from UCPD for January through March 2019.
-		We chose this because crime is an important issue that affects everyone’s day-to-day lives, and we want to be able to provide more information about it in an accessible and easy to understand manner.
-</p>
-
-	<h4 class = "titles">Map #1</h4>
-	<p class = "paragraph">Filter by month or category of crime. Click on marker to view information about the crime (date, category, synopsis. etc.).</p>
+	<h3 class = "titles">Visualization of crime in Berkeley using daily crime logs from UCPD for January through March 2019</h3>
+	<p class = "paragraph">Select filters in dropdown menu to specify months and crime categories. Click on marker to view information about each crime (date, category, synopsis. etc.). Scroll further for a heat map showing density of all crimes!</p>
 	<!--map box-->
   <div id="map"></div>
 
@@ -103,6 +97,62 @@
 		return L.marker(latlng, {radius: 2});
 	}
 
+	function showPointsRed (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 6, color: "#f44242"});
+	}
+
+	function showPointsOrange (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 6, color: "#f47a41"});
+	}
+
+	function showPointsYellow (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 6, color: "#8c5b08"});
+	}
+
+	function showPointsGreen (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 6, color: "#239942"});
+	}
+
+	function showPointsGreen2 (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 6, color: "#0a381d"});
+	}
+
+	function showPointsTeal (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 6, color: "#218587"});
+	}
+
+	function showPointsBlue (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 6, color: "#1a63d8"});
+	}
+
+	function showPointsBlue2 (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 6, color: "#083b8c"});
+	}
+
+	function showPointsPurple (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 6, color: "#52088c"});
+	}
+
+	function showPointsPurple2 (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 6, color: "#4d456b"});
+	}
+
+	function showPointsMagenta (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 6, color: "#8c0866"});
+	}
+
+	function showPointsBrown (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 6, color: "#38350b"});
+	}
+	
+	function showPointsGray (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 6, color: "#314747"});
+	}
+
+	function showPointsBlack (geoJsonPoint, latlng) {
+		return L.circleMarker(latlng, {radius: 6, color: "#2d2c2c"});
+	}
+
 	// on each feature function
 	function onFeature (feature, layer) {
 		popupOptions = {maxWidth: 200};
@@ -118,27 +168,29 @@ coords = [];
 
 // march
 var march = L.geoJSON(march, {
-	pointToLayer: showPoints,
+	pointToLayer: showPointsRed,
 	onEachFeature: onFeature
 });
 
 // february
 var february = L.geoJSON(february, {
-		pointToLayer: showPoints,
+		pointToLayer: showPointsOrange,
 		onEachFeature: onFeature
 });
 
 // january
 var january = L.geoJSON(january, {
-	pointToLayer: showPoints,
+	pointToLayer: showPointsYellow,
 	onEachFeature: onFeature
 });
 
 // all_months
 var all_months = L.geoJSON(all, {
-	pointToLayer: showPoints,
+	pointToLayer: showPointsBlack,
 	onEachFeature: onFeature
 });
+
+// all
 
 function filterOther(feature) {
 	if (feature.properties.Category == "ALL OTHER OFFENSES") return true
@@ -147,7 +199,7 @@ function filterOther(feature) {
 // all other offenses
 var other = L.geoJSON(all, {
 	filter: filterOther,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsGreen,
 	onEachFeature: onFeature
 });
 
@@ -158,7 +210,7 @@ function filterDisorderly(feature) {
 
 var disorderly = L.geoJSON(all, {
 	filter: filterDisorderly,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsGreen2,
 	onEachFeature: onFeature
 });
 
@@ -169,7 +221,7 @@ function filterPedestrian(feature) {
 
 var pedestrian = L.geoJSON(all, {
 	filter: filterPedestrian,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsTeal,
 	onEachFeature: onFeature
 });
 
@@ -180,7 +232,7 @@ function filterTrafficStop(feature) {
 
 var traffic_stop = L.geoJSON(all, {
 	filter: filterTrafficStop,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsBlue,
 	onEachFeature: onFeature
 });
 
@@ -191,7 +243,7 @@ function filterTraffic (feature) {
 
 var traffic = L.geoJSON(all, {
 	filter: filterTraffic,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsBlue2,
 	onEachFeature: onFeature
 });
 
@@ -202,7 +254,7 @@ function filterDUI (feature) {
 
 var dui = L.geoJSON(all, {
 	filter: filterDUI,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsPurple,
 	onEachFeature: onFeature
 });
 
@@ -213,7 +265,7 @@ function filterTheft (feature) {
 
 var theft = L.geoJSON(all, {
 	filter: filterTheft,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsPurple2,
 	onEachFeature: onFeature
 });
 
@@ -224,7 +276,7 @@ function filterAssaults (feature) {
 
 var assaults = L.geoJSON(all, {
 	filter: filterAssaults,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsMagenta,
 	onEachFeature: onFeature
 });
 
@@ -235,7 +287,7 @@ function filterSuspicious (feature) {
 
 var suspicious = L.geoJSON(all, {
 	filter: filterSuspicious,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsBrown,
 	onEachFeature: onFeature
 });
 
@@ -246,7 +298,7 @@ function filterWelfare (feature) {
 
 var welfare = L.geoJSON(all, {
 	filter: filterWelfare,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsGray,
 	onEachFeature: onFeature
 });
 
@@ -257,7 +309,7 @@ function filterVehicle (feature) {
 
 var vehicle = L.geoJSON(all, {
 	filter: filterVehicle,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsGreen,
 	onEachFeature: onFeature
 });
 
@@ -268,7 +320,7 @@ function filterPenal (feature) {
 
 var penal = L.geoJSON(all, {
 	filter: filterPenal,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsGreen2,
 	onEachFeature: onFeature
 });
 
@@ -279,7 +331,7 @@ function filterForgery (feature) {
 
 var forgery = L.geoJSON(all, {
 	filter: filterForgery,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsTeal,
 	onEachFeature: onFeature
 });
 
@@ -290,7 +342,7 @@ function filterFraud (feature) {
 
 var fraud = L.geoJSON(all, {
 	filter: filterFraud,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsBlue,
 	onEachFeature: onFeature
 });
 
@@ -301,7 +353,7 @@ function filterMotorTheft (feature) {
 
 var motor = L.geoJSON(all, {
 	filter: filterMotorTheft,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsBlue2,
 	onEachFeature: onFeature
 });
 
@@ -312,7 +364,7 @@ function filterRape (feature) {
 
 var rape = L.geoJSON(all, {
 	filter: filterRape,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsPurple,
 	onEachFeature: onFeature
 });
 
@@ -323,7 +375,7 @@ function filterSex (feature) {
 
 var sex = L.geoJSON(all, {
 	filter: filterSex,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsPurple2,
 	onEachFeature: onFeature
 });
 
@@ -334,7 +386,7 @@ function filterDrug (feature) {
 
 var drug = L.geoJSON(all, {
 	filter: filterDrug,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsMagenta,
 	onEachFeature: onFeature
 });
 
@@ -345,7 +397,7 @@ function filterFire (feature) {
 
 var fire = L.geoJSON(all, {
 	filter: filterFire,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsBrown,
 	onEachFeature: onFeature
 });
 
@@ -356,7 +408,7 @@ function filterBurglary (feature) {
 
 var burglary = L.geoJSON(all, {
 	filter: filterBurglary,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsGray,
 	onEachFeature: onFeature
 });
 
@@ -367,7 +419,7 @@ function filterVandalism (feature) {
 
 var vandalism = L.geoJSON(all, {
 	filter: filterVandalism,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsGreen,
 	onEachFeature: onFeature
 });
 
@@ -378,7 +430,7 @@ function filterHealth (feature) {
 
 var health = L.geoJSON(all, {
 	filter: filterHealth,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsGreen2,
 	onEachFeature: onFeature
 });
 
@@ -389,7 +441,7 @@ function filterBike (feature) {
 
 var bike = L.geoJSON(all, {
 	filter: filterBike,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsTeal,
 	onEachFeature: onFeature
 });
 
@@ -400,7 +452,7 @@ function filterBusiness (feature) {
 
 var business = L.geoJSON(all, {
 	filter: filterBusiness,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsBlue,
 	onEachFeature: onFeature
 });
 
@@ -411,7 +463,7 @@ function filterDemonstration (feature) {
 
 var demonstration = L.geoJSON(all, {
 	filter: filterDemonstration,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsBlue2,
 	onEachFeature: onFeature
 });
 
@@ -422,7 +474,7 @@ function filterRobbery (feature) {
 
 var robbery = L.geoJSON(all, {
 	filter: filterRobbery,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsPurple,
 	onEachFeature: onFeature
 });
 
@@ -433,7 +485,7 @@ function filterStolen (feature) {
 
 var stolen = L.geoJSON(all, {
 	filter: filterStolen,
-	pointToLayer: showPoints,
+	pointToLayer: showPointsPurple2,
 	onEachFeature: onFeature
 });
 
@@ -441,7 +493,7 @@ var stolen = L.geoJSON(all, {
 var mymap = L.map('map', {
 	center: [37.871896, -122.258541],
 	zoom: 15,
-	layers: [street, march]
+	layers: [street, all_months]
 });
 
 // base maps: mutually exclusive + should always be visible
@@ -494,9 +546,8 @@ L.control.groupedLayers(baseMaps, groupedOverlays).addTo(mymap);
 
   </script>
 
-	<h4 class="titles">Heat Map</h4>
-	<p class="paragraph">Heat map showing density of crimes from January to March 2019</p>
-
+	<h2 class="titles">Heat Map</h2>
+	
 	<!--map #2-->
 	<div id ="map2"></div>
 
@@ -517,8 +568,6 @@ L.control.groupedLayers(baseMaps, groupedOverlays).addTo(mymap);
 	L.heatLayer(coords, {radius:10,blur:15,maxZoom:11,gradient:{0.4:'yellow', 1:'red'}}).addTo(heatmap);
 
 	</script>
-
-
 
 </body>
 </html>
