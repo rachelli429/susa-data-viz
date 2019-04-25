@@ -530,7 +530,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -77.434741,37.534153 ]
+       "coordinates":  [ -122.34974,37.936185 ]
     },
     "properties": {
     "Date":"2019-01-31",

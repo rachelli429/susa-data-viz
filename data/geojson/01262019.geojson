@@ -50,7 +50,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -122.249005,37.863267 ]
     },
     "properties": {
     "Date":"2019-01-26",
@@ -65,7 +65,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 122.255116,37.869305 ]
+       "coordinates":  [ -122.255116,37.869305 ]
     },
     "properties": {
     "Date":"2019-01-26",

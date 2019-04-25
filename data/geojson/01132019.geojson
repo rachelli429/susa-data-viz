@@ -95,21 +95,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "Date":"2019-01-13",
-    "Time":"1:16",
-    "Category":"MAINTENANCE ISSUE",
-    "Incident Description":"CAMPUS CONDITION-GROUNDS",
-    "Location":"N/SIDE OF CAMPUS",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -122.26593,37.870599 ]
     },
     "properties": {
@@ -305,7 +290,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.282099,37.862077 ]
     },
     "properties": {
     "Date":"2019-01-13",
@@ -350,7 +335,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.256517,37.865358 ]
     },
     "properties": {
     "Date":"2019-01-13",
@@ -455,7 +440,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.264983,37.871943 ]
     },
     "properties": {
     "Date":"2019-01-13",

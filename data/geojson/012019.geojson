@@ -725,7 +725,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.2817367,37.8724805 ]
     },
     "properties": {
     "Date":"2019-01-07",
@@ -1145,7 +1145,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.255116,37.869305 ]
     },
     "properties": {
     "Date":"2019-01-08",
@@ -1295,7 +1295,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.263354,37.866344 ]
     },
     "properties": {
     "Date":"2019-01-08",
@@ -1325,7 +1325,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.258539,37.871915 ]
     },
     "properties": {
     "Date":"2019-01-08",
@@ -1370,7 +1370,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.299579,37.883451 ]
     },
     "properties": {
     "Date":"2019-01-08",
@@ -1490,7 +1490,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.258365,37.865478 ]
     },
     "properties": {
     "Date":"2019-01-09",
@@ -1850,7 +1850,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.305078,37.883889 ]
     },
     "properties": {
     "Date":"2019-01-10",
@@ -1970,7 +1970,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.258539,37.871915 ]
     },
     "properties": {
     "Date":"2019-01-10",
@@ -2090,7 +2090,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.258138,37.868105 ]
     },
     "properties": {
     "Date":"2019-01-11",
@@ -2315,7 +2315,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.302506,37.88307 ]
     },
     "properties": {
     "Date":"2019-01-12",
@@ -2465,7 +2465,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.3039465,37.8903215 ]
     },
     "properties": {
     "Date":"2019-01-12",
@@ -2780,21 +2780,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "Date":"2019-01-13",
-    "Time":"1:16",
-    "Category":"MAINTENANCE ISSUE",
-    "Incident Description":"CAMPUS CONDITION-GROUNDS",
-    "Location":"N/SIDE OF CAMPUS",
-    "Synopsis":"NA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -122.26593,37.870599 ]
     },
     "properties": {
@@ -2990,7 +2975,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.282099,37.862077 ]
     },
     "properties": {
     "Date":"2019-01-13",
@@ -3035,7 +3020,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.256517,37.865358 ]
     },
     "properties": {
     "Date":"2019-01-13",
@@ -3140,7 +3125,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.259855,37.873388 ]
     },
     "properties": {
     "Date":"2019-01-13",
@@ -3493,7 +3478,7 @@
     "Category":"WELFARE CHECK",
     "Incident Description":"WELFARE CHECK",
     "Location":"PEOPLES PARK",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3553,7 +3538,7 @@
     "Category":"VANDALISM",
     "Incident Description":"MALICIOUS MISCHIEF -REPORT",
     "Location":"CAMPBELL HALL",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3568,7 +3553,7 @@
     "Category":"VANDALISM",
     "Incident Description":"MALICIOUS MISCHIEF -REPORT",
     "Location":"CESAR CHAVEZ CENTER",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3583,7 +3568,7 @@
     "Category":"LARCENY/THEFT",
     "Incident Description":"PETTY THEFT -REPORT",
     "Location":"UNDERHILL LOT",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3598,7 +3583,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"LINCOLN/SHATTUCK",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3613,7 +3598,7 @@
     "Category":"WELFARE CHECK",
     "Incident Description":"CHECK WELFARE- 911 CALL",
     "Location":"ENERGY BIOSCIENCES INSTITUTE",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3628,7 +3613,7 @@
     "Category":"WELFARE CHECK",
     "Incident Description":"CHECK WELFARE- 911 CALL",
     "Location":"LBNL-74",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3643,7 +3628,7 @@
     "Category":"VEHICLE CODE VIOLATION",
     "Incident Description":"VEHICLE CODE VIOLATION",
     "Location":"MONROE STREET",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3658,7 +3643,7 @@
     "Category":"PEDESTRIAN STOP",
     "Incident Description":"SUSPECT STOP",
     "Location":"PEOPLES PARK",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3673,7 +3658,7 @@
     "Category":"PEDESTRIAN STOP",
     "Incident Description":"SUSPECT STOP",
     "Location":"PEOPLES PARK",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3688,7 +3673,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"2400 BLK CHANNING",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3703,7 +3688,7 @@
     "Category":"SUSPICIOUS EVENT",
     "Incident Description":"SUSPICIOUS PACKAGE",
     "Location":"HAAS BUSINESS SCHOOL",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3748,7 +3733,7 @@
     "Category":"ROBBERY",
     "Incident Description":"ROBBERY -REPORT",
     "Location":"GRINNELL PATH",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3763,7 +3748,7 @@
     "Category":"HEALTH AND SAFETY CODE VIOLATION",
     "Incident Description":"HEALTH AND SAFETY CODE",
     "Location":"EVANS HALL",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3778,7 +3763,7 @@
     "Category":"SUSPICIOUS EVENT",
     "Incident Description":"SUSPICIOUS PERSON",
     "Location":"335 OHLONE AVE",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3793,7 +3778,7 @@
     "Category":"SUSPICIOUS EVENT",
     "Incident Description":"SUSPICIOUS VEHICLE",
     "Location":"335 WEST END WAY",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3890,7 +3875,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.866334,37.866334 ]
+       "coordinates":  [ -122.263354,37.866344 ]
     },
     "properties": {
     "Date":"2019-01-16",
@@ -4775,7 +4760,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.866334,37.866334 ]
+       "coordinates":  [ -122.263354,37.866344 ]
     },
     "properties": {
     "Date":"2019-01-17",
@@ -8600,7 +8585,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 122.255116,37.869305 ]
+       "coordinates":  [ -122.255116,37.869305 ]
     },
     "properties": {
     "Date":"2019-01-25",
@@ -8660,7 +8645,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 122.255116,37.869305 ]
+       "coordinates":  [ -122.255116,37.869305 ]
     },
     "properties": {
     "Date":"2019-01-25",
@@ -8720,7 +8705,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -122.249005,37.863267 ]
     },
     "properties": {
     "Date":"2019-01-26",
@@ -8735,7 +8720,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 122.255116,37.869305 ]
+       "coordinates":  [ -122.255116,37.869305 ]
     },
     "properties": {
     "Date":"2019-01-26",
@@ -11555,7 +11540,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -77.434741,37.534153 ]
+       "coordinates":  [ -122.349740,37.936185 ]
     },
     "properties": {
     "Date":"2019-01-31",

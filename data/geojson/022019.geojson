@@ -65,7 +65,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.253317,37.859861 ]
     },
     "properties": {
     "Date":"2019-02-01",
@@ -590,7 +590,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.300283,37.883262 ]
     },
     "properties": {
     "Date":"2019-02-03",
@@ -830,7 +830,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.298707,37.884307 ]
     },
     "properties": {
     "Date":"2019-02-04",
@@ -1010,7 +1010,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.2616499,37.8703613 ]
     },
     "properties": {
     "Date":"2019-02-04",
@@ -1055,7 +1055,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.258539,37.871915 ]
     },
     "properties": {
     "Date":"2019-02-04",
@@ -1205,7 +1205,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.264121,37.868224 ]
     },
     "properties": {
     "Date":"2019-02-04",
@@ -1220,7 +1220,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.302467,37.883524 ]
     },
     "properties": {
     "Date":"2019-02-05",
@@ -1235,7 +1235,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.259746,37.865751 ]
     },
     "properties": {
     "Date":"2019-02-05",
@@ -1325,7 +1325,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.299581,37.883450 ]
     },
     "properties": {
     "Date":"2019-02-05",
@@ -1370,7 +1370,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.258080,37.867637 ]
     },
     "properties": {
     "Date":"2019-02-05",
@@ -1430,7 +1430,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.299745,37.881616 ]
     },
     "properties": {
     "Date":"2019-02-05",
@@ -1460,7 +1460,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.258688,37.877216 ]
     },
     "properties": {
     "Date":"2019-02-05",
@@ -1685,7 +1685,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.302504,37.88307 ]
+       "coordinates":  [ -122.302506,37.88307 ]
     },
     "properties": {
     "Date":"2019-02-06",
@@ -2420,7 +2420,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.258539,37.871915 ]
     },
     "properties": {
     "Date":"2019-02-07",
@@ -2653,7 +2653,7 @@
     "Category":"PEDESTRIAN STOP",
     "Incident Description":"SUSPECT STOP",
     "Location":"PEOPLES PARK",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -2668,7 +2668,7 @@
     "Category":"PEDESTRIAN STOP",
     "Incident Description":"SUSPECT STOP",
     "Location":"OXFORD HEARST",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -2683,7 +2683,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"CHANN UNIT 3",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -2698,7 +2698,7 @@
     "Category":"PEDESTRIAN STOP",
     "Incident Description":"SUSPECT STOP",
     "Location":"REC SPRT FAC GARAGE",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -2713,7 +2713,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"COLL S DUR",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -2750,7 +2750,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.255385,37.870860 ]
     },
     "properties": {
     "Date":"2019-02-08",
@@ -2758,14 +2758,14 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"OPTOMETRY WAY",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.255385,37.870860 ]
     },
     "properties": {
     "Date":"2019-02-08",
@@ -2773,7 +2773,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"OPT WAY",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -2788,7 +2788,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"OX N HEARST",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -2803,7 +2803,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"ASUC GARAGE",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -2818,7 +2818,7 @@
     "Category":"SUSPICIOUS EVENT",
     "Incident Description":"SUSPICIOUS PERSON",
     "Location":"GPB GARAGE",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -2848,7 +2848,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"DUR IFO TANG",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -2878,7 +2878,7 @@
     "Category":"OUTSIDE ASSIST",
     "Incident Description":"OUTSIDE ASSIST - BPD",
     "Location":"MLK JR WAY",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -2938,7 +2938,7 @@
     "Category":"ALL OTHER OFFENSES",
     "Incident Description":"RULE VIOLATION",
     "Location":"ANNA HEAD",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -2953,7 +2953,7 @@
     "Category":"SUSPICIOUS EVENT",
     "Incident Description":"SUSPICIOUS PERSON",
     "Location":"REC SPRT FAC GARAGE",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3013,7 +3013,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"DURANT E FULTON",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3028,14 +3028,14 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"TELE DURANT",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.256339,37.866327 ]
     },
     "properties": {
     "Date":"2019-02-08",
@@ -3043,7 +3043,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"HASTE BOWDITCH",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3058,14 +3058,14 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"2500 CHANNING",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.258513,37.869749 ]
     },
     "properties": {
     "Date":"2019-02-08",
@@ -3073,7 +3073,7 @@
     "Category":"SUSPICIOUS EVENT",
     "Incident Description":"SUSPICIOUS VEHICLE",
     "Location":"BARROW LANE",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3088,7 +3088,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"2500 BLK DURANT",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3103,7 +3103,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"CHANNING DANA",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3118,7 +3118,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"DURANT COLLEGE",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3148,7 +3148,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"UNI MLK",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3178,7 +3178,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"BOWDITCH CHANNING",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3193,7 +3193,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"BANCROFT IFO BOALT",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3208,7 +3208,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"BANCROFT IFO BLACKWELL",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3223,7 +3223,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"BANCROFT IFO DANA",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3238,7 +3238,7 @@
     "Category":"TRAFFIC STOP",
     "Incident Description":"TRAFFIC STOP",
     "Location":"DURANT TELEGRAPH",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3253,7 +3253,7 @@
     "Category":"DISORDERLY CONDUCT",
     "Incident Description":"LODGING",
     "Location":"UNIVERSITY HALL",
-    "Synopsis":""
+    "Synopsis":"NA"
     }
   },
   {
@@ -3455,7 +3455,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.255453,37.873788 ]
     },
     "properties": {
     "Date":"2019-02-09",
@@ -3485,7 +3485,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.257161,37.875733 ]
     },
     "properties": {
     "Date":"2019-02-09",

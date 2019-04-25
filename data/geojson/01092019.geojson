@@ -95,7 +95,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
+       "coordinates":  [ -122.258365,37.865478 ]
     },
     "properties": {
     "Date":"2019-01-09",
